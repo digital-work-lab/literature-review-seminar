@@ -1,73 +1,62 @@
 # The literature review seminar
 
-TODO : präsentationstermin festlegen
+TODO:
+
+- [ ] create/update handbook 30.11, create the seminar instance in 34.02.
+
+3 ECTS / 90 h
 
 ## Goals
 
-- Forms of literature reviews (their role for a paper, as a standalone review, for phd theses/careers) - other forms of non-empirical papers
-- Understand goals and types (including dimensions / knowledge building activities)
-- Right review tool
+- teach LR methods
+- technology/colrev?
+- select best students
+- individually/not in groups (specific topics)
 
-- Application: classify example papers
-- Discussion of own proposals (15-20 min: prep short slide/pitch)
+## Format:
 
-<!-- 
-Topic 1
-Topic 2
-Topic 3A
-Topic 3B
+- Announce: limited number of slots
+- Methods expert, prepare for master's or PhD thesis
+- Open topic (pre-phase: assess suitability), e.g., in future of work, digital transformation, impacts and value of IT, novel technologies (TODO : copy from conference programs)
+- Ask about research question, type of review
+- Ask about familiarity with review tools (if any)
+- Proficiency with/interest in Github/colrev
 
-Examples:
-Topic 5
-Topic 6
-Topic 7
-Topic 8
-Topic 9
- -->
+## Sessions:
+
+- Individual pre-Sessions (if neccessary)
+
+- [Introduction](00-orga/slides.md)
+- [1. Goals and types of reviews](01-goals/slides.md)
+- [2. Process of literature reviews](02-process/slides.md)
+- [3. Qualities of literature reviews](03-qualities/slides.md)
+- [4. Tools for literature reviews](04-tools/slides.md)
+
+27.10.2023 - 8-12 und 13-17
+
+3.11.2023 - 3-12 und 13-17
+
+- intermediate short presentation/discussion/feedback session: between 3. and 4.
+- presentation and submission
+ 
+## Evaluation
+
+Protocol (no complete LR)
+
+Abgabe der finalen schriftlichen Arbeit: bis DD-MM-YYYY CC:CC Uhr. Die Abgabe der Seminararbeit erfolgt digital per Upload im Virtuellen Campus (VC).
+Abgabe der Präsentation: Am Donnerstag vor dem Seminar: DD-MM-YYYY CC:CC Uhr
+
+Die Bewertung der Modulleistung setzt sich wie folgt zusammen:
+
+* 67 Prozent schriftliche Leistung
+
+* 33 Prozent mündliche Leistung (Vortrag und Diskussion)
+
+Für das Bestehen des Seminars müssen beide Teilleistungen mit mindestens ausreichend bestanden werden. Auf § 9 Abs. 10 der APO der Fakultät Wirtschaftsinformatik und Angewandte Informatik sei an dieser Stelle verwiesen. 
 
 
-## Process
+Der Umfang von 12 Seiten (Text) darf nicht über- oder unterschritten werden.
 
-- Generic steps
-
-    - Problem formulation: methodological coherence objectives/type/methods
-    - Search: Gusenbauer, SearchStrategies vs. hermeneutic approach
-    - Screen: pre/full-text screen, criteria, parallel-independent, PRISMA flowchart
-    - Data analysis: different forms
-
-- Protocols
-
-- Application: draft a search strategy following the Concept/Synonym groups
-- Discussion of protocol (short outline)
-
-<!-- 
-Topic 4A
-Topic 4B
-Grounded theory: Topic 11
--->
-
-## Qualities
-
-- Guidelines per section (see topic 11), such as building blocks of an introduction
-- Scientific impact
-- Transparency / reporting
-- Theoretical contribution
-- Deep engagement (AI/generative AI? - reading not part of the process?)
-
-- Application: identify prior reviews and give a short overview
-- Discussion: which qualities would be most important for your review? Identify an example to showcase how those qualities can be achieve.
-
-<!-- 
-Topic 11
- -->
-
-## Tools
-
-<!-- Warm-up: have you worked with research software, what should the ideal literature review tools offer? -->
-
-- Tools x typological pluralism
-- Good overview of covidence etc.
-- Covid-review
-- CoLRev: short overview of the vision / walk-through
-
-- Application: Prototype test an application (few papers)
+Die schriftliche Arbeit ist auf Englisch zu verfassen
+Die Präsentation muss auf Englisch gehalten werden
+Diskussion: Englisch oder Deutsch?
