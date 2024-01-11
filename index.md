@@ -1,8 +1,34 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+description: "Welcome"
+permalink: /
 ---
 
 # The literature review seminar
 
-TBA
+Welcome to the literature review seminar. We focus on state-of-the-art methods and tools, delivered for Master's students, Ph.D. students, and researchers in the Information Systems, Management, and Organizational Sciences.
+
+The objectives are to:
+
+- Distinguish the different goals and types of literature reviews
+- Understand the steps fo the process
+- Appreciate the qualities of a good review paper
+- Familiarize with the available research software
+
+My name is [Gerit Wagner](docs/instructor.html), I have worked extensively in this area, and I love to share my excitement for literature review methods.
+
+## Sign up!
+
+- The seminar is taught in two full-day sessions at the University of Bamberg.
+- It is open to participants from other departments and universities.
+- Students can earn 3 ECTS by submitting a review protocol [TODO : add link].
+- Registration is free.
+
+## Schedule
+
+| Date | Status |
+--- |--- |--- |
+ May 16/17 2024 (tentative) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
+ October 27 and November 3 2023 | Completed |
