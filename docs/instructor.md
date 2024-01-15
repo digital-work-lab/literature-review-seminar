@@ -2,7 +2,7 @@
 layout: default
 title: Instructor
 has_toc: true
-nav_order: 1
+nav_order: 6
 ---
 
 # Instructor

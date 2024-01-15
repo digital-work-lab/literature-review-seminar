@@ -8,16 +8,16 @@ permalink: /
 
 # The literature review seminar
 
-Welcome to the literature review seminar. We focus on state-of-the-art methods and tools, delivered for Master's students, Ph.D. students, and researchers in the Information Systems, Management, and Organizational Sciences.
+Welcome to the literature review seminar. Our goal is to teach state-of-the-art literature review methods and tools to Master's students, Ph.D. students, and researchers in the Information Systems, Management, and Organizational Sciences.
 
-The objectives are to:
+The learning objectives of the seminar are to:
 
 - Distinguish the different goals and types of literature reviews
 - Understand the steps fo the process
 - Appreciate the qualities of a good review paper
 - Familiarize with the available research software
 
-My name is [Gerit Wagner](docs/instructor.html), I have worked extensively in this area, and I love to share my excitement for literature review methods.
+My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I have worked extensively in this area, and I love to share my excitement for literature review methods.
 
 ## Sign up!
 
