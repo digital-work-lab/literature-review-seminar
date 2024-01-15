@@ -24,11 +24,22 @@ My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I hav
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
 - Students can earn 3 ECTS by submitting a review protocol [TODO : add link].
-- Registration is free.
+- There are no registration frees.
 
 ## Schedule
 
-| Date | Status |
---- |--- |--- |
- May 16/17 2024 (tentative) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
- October 27 and November 3 2023 | Completed |
+| Semester | Date | Status |
+--- |--- |--- |--- |
+ Summer 2024 | May 16/17 2024 (tentative) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
+ Winter 2023/24 | October 27 and November 3 2023 | Completed |
+
+<!-- 
+slides
+resources and links
+instructor
+
+TBD: include a picture?
+TODO : make group fotos and publish
+
+objectives: mention tools and open synthesis?
+-->
