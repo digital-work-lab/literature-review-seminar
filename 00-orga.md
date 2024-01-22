@@ -106,7 +106,7 @@ Acquire a broad understanding of
 ## Outcome
 
 - A **review protocol** applying this understanding
-- The [evaluation criteria and resources for theses apply](https://digital-work-lab.github.io/handbook/docs/teaching/30_processes/30.40.theses.html) (length: approx. 15 pages)
+- [Criteria and resources](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) are available online
 - Submission: January 26, presentation: February 1
 
 <!-- 

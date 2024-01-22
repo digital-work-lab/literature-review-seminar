@@ -23,7 +23,7 @@ My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I hav
 
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
-- Students can earn 3 ECTS by submitting a review protocol [TODO : add link].
+- Students can earn 3 ECTS by submitting a [review protocol](docs/protocol.html).
 - There are no registration frees.
 
 ## Schedule
