@@ -2,7 +2,7 @@
 layout: default
 title: Review Protocol
 has_toc: true
-nav_order: 7
+nav_order: 4
 ---
 
 # Review Protocol

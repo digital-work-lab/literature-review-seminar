@@ -12,12 +12,20 @@ Welcome to the literature review seminar. Our goal is to teach state-of-the-art 
 
 The learning objectives of the seminar are to:
 
+**Day 1**
+
 - Distinguish the different goals and types of literature reviews
 - Understand the steps fo the process
+
+**Day 2**
+
 - Appreciate the qualities of a good review paper
 - Familiarize with the available research software
 
-My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I have worked extensively in this area, and I love to share my excitement for literature review methods.
+**Follow-up**
+
+- Write a review protocol to complete the seminar and/or develop a review paper
+- Participants can [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review
 
 ## Sign up!
 
@@ -26,12 +34,22 @@ My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I hav
 - Students can earn 3 ECTS by submitting a [review protocol](docs/protocol.html).
 - There are no registration frees.
 
-## Schedule
-
 | Semester | Date | Status |
 --- |--- |--- |--- |
  Summer 2024 | May 16/17 2024 (tentative) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
  Winter 2023/24 | October 27 and November 3 2023 | Completed |
+
+## Instructor
+
+<img src="assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 220px; float: left; padding-right: 10px;">
+
+**Gerit Wagner**  
+*Assistant Professor of Information Systems*  
+*Otto-Friedrich Universität Bamberg*
+
+My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I have worked extensively in this area, and I love to share my excitement for a variety of literature review topics, types, methods, and tools.
+
+<br style="clear:both">
 
 <!-- 
 slides

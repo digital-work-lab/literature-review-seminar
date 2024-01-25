@@ -26,15 +26,13 @@ TODO:
 
 - Individual pre-Sessions (if neccessary)
 
-- [Introduction](00-orga/slides.md)
-- [1. Goals and types of reviews](01-goals/slides.md)
-- [2. Process of literature reviews](02-process/slides.md)
-- [3. Qualities of literature reviews](03-qualities/slides.md)
-- [4. Tools for literature reviews](04-tools/slides.md)
+- [Introduction](00-orga.md)
+- [1. Goals and types of reviews](01-goals.md)
+- [2. Process of literature reviews](02-process.md)
+- [3. Qualities of literature reviews](03-qualities.md)
+- [4. Tools for literature reviews](04-tools.md)
 
-27.10.2023 - 8-12 und 13-17
-
-3.11.2023 - 3-12 und 13-17
+TBD:
 
 - intermediate short presentation/discussion/feedback session: between 3. and 4.
 - presentation and submission
