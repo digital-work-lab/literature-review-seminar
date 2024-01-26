@@ -7,7 +7,9 @@ nav_order: 5
 
 # Instructor
 
-<img src="../assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 260px; float: left; padding-right: 10px;">
+<img src="../assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 220px; float: left; padding-right: 10px;">
+
+<br><br>
 
 **Gerit Wagner**  
 *Assistant Professor of Information Systems*  
@@ -23,16 +25,13 @@ It brings together students from Information Systems, Organizational Behavior, I
 Several of the review projects initiated in these seminars were published in reputable journals and conferences.
 The goal is to draw inspiration from this example, and to offer a literature review seminar that serves as a springboard for high-quality review papers.
 
-
 Gerit is an active researcher in the field of Information Systems, with a strong focus on literature reviews and methodology.
-He has a record of publishing in esteemed journals like the Journal of Strategic Information Systems (JSIS) and the Journal of Information Technology (JIT), and his work was recently awarded with the JIT Best Paper Prize.
-Gerit regularly contributes to the scientific discourse on literature reviews, he has lead a DFG-funded project named EPIQUALIS, and develops open-source literature review software such as [ColRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and [BibDedupe](https://github.com/CoLRev-Environment/bib-dedupe){: target="_blank"}.
-His commitment to the academic community is further evident in his regular service as a reviewer for various journals and conferences.
-A list of papers, projects, and accomplishments is attached.
+Gerit regularly contributes to the scientific discourse on literature reviews, and his work has been published in journals like the Journal of Strategic Information Systems (JSIS), the Journal of Information Technology (JIT), and Information & Management (I&M), and his work was recently awarded with the JIT Best Paper Prize in 2023.
+Gerit he has lead a DFG-funded project named EPIQUALIS, and develops open-source literature review software such as [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and [BibDedupe](https://github.com/CoLRev-Environment/bib-dedupe){: target="_blank"}.
 
-**Publications**
+**Selected publications**
 
-Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” Communications of the Association for Information Systems, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
+Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
 
 Wagner, G., Prester, J., Roche, M. P., Schryen, G., Benlian, A., Paré, G., and Templier, M. 2021 “Which Factors Affect the Scientific Impact of Review Papers in IS Research? A Scientometric Study”. *Information & Management*, 58(3), 103427. doi:[10.1016/j.im.2021.103427](https://www.sciencedirect.com/science/article/abs/pii/S037872062100001X){: target="_blank"}
 

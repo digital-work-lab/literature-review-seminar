@@ -1,12 +1,11 @@
 ---
 layout: default
-title: "Day 1"
+title: "Day 1: Goals and process"
 has_toc: true
 nav_order: 2
 ---
 
 # Day 1: Goals and process
-
 
 ## Goals
 
