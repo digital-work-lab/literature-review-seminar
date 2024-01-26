@@ -8,9 +8,19 @@ permalink: /
 
 # The literature review seminar
 
-Welcome to the literature review seminar. Our goal is to teach state-of-the-art literature review methods and tools to Master's students, Ph.D. students, and researchers in the Information Systems, Management, and Organizational Sciences.
+Welcome to the literature review seminar.
+The seminar is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools. The seminar covers four key areas:
 
-The learning objectives of the seminar are to:
+1. Goals: Participants will learn to differentiate various review forms and their objectives, understanding the nuances and dimensions of each type.
+
+2. Process: The seminar focuses on the generic steps of the literature review process, emphasizing the importance of methodological choices in searching, screening, and analysis.
+
+3. Qualities: It highlights the diverse qualities of literature reviews, from methodological rigor to theoretical contributions, and teaches how to evaluate these qualities based on the type of review.
+
+4. Tools: The course introduces tools that support literature review processes, including traditional and emerging technologies like generative AI, and guides participants in selecting appropriate tools for different methodologies.
+
+<!-- 
+We will cover the following contents:
 
 **Day 1**
 
@@ -21,11 +31,13 @@ The learning objectives of the seminar are to:
 
 - Appreciate the qualities of a good review paper
 - Familiarize with the available research software
+-->
 
 **Follow-up**
 
-- Write a review protocol to complete the seminar and/or develop a review paper
-- Participants can [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review
+- Master's students can write a review protocol to complete the seminar
+- Doctoral students and external participants can use the seminar to develop a review paper
+- All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review
 
 ## Sign up!
 
