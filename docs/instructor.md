@@ -7,7 +7,7 @@ nav_order: 5
 
 # Instructor
 
-<img src="assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 260px; float: left; padding-right: 10px;">
+<img src="../assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 260px; float: left; padding-right: 10px;">
 
 **Gerit Wagner**  
 *Assistant Professor of Information Systems*  
