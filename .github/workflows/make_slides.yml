@@ -1,0 +1,24 @@
+name: marp-slides
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup git
+      run: |
+        git config --global user.name "Slide updates"
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global url.https://github.com/.insteadOf git://github.com/
+    - name: checkout repo
+      uses: actions/checkout@main
+    - name: build application
+      run: make slides
+    - name: Commit changes
+      run: |
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m 'update slides'
