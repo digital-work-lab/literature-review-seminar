@@ -7,6 +7,10 @@ nav_order: 2
 
 # Day 1: Goals and process
 
+**Introduction**
+
+- [Access slides](../output/00-orga.html){: target="_blank"}
+
 ## Goals
 
 **Learning objectives**

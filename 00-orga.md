@@ -107,7 +107,9 @@ Acquire a broad understanding of
 
 - A **review protocol** applying this understanding
 - [Criteria and resources](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) are available online
-- Submission: January 26, presentation: February 1
+- Submission: **TBA** 
+
+<!-- January 26, presentation: February 1 -->
 
 <!-- 
 Mich vorstellen:
@@ -115,7 +117,6 @@ Mich vorstellen:
 - Regensburg
 
 ## Your expectations for the lecture "Introduction to Digital Work"
-
 
 Studiengänge?
 Semester?
