@@ -49,6 +49,11 @@ Appendix:
 - Intended registration (optional)
 - Other declarations (optional)
 
+References (quality and completeness)
+
+Plagiarism check
+
+
 ## Resources
 
 Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. *Journal of Decision Systems*, 1-17. [link](https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701)
