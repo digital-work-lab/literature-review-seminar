@@ -21,7 +21,7 @@ Rowe, F. (2014). What literature review is not: diversity, boundaries and recomm
 
 Paré, G., Trudel, M. C., Jaana, M., & Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. *Information & Management*, 52(2), 183-199. doi:[10.1016/j.im.2014.08.008](https://www.sciencedirect.com/science/article/pii/S0378720614001116){: target="_blank"}
 
-Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” Communications of the Association for Information Systems, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
+Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
 
 **Slides**
 
