@@ -9,7 +9,8 @@ permalink: /
 # The literature review seminar
 
 Welcome to the literature review seminar.
-The seminar is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools. The seminar covers four key areas:
+The seminar is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
+The seminar starts with **two days** in which we cover four key areas:
 
 1. **Goals** Participants will learn to differentiate various review forms and their objectives, understanding the nuances and dimensions of each type.
 
@@ -33,17 +34,18 @@ We will cover the following contents:
 - Familiarize with the available research software
 -->
 
-**Follow-up**
+**Seminar paper**
 
-- Master's students can write a review protocol to complete the seminar
-- Doctoral students and external participants can use the seminar to develop a review paper
-- All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review
+Participants are expected to select a topic of their choice (**open-topic**) and work on a review project
+
+- Master's students can write a [review protocol](docs/protocol.html) to complete the seminar and 3 ECTS.
+- Doctoral students and external participants can use the seminar to develop a review paper.
+- All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review.
 
 ## Sign up!
 
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
-- Students can earn 3 ECTS by submitting a [review protocol](docs/protocol.html).
 - There are no registration frees.
 
 | Semester | Date | Status |
