@@ -18,7 +18,7 @@ nav_order: 5
 <br style="clear:both">
 
 [Gerit Wagner](docs/instructor.html) is an assistant professor at the University of Bamberg ([1](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}).
-Until 2023, he held a postdoctoral fellowship at HEC Montréal, working various literature review topics with with Guy Paré.
+Until 2023, he held a postdoctoral fellowship at HEC Montréal, working on various literature review topics with Guy Paré.
 During this time, Gerit served as a teaching assistant for the literature review seminar.
 The seminar is offered for Ph.D. students from HEC Montréal, McGill University, Concordia University, and Université de Montréal a Québec.
 It brings together students from Information Systems, Organizational Behavior, International Management, Marketing, Finance, and Operations Research.
