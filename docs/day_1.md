@@ -48,4 +48,6 @@ Okoli, C. (2015). A guide to conducting a standalone systematic literature revie
 
 Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches. *Communications of the Association for information Systems*, 34, 12. doi:[10.17705/1CAIS.03412](https://aisel.aisnet.org/cais/vol34/iss1/12/){: target="_blank"}
 
+Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. *Journal of Decision Systems*, 1-17. doi:[10.1080/12460125.2023.2197701](https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701)
+
 Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. doi:[10.1080/0960085X.2017.1398880](https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880){: target="_blank"}
