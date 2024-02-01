@@ -20,6 +20,8 @@ The seminar starts with **two days** in which we cover four key areas:
 
 4. **Tools** The course introduces tools that support literature review processes, including traditional and emerging technologies like generative AI, and guides participants in selecting appropriate tools for different methodologies.
 
+Introductory literature is available for [goals and process (day 1)](docs/day_1.html) and [qualities and tools (day 2)](docs/day_2.html).
+
 <!-- 
 We will cover the following contents:
 
@@ -61,7 +63,8 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 *Assistant Professor of Information Systems*  
 *Otto-Friedrich Universität Bamberg*
 
-My name is [Gerit Wagner](docs/instructor.html), and I am your instructor. I have worked extensively in this area, and I love to share my excitement for a variety of literature review topics, types, methods, and tools.
+My name is Gerit Wagner, and I am your instructor. I have worked extensively in this area, and I love to share my excitement for a variety of literature review topics, types, methods, and tools.
+You can read more about my work [here](docs/instructor.html).
 
 <br style="clear:both">
 
