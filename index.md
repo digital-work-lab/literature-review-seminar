@@ -40,7 +40,7 @@ We will cover the following contents:
 
 Participants are expected to select a topic of their choice (**open-topic**) and work on a review project
 
-- Master's students can write a [review protocol](docs/protocol.html) to complete the seminar and 3 ECTS.
+- Master's students can [write and present a review protocol](docs/protocol.html) to complete the seminar and 3 ECTS.
 - Doctoral students and external participants can use the seminar to develop a review paper.
 - All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review.
 
