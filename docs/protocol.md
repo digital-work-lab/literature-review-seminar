@@ -7,7 +7,7 @@ nav_order: 4
 
 # Review Protocol
 
-## Grading criteria
+## Grading criteria: Protocol (70%)
 
 Length: approx. 15 pages
 
@@ -53,8 +53,10 @@ References (quality and completeness)
 
 Plagiarism check
 
-Presentation
 
+## Grading criteria: Presentation (30%)
+
+Length: 10-15 minutes
 
 ## Resources
 
