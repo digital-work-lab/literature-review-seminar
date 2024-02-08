@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Day 1: Goals and process"
+title: "Day 1: Goals and steps"
 has_toc: true
 nav_order: 2
 ---
 
-# Day 1: Goals and process
+# Day 1: Goals and steps
 
 **Introduction**
 
@@ -31,7 +31,7 @@ Paré, G., Trudel, M. C., Jaana, M., & Kitsiou, S. (2015). Synthesizing informat
 
 Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
 
-## Process
+## Steps
 
 **Learning objectives**
 
@@ -40,7 +40,7 @@ Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Develop
 
 **Slides**
 
-[Access slides](../output/02-process.html){: target="_blank"}
+[Access slides](../output/02-steps.html){: target="_blank"}
 
 **Key references**
 

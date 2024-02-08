@@ -98,10 +98,10 @@ Especially macro-level theories. Similarly: RBV -->
 
 Acquire a broad understanding of
 
-- the goals and types of literature reviews
-- the steps of the process
-- the qualities of a good review paper
-- the available research software
+- the **goals** and types of literature reviews
+- the **steps** of the process
+- the **qualities** of a good review paper
+- the **tools** available
 
 ## Outcome
 

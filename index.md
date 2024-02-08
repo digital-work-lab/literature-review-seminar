@@ -14,13 +14,13 @@ The seminar starts with **two days** in which we cover four key areas:
 
 1. **Goals** Participants will learn to differentiate various review forms and their objectives, understanding the nuances and dimensions of each type.
 
-2. **Process** The seminar focuses on the generic steps of the literature review process, emphasizing the importance of methodological choices in searching, screening, and analysis.
+2. **Steps** The seminar focuses on the generic steps of the literature review process, emphasizing the importance of methodological choices in searching, screening, and analysis.
 
 3. **Qualities** It highlights the diverse qualities of literature reviews, from methodological rigor to theoretical contributions, and teaches how to evaluate these qualities based on the type of review.
 
 4. **Tools** The course introduces tools that support literature review processes, including traditional and emerging technologies like generative AI, and guides participants in selecting appropriate tools for different methodologies.
 
-Introductory literature is available for [goals and process (day 1)](docs/day_1.html) and [qualities and tools (day 2)](docs/day_2.html).
+Introductory literature is available for [goals and steps (day 1)](docs/day_1.html) and [qualities and tools (day 2)](docs/day_2.html).
 
 <!-- 
 We will cover the following contents:
