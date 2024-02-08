@@ -31,9 +31,9 @@ Gerit has led the DFG-funded project named EPIQUALIS (Epistemological Advances T
 
 **Selected publications**
 
-Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
+Schryen, G., Wagner, G., Benlian, A., and Paré, G. (2020). “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
 
-Wagner, G., Prester, J., Roche, M. P., Schryen, G., Benlian, A., Paré, G., and Templier, M. 2021 “Which Factors Affect the Scientific Impact of Review Papers in IS Research? A Scientometric Study”. *Information & Management*, 58(3), 103427. doi:[10.1016/j.im.2021.103427](https://www.sciencedirect.com/science/article/abs/pii/S037872062100001X){: target="_blank"}
+Wagner, G., Prester, J., Roche, M. P., Schryen, G., Benlian, A., Paré, G., and Templier, M. (2021). “Which Factors Affect the Scientific Impact of Review Papers in IS Research? A Scientometric Study”. *Information & Management*, 58(3), 103427. doi:[10.1016/j.im.2021.103427](https://www.sciencedirect.com/science/article/abs/pii/S037872062100001X){: target="_blank"}
 
 Wagner, G., Lukyanenko, R., & Paré, G. (2022). Artificial intelligence and the conduct of literature reviews. *Journal of Information Technology*, 37(2), 209-226. doi:[10.1177/0268396221104820](https://journals.sagepub.com/doi/full/10.1177/02683962211048201){: target="_blank"}
 
