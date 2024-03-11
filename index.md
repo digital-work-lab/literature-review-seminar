@@ -50,7 +50,7 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 - It is open to participants from other departments and universities.
 - There are no registration frees.
 
-| Semester | Date | Status |
+| Semester | Date and location | Status |
 --- |--- |--- |--- |
  Summer 2024 | May 10, 8.15-15.45 ([WE5 5.005](https://www.openstreetmap.org/?mlat=49.90306&mlon=10.86963#map=17/49.90306/10.86963){: target="_blank"})<br>May 17, 8.15-15.45 ([WE5 5.005](https://www.openstreetmap.org/?mlat=49.90306&mlon=10.86963#map=17/49.90306/10.86963){: target="_blank"}) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
  Winter 2023/24 | October 27 and November 3, 2023 | Completed |
