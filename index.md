@@ -52,7 +52,7 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 
 | Semester | Date | Status |
 --- |--- |--- |--- |
- Summer 2024 | May 16/17 2024 (tentative) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
+ Summer 2024 | May 10, 8.15-15.45 (WE5 / 05.005)<br>May 17, 8.15-15.45 (WE5 / 05.005) | [Register](mailto:gerit.wagner@uni-bamberg.de) |
  Winter 2023/24 | October 27 and November 3, 2023 | Completed |
 
 ## Instructor
