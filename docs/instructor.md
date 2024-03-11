@@ -26,8 +26,10 @@ Several of the review projects initiated in these seminars were published in rep
 The goal is to draw inspiration from this example, and to offer a literature review seminar that serves as a springboard for high-quality review papers.
 
 Gerit is an active researcher in the field of Information Systems, with a focus on literature reviews and methodology.
-He regularly contributes to the scientific discourse on literature reviews, and his work has been published in journals like the Journal of Strategic Information Systems (JSIS), the Journal of Information Technology (JIT), and Information & Management (I&M), and his work was recently awarded with the JIT Best Paper Prize in 2023.
-Gerit has led the DFG-funded project named EPIQUALIS (Epistemological Advances Through Qualitative Literature Reviews in Information Systems Research), and is the lead developer for open-source literature review software such as [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and [BibDedupe](https://github.com/CoLRev-Environment/bib-dedupe){: target="_blank"}.
+He regularly contributes to the scientific discourse on literature reviews, and his work has been published in journals like the Journal of Strategic Information Systems (JSIS), the Journal of Information Technology (JIT), and Information & Management (I&M).
+His work was recently awarded with the JIT Best Paper Prize in 2023.
+Gerit has led the DFG-funded project named EPIQUALIS (Epistemological Advances Through Qualitative Literature Reviews in Information Systems Research), and currently serves as an associate editor for the Communications of the Association for Information Systems, and the International Conference on Information Systems (focusing on literature review methods).
+He is the lead developer for open-source literature review software such as [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and [BibDedupe](https://github.com/CoLRev-Environment/bib-dedupe){: target="_blank"}.
 
 **Selected publications**
 
