@@ -6,10 +6,6 @@ description: "Welcome"
 permalink: /
 ---
 
-**TODO : update based on this: https://instats.org/seminar/automated-literature-reviews-with-chatgp9337**
-
-TODO : add student feedback
-
 # The literature review seminar
 
 Welcome to the literature review seminar.
