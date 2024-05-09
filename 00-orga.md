@@ -202,7 +202,6 @@ Acknowledgement:
 - Guy Paré: the materials are largely based on his literature review seminar.
 
 <!-- 
----
 
 # Agenda
 

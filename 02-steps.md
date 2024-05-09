@@ -270,7 +270,7 @@ https://en.wikipedia.org/wiki/Cohen%27s_kappa
 
 ## Reporting the search and screen
 
-![center width:500px](../assets/PRISMA-flowchart.png)
+![center width:570px](../assets/PRISMA-flowchart.png)
 
 The PRISMA flow chart (updated version by Tricco et al. 2018)
 
