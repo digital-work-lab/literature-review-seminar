@@ -278,6 +278,8 @@ An online version is available [here](https://estech.shinyapps.io/prisma_flowdia
 
 ---
 
+<!-- _class: centered -->
+
 # Break
 
 ![bg right:60% width:350px](../assets/coffee.jpg)
