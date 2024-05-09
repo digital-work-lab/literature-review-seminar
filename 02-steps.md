@@ -23,7 +23,7 @@ https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-grunem-rasen-sitzen-7rIm
 -->
 ---
 
-## Generic steps I
+## Generic steps: Examples
 
 ![bg right:40% width:400px](../assets/Okoli2015.png)
 
@@ -44,13 +44,13 @@ Okoli: screen before search? (search: "reporting the search")
 
 ---
 
-## Generic steps II: Templier and Paré (2018)
+## Generic steps: Templier and Paré (2018)
 
 ![center width:650px](../assets/Templier2018-table-8-1.png)
 
 ---
 
-## Generic steps II: Templier and Paré (2018)
+## Generic steps: Templier and Paré (2018)
 
 ![center width:650px](../assets/Templier2018-table-8-2.png)
 
@@ -58,7 +58,9 @@ Okoli: screen before search? (search: "reporting the search")
 
 ---
 
-## Generic steps: Summary
+## Generic steps
+
+Summary
 
 - The **nature of steps varies**, including their labels, their characteristics, and how they are arranged
 - The steps **depend on the review type**
@@ -80,11 +82,14 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 ## Problem formulation
 
 - Rationale for the review, including an overview of related review papers
-- Gap-spotting or problematization (Alvesson and Sandberg 2011)
+- Gap-spotting or problematization (Alvesson and Sandberg 2011):
+
+    - Gap-spotting is seen as (too) common, and may only signify a contribution if the authors can make a convincing argument that the gap is important
+    - Problematization, as an approach that challenges existing theory and the underlying assumptions, can lead to more interesting and noteworthy contributions
+
 - Research question or objectives
 
 <!-- 
-TODO : rationale: Gaps/problematization/...
 
 - methodological coherence objectives/type/methods
 -> we have done that in the first session
@@ -151,7 +156,7 @@ Shortcomings:
 
 - Keyword searches: rely on exact matches 
 - Need to be familiar with the vocabulary (check keywords or taxonomies like [MeSH](https://meshb.nlm.nih.gov/?_gl=1*1v2wumx*_ga*MTAzMDkzMDY3OC4xNjg1OTY3ODEy*_ga_7147EPK006*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.*_ga_P1FPTH9PL4*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.) etc.)
-- Useful keyword schemes were abandoned in the Information Systems discipline in 2003 (Weber 2003)
+- Assumption of controlled scientific vocabulary although disciplines like Information Systems have abandoned corresponding efforts decades ago (Weber 2003)
 
 <!-- anecdote: sex vs. gender -->
 
@@ -265,7 +270,7 @@ https://en.wikipedia.org/wiki/Cohen%27s_kappa
 
 ## Reporting the search and screen
 
-![center width:600px](../assets/PRISMA-flowchart.png)
+![center width:500px](../assets/PRISMA-flowchart.png)
 
 The PRISMA flow chart (updated version by Tricco et al. 2018)
 

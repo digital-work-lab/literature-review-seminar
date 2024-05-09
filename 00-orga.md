@@ -5,6 +5,8 @@ theme: ub-theme
 paginate: true
 ---
 
+<!-- _class: centered -->
+
 # The Literature Review Seminar
 
 Seminar, Master
@@ -15,11 +17,11 @@ Universität Bamberg
 
 ---
 
-## Prior knowledge of literature reviews, topics, and expectations
+# Prior knowledge of literature reviews, topics, and expectations
 
-- Did you work on a literature review before?
 - What is your topic and research question for this seminar?
 - What are your expectations for the seminar?
+- Did you work on a literature review before?
 
 <!--
 - What is important for a good literature review?
@@ -27,17 +29,17 @@ Universität Bamberg
 
 ---
 
-## Your instructor: Prof. Dr. Gerit Wagner
+# Your instructor: Prof. Dr. Gerit Wagner
 
-- Developed my **fascination** for literature reviews since 2014
-- **Disseration** on the scientific impact of literature reviews
-- Postdoctoral fellowship at HEC Montréal (Canada):
+- Sustained **fascination** for literature reviews for 10+ years
+- 2014-2018: **Disseration** on the scientific impact of literature reviews
+- 2020-2023: Postdoctoral fellowship at HEC Montréal (Canada):
 
     - worked with **Guy Paré**, Ph.D., a frequent co-author and mentor, who serves as a Senior Editor for Literature Reviews at JAIS
-    - teaching assistant for the **literature review seminar** for Ph.D. students at five universities in Montréal
+    - served as a TA for the **literature review seminar** for Ph.D. students at five universities in Montréal
  
 - I have **published 20 papers related to literature reviews** (out of 30)
-- Started developing **CoLRev**, a Python tool for literature reviews
+- I started developing **CoLRev**, a Python tool for literature reviews
 
 ![bg right:30% width:350px](../assets/OA6A2695.jpg)
 
@@ -47,14 +49,44 @@ photo: montreal with its many universities: all sending phd students to the lite
 
 ---
 
-## Why literature reviews are exciting (I)
+# Why literature reviews are exciting (I)
 
-- Variety of contributions, ranging from 
+Literature reviews are essential to respond to key trends
 
-    - conceptual contributions that could never be accomplished in an individual study
-    - to reviews that aggregate empirical evidence, and address common errors that cannot be eliminated in empirical studies (e.g., measurement error or publication bias)
+- The rapid growing volume and variety of research output, e.g., the EQUATOR network lists over 600 guidelines for different research methods
+- Expectations to exercise critical judgment of prior research, e.g., retracts, papers in predatory journals, theories or methods that have shortcomings, papers that are written by tools like genAI
+- The need to avoid reinventing the wheel, e.g., cases like the grit construct, which is basically identical with consciensciousness
+ 
+In the future, the ability to synthesize, organize, and critically assess prior research will become even more essential.
 
-![bg right:40% width:350px](../assets/word-cloud-literature-review-terms.png)
+<!--
+This slide is more on the reaction, the next more on active contributions
+
+sheer volume of research:
+- our capacity to synthesize it will become much more important
+- our capacity to organize (make sense of prior research)
+- our capacity to scrutinize (and sort out the bad apples)
+
+reinventing the wheel (grit - meta-analysis)
+
+https://www.sciencedirect.com/science/article/pii/S0092656620301100
+https://psycnet.apa.org/record/2016-29674-001
+
+Note: in the search: connect to jangle-fallacies (generally the lack of controlled terminology)
+
+understanding cumulative and non-cumulative episodes (not as clear as with Kuhnian scientific revolutions, but senior scholars know: if you use a particular theory that it is old/has been criticized...)
+-->
+
+---
+
+# Why literature reviews are exciting (II)
+
+Literature reviews can make a variety of original contributions, ranging from 
+
+- conceptual contributions that could never be accomplished in an individual study
+- to reviews that aggregate empirical evidence, and address common errors that cannot be eliminated in empirical studies (e.g., measurement error or publication bias)
+
+![bg right:35% width:350px](../assets/word-cloud-literature-review-terms.png)
 
 <!-- 
 literature review; systematic review; umbrella; meta-analysis; overview of reviews; meta-synthesis; meta-ethnography; scoping review; literature survey; Review paper; Background; State-of-the-art
@@ -62,7 +94,7 @@ literature review; systematic review; umbrella; meta-analysis; overview of revie
 
 ---
 
-## Example: Media Synchronicity Theory (Dennis et al. 2006)
+# Example: Media Synchronicity Theory (Dennis et al. 2006)
 
 ![center width:650px](../assets/DennisEtAl2006.png)
 
@@ -73,7 +105,7 @@ Especially macro-level theories. Similarly: RBV -->
 
 ---
 
-## Example: Review of the IS Success model (Petter et al. 2008)
+# Example: Review of the IS Success model (Petter et al. 2008)
 
 ![center width:450px](../assets/Petter2008.png)
 
@@ -83,18 +115,18 @@ Especially macro-level theories. Similarly: RBV -->
 
 ---
 
-## Why literature reviews are exciting (II)
+# Why literature reviews are exciting (III)
 
-- Exemplary contributions can have a profound impact (e.g., Vial 2019 is cited 1000 times per year)
+- Exemplary contributions can have a profound impact (e.g., Vial 2019 is cited 2,000 times per year)
 - There are open challenges, such as 
 
-    - differences and synergies across disciplines,
-    - design of LR software to manage data, AI, and collaboration,
-    - coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review))
+    - Differences and synergies across disciplines,
+    - Design of LR software to manage data, AI, and collaboration,
+    - Coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review))
 
 ---
 
-## Learning objectives
+# Learning objectives
 
 Acquire a broad understanding of
 
@@ -103,11 +135,11 @@ Acquire a broad understanding of
 - the **qualities** of a good review paper
 - the **tools** available
 
-## Outcome
+# Outcome
 
 - A **review protocol** applying this understanding
 - [Criteria and resources](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) are available online
-- Submission: **TBA** 
+- Submission: **July 19** 
 
 <!-- January 26, presentation: February 1 -->
 
@@ -144,18 +176,18 @@ Nach Abschluss des Kurses haben die Studierenden ein Verständnis über die Ver�
 -->
 ---
 
-## Administration
+# Administration
 
 Contact: gerit.wagner@uni-bamberg.de
 
 Consultation hours: via [calendly](https://calendly.com/gerit-wagner/30min?month=2023-10)
 Web: https://www.uni-bamberg.de/digital-work
 
-Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=64617 (password: nohH8tha)
+Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=67999 (password: xa4Oidap)
 
 ---
 
-## Materials
+# Materials
 
 Slides
 - Presentation slides will be made available for download.
@@ -190,7 +222,7 @@ p {
 }
 </style>
 
-## References
+# References
 
 Dennis, A. R., Fuller, R. M., & Valacich, J. S. (2008). Media, tasks, and communication processes: A theory of media synchronicity. *MIS Quarterly*, 32(3), 575-600. doi:[10.2307/25148857](https://www.jstor.org/stable/25148857)
 

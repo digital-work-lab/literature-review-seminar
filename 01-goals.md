@@ -92,6 +92,12 @@ TODO : highlighted the important parts and disucss with the students
  
 ![bg right:50% width:550px](../assets/Templier2018-table-1.png)
 
+<!-- 
+---
+
+**TODO: mention SkinnerNelsonChin2022a and the correlation approach**
+-->
+
 ---
 
 ## Application
@@ -154,6 +160,8 @@ What would be the most incoherent conbination?
 
 ---
 
+<!-- _class: centered -->
+
 # Break
 
 ![bg right:60% width:350px](../assets/coffee.jpg)
@@ -172,12 +180,28 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ---
 
+## What can we publish from a review project?
+
+- Review protocol: Open Science Foundation (OSF), conference proceedings, PROSPERO
+- Search strategy: searchRxiv
+- Options to publish standalone review papers:
+
+    - Conference proceedings (e.g., ICIS track for literature reviews)
+    - Specialized journals for literature reviews (e.g., International Journal of Management Reviews, Foundations and Trends® in [Information Systems, Entrepreneurship, Management, Marketing,...])
+    - Journals with theory and review departments (e.g., Journal of the AIS)
+    - Review special issues (e.g., Journal of Strategic Information Systems)
+    - Regular submission to journals
+
+- Review dataset: OSF, SYNERGY datasets
+
+---
+
 ## Review protocols: Their purposes
 
 - Make concrete plans for a review project
 - Pilot-test the feasibility and potential contribution
 - Solicit feedback from peers
-- Publish the protocol to signal your work (e.g., in a registry like PROSPERO)
+- Publish the protocol to signal your work (e.g., in a registry like PROSPERO or at OSF)
 
 ![bg right:40% width:450px](../assets/prospero.png)
 
@@ -196,7 +220,7 @@ synchronous session Topic 4.pptx -->
 
 ## Review protocols: Conceptions
 
-- A plan that is developed a priori and fixed. The protocol regulates researchers and requires them to follow an inflexible set of rules. Fixed protocols are often associated with theory-testing reviews like meta-analyses.
+- A plan that is developed a priori and fixed. The protocol regulates researchers and requires them to follow an inflexible set of rules. Fixed protocols are more common in the health sciences and often associated with theory-testing reviews like meta-analyses.
 - A “living plan”. The protocol is a living document which is used as a work log that records how the review project has evolved over time. Researchers may deviate from their original plan. Protocol development is thus iterative.
 
 ---
