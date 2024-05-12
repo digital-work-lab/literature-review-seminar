@@ -224,6 +224,7 @@ covering 1,000 papers to identify 20-40 relevant ones (search may be too narrow 
 Open challenge: 
 
 - How can we iterate efficiently?
+- How do we justify the decision to terminate a search?
 - How can we use evidence to search effectively?
 - How can we make progress without database providers?
 
@@ -365,7 +366,7 @@ The coding process and results are often illustrated in the *Gioia data structur
 
 - Scope: Digital platforms for knowledge-intensive services, such as Upwork, Fiverr, or TopCoder
 - Sample: 50 papers, mostly published in the Information Systems discipline
-- Data: Text fragments and figures have been pre-selected (provided in the form of a worksheet)
+- Data: Text fragments and figures have been pre-selected: [access the worksheet](../teaching_notes/Inductive-coding-Worksheet.pdf)
 
 - Objective: Analyze extant research and inductively develop a process model
 
