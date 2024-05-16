@@ -9,6 +9,9 @@ paginate: true
 
 ## Qualities
 
+- Distinguish different quality dimensions for literature reviews
+- Explain which qualities are essential for the different types of reviews
+
 ---
 
 ## What makes a review successful?
@@ -99,9 +102,12 @@ One refers to the *soundness of execution* and the other refers to the *explicit
 - Quality of theoretical contributions is hard to measure
 - There are high-level guidelines such as Leidner and Tona's (2021) *thought-gear model for theorizing*
 
+
 ![center width:450px](../assets/leidner-tona-though-gear-model-theorizing.png)
 
 <!--
+**TODO : add Rivard 2024 JSIS**
+
 and it may be helpful to study exemplars
 
  TODO : ideally, link to an overview of IS review papers (filtered for impact) 
