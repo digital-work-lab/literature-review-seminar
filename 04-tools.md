@@ -19,6 +19,8 @@ paginate: true
 
 # Typical setups
 
+Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](https://web.archive.org/web/20240110043514/http://systematicreviewtools.com/) alone listed over 250 tools (**discontinued in early 2024**).
+
 There are three major approaches:
 
 - **Self-managed approach**: Combine multiple tools, including a reference manager, and Excel
@@ -33,7 +35,7 @@ There are three major approaches:
 
 Common elements:
 
-- **Reference manager** to import, deduplicate, screen, data extraction, analyze, and cite search results (e.g., Zotero, Endnote, Citavi, Mendeley, Jabref)
+- **Reference manager** to import, deduplicate, screen, extract data, analyze, and cite search results (e.g., Zotero, Endnote, Citavi, Mendeley, Jabref)
 - **Excel** can be used for the screen, data extraction, and analysis
 - **Specialized tools** for individual steps (see next slide)
 - **Word processor** for write-up
@@ -44,8 +46,8 @@ Common elements:
 
 Leading automation tools for literature reviews (Wagner et al. 2021):
 
-| Step                      | Research Tools                                                                                                      |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Step                      | Research Tools                                                                                                    |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **Search**                | [*LitSonar*](https://litsonar.com/): Supports search query translation.                                           |
 |                           | [*litsearchr*](https://elizagrames.github.io/litsearchr/): Supports search strategy development.                  |
 |                           | [*TheoryOn*](https://theoryon.org/): Supports construct searches.                                                 |
@@ -54,7 +56,10 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 | **Data Analysis**         | [*Obsidian*](https://obsidian.md/): A tool for knowledge management and data extraction.                          |
 |                           | [*RevMan*](https://training.cochrane.org/online-learning/core-software/revman): A tool to conduct meta-analyses.  |
 
-<!-- TODO : add connectedpapers/inciteful -->
+<!-- TODO : add connectedpapers/inciteful
+mention asreview / the spiral model:
+https://link.springer.com/article/10.1186/s13643-023-02421-z
+ -->
 
 ---
 
@@ -146,7 +151,7 @@ Disclaimer: I am the lead developer of CoLRev.
 
 # Platforms: CoLRev and open synthesis
 
-- An open platform supporting all steps (see table below)
+- An open platform supporting all steps (see table below and [demo](https://colrev.readthedocs.io/en/latest/) in the documentation)
 - Based on Git for data versioning and collaboration
 - Extensible, offering different packages, e.g., packages for different types of reviews (not just "systematic reviews")
 
@@ -183,13 +188,13 @@ Disclaimer: I am the lead developer of CoLRev.
 
 # LLMs, current challenges, and promises
 
-- LLMs 
+Current challenges: "Directly asking ChatGPT for research summaries does not produce compelling results"
 
 - Language vs. knowledge and the problem of hallucination (fictitious references) 
-- Directly asking ChatGPT for research summaries does not produce compelling results (no access to paywalled research)
-- Retrieval-augmented generation (APIs)
+- LLMs do not necessarily have access to paywalled research
+- Retrieval-augmented generation (APIs) as a potential remedy (e.g., consensus)
 
-- The need to understand nuances of review types, methods, and steps
+Researchers need to understand nuances of review types, methods, and steps
 
 <!--
 - LLM like ChatGPT are seemingly easy to operate (simple interface), but generating useful output is surprisingly hard (a metaphorical Norman door)
@@ -208,12 +213,14 @@ Review types
 
 Steps of the process
 
-- LLM capabilities, or corresponding tools like litmasp, are particularly helpful for exploratory activities (not formally part of the main review steps)
-- Language handling capabilities are useful for the design of search queries (need to group synonyms)
+- LLM capabilities, or corresponding tools like [litmaps](https://www.litmaps.com/), are particularly helpful for exploratory activities
+- Language handling capabilities are useful for the design of queries in the systematic search phase (need to group synonyms)
 - In the screen, restrictions of human cognitive capacities are one of the prime reasons to screen most of the papers based on the metadata (instead of the full-text). This could change with LLM, which 
 - Applications of LLM in the later steps have yet to be explored
 
-<!-- e.g., tabulating  - give examples -->
+<!--
+(not formally part of the main review steps)
+ e.g., tabulating  - give examples -->
 
 <!-- effectively excluding over 90% of the information and only considering a few words of each PDF
 
@@ -228,6 +235,47 @@ Steps of the process
 
 - 
  -->
+
+---
+
+# Prompt example: Search query formulation
+
+Best prompt identified by Wang et al. (2023):
+
+```
+You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience
+developing highly effective queries for searching the information systems literature. Your specialty is developing
+queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information
+needs. You are able to take an information need such as: “Review of IT Business Value” and generate valid Web of
+Science queries such as:
+“TI=(IT OR IS OR …) AND TI=(value OR payoff OR …) AND TI=(firm OR business OR …)”.
+
+Now you have your information need to conduct research on “The effect of LLM on individual performance at work”,
+please generate a highly effective systematic review Boolean query for the information need.
+```
+
+⚠️ ChatGPT is useful for writing Boolean search queries in **high-precision reviews**, such as rapid reviews
+
+---
+
+# Prompt example: Screen
+
+Best prompt identified by Syriani et al. (2023):
+
+```
+Context: I am screening papers for a systematic literature review. The topic of the systematic review is the effect of
+generative AI on individual productivity for programmers. The study should focus exclusively on this topic.
+Instruction: Decide if the article should be included or excluded from the systematic review. I give the title and
+abstract of the article as input. Only answer include or exclude. Be lenient. I prefer including papers by mistake
+rather than excluding them by mistake.
+
+Task i:
+•	Title: “Twelve tips to leverage AI for efficient and effective medical question generation”
+•	Abstract: “Crafting quality assessment questions in medical education […]”
+```
+
+⚠️ Metrics for LLM-based classification vary considerably across datasets, indicating **limited generalizability**
+⚠️ The findings show that the essential recall metric does not dominate the performance of random classification in all cases
 
 ---
 
@@ -287,4 +335,8 @@ p {
 
 ## References
 
+Syriani, E., David, I., and Kumar, G. 2023. “Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews,” arXiv. doi:[10.48550/ARXIV.2307.06464](https://doi.org/10.48550/ARXIV.2307.06464).
+
 Wagner, G., Lukyanenko, R., & Paré, G. (2022). Artificial intelligence and the conduct of literature reviews. *Journal of Information Technology*, 37(2), 209-226. doi:[10.1177/0268396221104820](https://journals.sagepub.com/doi/full/10.1177/02683962211048201)
+
+Wang, S., Scells, H., Koopman, B., and Zuccon, G. 2023. “Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?” in *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval*, pp. 1426–1436. doi:[10.1145/3539618.3591703](https://doi.org/10.1145/3539618.3591703).

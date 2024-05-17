@@ -7,7 +7,7 @@ nav_order: 6
 
 # Feedback
 
-We actively seek student feedback to improve the seminar. Students can decide whether they want to provide feedback, whether we can publish it, and if so, whether it should be published anonymously.
+We actively seek student feedback to improve the seminar. Students can decide whether they want to provide feedback, whether we can publish it, and if so, whether it should be published anonymously. If you send us your feedback via [e-mail](mailto:gerit.wagner@uni-bamberg.de), we will handle it anonymously and only publish if you agree.
 
 {: .text-center}
 [Provide feedback](https://github.com/digital-work-lab/literature-review-seminar/edit/main/docs/feedback.md){: .btn .btn-green target="_blank"}
