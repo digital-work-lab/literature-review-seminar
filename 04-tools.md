@@ -59,12 +59,10 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 <!-- TODO : add connectedpapers/inciteful
 mention asreview / the spiral model:
 https://link.springer.com/article/10.1186/s13643-023-02421-z
- -->
-
+-->
 ---
 
 # Self-managed approach
-
 
 Advantages:
 
@@ -82,7 +80,6 @@ Disadvantages:
 <!-- 
 https://www.zdnet.com/article/what-is-ransomware-everything-you-need-to-know-and-how-to-reduce-your-risk/
 -->
-
 ---
 
 # Workflow tools
@@ -94,7 +91,6 @@ https://www.zdnet.com/article/what-is-ransomware-everything-you-need-to-know-and
 | [Covidence](https://www.covidence.org/)  | no  (paid)  | upon request   | systematic reviews   | web only      |
 | [HubMeta](https://hubmeta.com/)          | no  (free)  | upon request   | systematic reviews   | web only      |
 | [BUHOS](https://www.buhos.org/)          | yes         | no             | systematic reviews   | web and local |
-
 
 ---
 
@@ -127,16 +123,9 @@ The following aspects deem relevant:
 - Self-explanatory workflow
 
 <!-- 
-TBD: GUI/Code?
-- Open science, open data, open source
-
-**Vision**:
-
 - OpenSource, extensible, validated, cost-efficient (open research software, e.g., R/Tidyverse, Machine Learning in Python, Visualization)
-
 Note: low-code / code environment
-
- -->
+-->
 
 | Tool                                     | Open Source | Extensibility  | Review types      | Deployment    | 
 |------------------------------------------|-------------|----------------|-------------------|---------------|
@@ -198,9 +187,8 @@ Researchers need to understand nuances of review types, methods, and steps
 
 <!--
 - LLM like ChatGPT are seemingly easy to operate (simple interface), but generating useful output is surprisingly hard (a metaphorical Norman door)
-
- litmaps -->
-
+- litmaps
+-->
 ---
 
 # Which developments can be anticipated?
@@ -220,9 +208,9 @@ Steps of the process
 
 <!--
 (not formally part of the main review steps)
- e.g., tabulating  - give examples -->
-
-<!-- effectively excluding over 90% of the information and only considering a few words of each PDF
+ e.g., tabulating  - give examples 
+ 
+effectively excluding over 90% of the information and only considering a few words of each PDF
 
 -> we may even illustrate this with a whole paper and the title highlighted for screening
 
@@ -233,9 +221,7 @@ Steps of the process
 - makes researchers obsolete
 - danger that it reduces deep engagement with prior literature (opportunity to preserve that ability)
 
-- 
- -->
-
+-->
 ---
 
 # Prompt example: Search query formulation
@@ -314,12 +300,6 @@ The nice thing about literature reviews is that there are many roads that may co
 
 - Deep engagement (AI/generative AI? - reading not part of the process?)
 -> How could ML/machines/generative AI facilitate a deeper understanding (instead of distancing reviewers from the literature)?
-
----
-
-- Application: Prototype test an application (few papers)
-
----
 
 Wrap-up! Plans for submission (presentation?!?!)
 -->
