@@ -15,7 +15,7 @@ We actively seek student feedback to improve the seminar. Students can decide wh
 
 ## Summer semester 2024
 
-- I had the opportunity to attend the open consultation hour to receive guidance for my current literature review project. Professor Wagner provided valuable advice on the positioning of my literature review, the selection of suitable moderation analyses, and the refinement of my manuscript. His guidance added considerable value to my project. I am very grateful to Professor Wagner for his support and can absolutely recommend the open consultation hour to Ph.D. students.
+- I had the opportunity to attend the open consultation hour to receive feedback for my current literature review project. Professor Wagner provided valuable advice on the positioning of my literature review, the selection of suitable moderation analyses, and the refinement of my manuscript. His feedback added considerable value to my project. I am very grateful to Professor Wagner for his support and can absolutely recommend the open consultation hour to Ph.D. students.
 
 ## Winter semester 2023/24
 
