@@ -33,12 +33,10 @@ He is the lead developer for open-source literature review software such as [CoL
 
 **Selected publications**
 
-Schryen, G., Wagner, G., Benlian, A., and Paré, G. (2020). “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
-
-Wagner, G., Prester, J., Roche, M. P., Schryen, G., Benlian, A., Paré, G., and Templier, M. (2021). “Which Factors Affect the Scientific Impact of Review Papers in IS Research? A Scientometric Study”. *Information & Management*, 58(3), 103427. doi:[10.1016/j.im.2021.103427](https://www.sciencedirect.com/science/article/abs/pii/S037872062100001X){: target="_blank"}
-
-Wagner, G., Lukyanenko, R., & Paré, G. (2022). Artificial intelligence and the conduct of literature reviews. *Journal of Information Technology*, 37(2), 209-226. doi:[10.1177/0268396221104820](https://journals.sagepub.com/doi/full/10.1177/02683962211048201){: target="_blank"}
-
-Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. *Journal of Decision Systems*, 1-17. doi:[10.1080/12460125.2023.2197701](https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701)
-
-Wagner, G., Prester, J., & Paré, G. (2021). Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research. *The Journal of Strategic Information Systems*, 30(4), 101694. doi:[10.1016/j.jsis.2021.101694](https://www.sciencedirect.com/science/article/pii/S096386872100041X)
+<div class="references">
+    <p>Schryen, G., Wagner, G., Benlian, A., and Paré, G. (2020). “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” <em>Communications of the Association for Information Systems</em>, 46 (Paper 7), 134–186. doi:<a href="https://aisel.aisnet.org/cais/vol46/iss1/7/" target="_blank">10.17705/1CAIS.04607</a></p>
+    <p>Wagner, G., Prester, J., Roche, M. P., Schryen, G., Benlian, A., Paré, G., and Templier, M. (2021). “Which Factors Affect the Scientific Impact of Review Papers in IS Research? A Scientometric Study”. <em>Information & Management</em>, 58(3), 103427. doi:<a href="https://www.sciencedirect.com/science/article/abs/pii/S037872062100001X" target="_blank">10.1016/j.im.2021.103427</a></p>
+    <p>Wagner, G., Lukyanenko, R., &amp; Paré, G. (2022). Artificial intelligence and the conduct of literature reviews. <em>Journal of Information Technology</em>, 37(2), 209-226. doi:<a href="https://journals.sagepub.com/doi/full/10.1177/0268396221104820" target="_blank">10.1177/0268396221104820</a></p>
+    <p>Paré, G., Wagner, G., &amp; Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. <em>Journal of Decision Systems</em>, 1-17. doi:<a href="https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701" target="_blank">10.1080/12460125.2023.2197701</a></p>
+    <p>Wagner, G., Prester, J., &amp; Paré, G. (2021). Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research. <em>The Journal of Strategic Information Systems</em>, 30(4), 101694. doi:<a href="https://www.sciencedirect.com/science/article/pii/S096386872100041X" target="_blank">10.1016/j.jsis.2021.101694</a></p>
+</div>

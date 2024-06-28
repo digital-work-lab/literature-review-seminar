@@ -25,11 +25,11 @@ nav_order: 2
 
 **Key references**
 
-Rowe, F. (2014). What literature review is not: diversity, boundaries and recommendations. *European Journal of Information Systems*, 23(3), 241-255. doi:[10.1057/ejis.2014.7](https://link.springer.com/article/10.1057/ejis.2014.7){: target="_blank"}
-
-Paré, G., Trudel, M. C., Jaana, M., & Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. *Information & Management*, 52(2), 183-199. doi:[10.1016/j.im.2014.08.008](https://www.sciencedirect.com/science/article/pii/S0378720614001116){: target="_blank"}
-
-Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/){: target="_blank"}
+<div class="references">
+    <p>Rowe, F. (2014). What literature review is not: diversity, boundaries and recommendations. <em>European Journal of Information Systems</em>, 23(3), 241-255. doi:<a href="https://link.springer.com/article/10.1057/ejis.2014.7" target="_blank">10.1057/ejis.2014.7</a></p>
+    <p>Paré, G., Trudel, M. C., Jaana, M., & Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. <em>Information & Management</em>, 52(2), 183-199. doi:<a href="https://www.sciencedirect.com/science/article/pii/S0378720614001116" target="_blank">10.1016/j.im.2014.08.008</a></p>
+    <p>Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” <em>Communications of the Association for Information Systems</em>, 46 (Paper 7), 134–186. doi:<a href="https://aisel.aisnet.org/cais/vol46/iss1/7/" target="_blank">10.17705/1CAIS.04607</a></p>
+</div>
 
 ## Steps
 
@@ -44,10 +44,9 @@ Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Develop
 
 **Key references**
 
-Okoli, C. (2015). A guide to conducting a standalone systematic literature review. *Communications of the Association for Information Systems*, 37. doi:[10.17705/1CAIS.03743](https://aisel.aisnet.org/cais/vol37/iss1/43/){: target="_blank"}
-
-Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches. *Communications of the Association for information Systems*, 34, 12. doi:[10.17705/1CAIS.03412](https://aisel.aisnet.org/cais/vol34/iss1/12/){: target="_blank"}
-
-Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. *Journal of Decision Systems*, 1-17. doi:[10.1080/12460125.2023.2197701](https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701)
-
-Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. doi:[10.1080/0960085X.2017.1398880](https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880){: target="_blank"}
+<div class="references">
+    <p>Okoli, C. (2015). A guide to conducting a standalone systematic literature review. <em>Communications of the Association for Information Systems</em>, 37. doi:<a href="https://aisel.aisnet.org/cais/vol37/iss1/43/" target="_blank">10.17705/1CAIS.03743</a></p>
+    <p>Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches. <em>Communications of the Association for information Systems</em>, 34, 12. doi:<a href="https://aisel.aisnet.org/cais/vol34/iss1/12/" target="_blank">10.17705/1CAIS.03412</a></p>
+    <p>Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. <em>Journal of Decision Systems</em>, 1-17. doi:<a href="https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701" target="_blank">10.1080/12460125.2023.2197701</a></p>
+    <p>Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. <em>European Journal of Information Systems</em>, 27(5), 503-550. doi:<a href="https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880" target="_blank">10.1080/0960085X.2017.1398880</a></p>
+</div>

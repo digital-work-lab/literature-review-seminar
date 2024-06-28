@@ -66,4 +66,6 @@ You can use the template for [markdown](https://github.com/digital-work-lab/thes
 
 **Papers**
 
-Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. *Journal of Decision Systems*, 1-17. [link](https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701)
+<div class="references">
+    <p>Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. <em>Journal of Decision Systems</em>, 1-17. <a href="https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701">link</a></p>
+</div>
