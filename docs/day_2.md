@@ -9,14 +9,12 @@ nav_order: 3
 
 ## Qualities
 
-**Learning objectives**
-
-- Appreciate the different qualities of literature reviews, from methodological rigor to theoretical contribution
-- Distinguish key qualities according to review types
-
-**Slides**
-
-[Access slides](../output/03-qualities.html){: target="_blank"}
+<div style="text-align: center;">
+  <a href="../output/03-qualities.html" target="_blank">
+    <img src="../assets/slide_3.png" alt="Slides" width="600" height="400">
+  </a>
+  <p><a href="../output/03-qualities.html" target="_blank">Click the image to access the slides</a></p>
+</div>
 
 **Key references**
 
@@ -27,15 +25,12 @@ nav_order: 3
 
 ## Tools
 
-**Learning objectives**
-
-- Familiarize with existing tools supporting the conduct of literature reviews
-- Select tools for a given review methodology
-- Understand current trends and how (generative) AI could support the process
-
-**Slides**
-
-[Access slides](../output/04-tools.html){: target="_blank"}
+<div style="text-align: center;">
+  <a href="../output/04-tools.html" target="_blank">
+    <img src="../assets/slide_4.png" alt="Slides" width="600" height="400">
+  </a>
+  <p><a href="../output/04-tools.html" target="_blank">Click the image to access the slides</a></p>
+</div>
 
 **Key references**
 

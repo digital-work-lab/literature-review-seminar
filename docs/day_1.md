@@ -7,23 +7,23 @@ nav_order: 2
 
 # Day 1: Goals and steps
 
-**Introduction**
+## Introduction
 
-<a href="../output/00-orga.html" target="_blank">
-  <img src="../assets/slides_0.png" alt="Slides" width="400">
-</a>
+<div style="text-align: center;">
+  <a href="../output/00-orga.html" target="_blank">
+    <img src="../assets/slide_0.png" alt="Slides" width="600" height="400">
+  </a>
+  <p><a href="../output/00-orga.html" target="_blank">Click the image to access the slides</a></p>
+</div>
 
 ## Goals
 
-**Learning objectives**
-
-- Familiarize with different forms of reviews
-- Dissociate goals and review types, along with their dimensions
-- Appreciate the key elements of a review protocol
-
-**Slides**
-
-[Access slides](../output/01-goals.html){: target="_blank"}
+<div style="text-align: center;">
+  <a href="../output/01-goals.html" target="_blank">
+    <img src="../assets/slide_1.png" alt="Slides" width="600" height="400">
+  </a>
+  <p><a href="../output/01-goals.html" target="_blank">Click the image to access the slides</a></p>
+</div>
 
 **Key references**
 
@@ -35,14 +35,12 @@ nav_order: 2
 
 ## Steps
 
-**Learning objectives**
-
-- Understand the generic steps of the review process
-- Appreciate the critical methodological choices in the search, screen, and analysis
-
-**Slides**
-
-[Access slides](../output/02-steps.html){: target="_blank"}
+<div style="text-align: center;">
+  <a href="../output/02-steps.html" target="_blank">
+    <img src="../assets/slide_2.png" alt="Slides" width="600" height="400">
+  </a>
+  <p><a href="../output/02-steps.html" target="_blank">Click the image to access the slides</a></p>
+</div>
 
 **Key references**
 
