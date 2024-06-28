@@ -9,7 +9,9 @@ nav_order: 2
 
 **Introduction**
 
-[Access slides](../output/00-orga.html){: target="_blank"}
+<a href="../output/00-orga.html" target="_blank">
+  <img src="../assets/slides_0.png" alt="Slides" width="400">
+</a>
 
 ## Goals
 
