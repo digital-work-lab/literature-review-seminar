@@ -145,6 +145,27 @@ Building blocks can be based on established frameworks like PICO (population-int
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
+## Exercise: Review a search strategy
+
+Imagine you serve as a reviewer for a conference. You review a paper on algorithmic decision making, along with Table 2.
+
+- Evaluate the proposed search strategy critically, taking into account the building-block approach. 
+- Make a recommendation to accept, revise, or reject.
+
+![bg right:50% width:500px](../assets/MahmudEtAl2022.png)
+
+> \* Note: Example taken from Mahmud, H., Islam, A. N., Ahmed, S. I., & Smolander, K. (2022). What influences algorithmic decision-making? A systematic literature review on algorithm aversion. *Technological Forecasting and Social Change*, 175, 121390.
+
+---
+
 ## Literature search: Strengths and shortcomings of database searches
 
 Strengths:
