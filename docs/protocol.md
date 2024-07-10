@@ -51,8 +51,7 @@ Appendix:
 
 References (quality and completeness)
 
-Plagiarism check
-
+Prior work must be cited appropriately. We run a plagiarism check for all protocols.
 
 ## Grading criteria: Presentation (30%)
 
