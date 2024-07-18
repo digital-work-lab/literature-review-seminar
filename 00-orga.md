@@ -139,7 +139,7 @@ Acquire a broad understanding of
 
 - A **review protocol** applying this understanding and a short **presentation**
 - [Criteria and resources](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) are available online
-- Submission: **July 19**, presentation: **July 22**
+- Submission: **July 19** (via e-mail to [gerit.wagner@uni-bamberg.de](mailto:gerit.wagner@uni-bamberg.de)), presentation: **July 22**
 
 <!-- January 26, presentation: February 1 -->
 

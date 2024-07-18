@@ -53,6 +53,8 @@ References (quality and completeness)
 
 Prior work must be cited appropriately. We run a plagiarism check for all protocols.
 
+Submission: via e-mail to [gerit.wagner@uni-bamberg.de](mailto:gerit.wagner@uni-bamberg.de)
+
 ## Grading criteria: Presentation (30%)
 
 Length: 10-15 minutes
