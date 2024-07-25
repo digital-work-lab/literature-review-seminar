@@ -53,7 +53,7 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 | Semester | Date and location | Status |
 --- |--- |--- |--- |
 Winter 2024/25 | October 26 and November 2 | In preparation |
-Summer 2024 | May 10 and 17 | In progress |
+Summer 2024 | May 10 and 17 | Completed |
 Winter 2023/24 | October 27 and November 3 | Completed |
 
 <!-- [Register](mailto:gerit.wagner@uni-bamberg.de) -->
