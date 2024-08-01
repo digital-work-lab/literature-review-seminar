@@ -129,7 +129,7 @@ Note: low-code / code environment
 
 | Tool                                     | Open Source | Extensibility  | Review types      | Deployment    | 
 |------------------------------------------|-------------|----------------|-------------------|---------------|
-| [CoLRev](https://colrev.readthedocs.io/) | yes         | yes            | all review types  | local or cloud     |
+| [CoLRev](https://colrev-environment.github.io/colrev/) | yes         | yes            | all review types  | local or cloud     |
 
 Disclaimer: I am the lead developer of CoLRev.
 
@@ -140,7 +140,7 @@ Disclaimer: I am the lead developer of CoLRev.
 
 # Platforms: CoLRev and open synthesis
 
-- An open platform supporting all steps (see table below and [demo](https://colrev.readthedocs.io/en/latest/) in the documentation)
+- An open platform supporting all steps (see table below and [demo](https://colrev-environment.github.io/colrev/en/latest/) in the documentation)
 - Based on Git for data versioning and collaboration
 - Extensible, offering different packages, e.g., packages for different types of reviews (not just "systematic reviews")
 
@@ -161,7 +161,7 @@ Disclaimer: I am the lead developer of CoLRev.
 - Start the [demo](https://github.com//codespaces/new?hide_repo_select=true&ref=main&repo=767717822) (account and login on GitHub required)
 - Form small groups of 2-3 people
 - Complete the [worksheet](https://github.com/CoLRev-Environment/workshop/blob/main/worksheet.md)
-- Consult the [documentation](https://colrev.readthedocs.io/en/latest/) whenever necessary
+- Consult the [documentation](https://colrev-environment.github.io/colrev/en/latest/) whenever necessary
 
 ![bg right:40% width:350px](../assets/start-demo.png)
 
