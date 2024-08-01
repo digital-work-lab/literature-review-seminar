@@ -2,7 +2,7 @@
 layout: default
 title: "Day 1: Goals and steps"
 has_toc: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Day 1: Goals and steps
