@@ -12,13 +12,13 @@ Welcome to the literature review seminar.
 The seminar is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
 The seminar starts with **two days** in which we cover four key areas:
 
-1. **Goals** Participants will learn to differentiate various review forms and their objectives, understanding the nuances and dimensions of each type.
+1. **Goals** We start by differentiating various review forms and their objectives, understanding the nuances and dimensions of each type.
 
-2. **Steps** The seminar focuses on the generic steps of the literature review process, emphasizing the importance of methodological choices in searching, screening, and analysis.
+2. **Steps** We focus on the generic steps of the literature review process, emphasizing the importance of methodological choices in searching, screening, and analysis.
 
-3. **Qualities** It highlights the diverse qualities of literature reviews, from methodological rigor to theoretical contributions, and teaches how to evaluate these qualities based on the type of review.
+3. **Qualities** We discuss the diverse qualities of literature reviews, from methodological rigor to theoretical contributions, and evaluate them for different types of reviews.
 
-4. **Tools** The course introduces tools that support literature review processes, including traditional and emerging technologies like generative AI, and guides participants in selecting appropriate tools for different methodologies.
+4. **Tools** We familiarize with tools that support literature review processes, including traditional and emerging technologies like generative AI, and discuss the selection of appropriate tools for different methodologies.
 
 Introductory literature is available for [goals and steps (day 1)](docs/day_1.html) and [qualities and tools (day 2)](docs/day_2.html).
 
