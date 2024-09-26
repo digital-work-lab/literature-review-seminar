@@ -46,6 +46,7 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 
 ## Sign up!
 
+- To sign up, send me an [e-mail](mailto:gerit.wagner@uni-bamberg.de) and suggest a review topic you are interested in.
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
 - There are no registration frees.
