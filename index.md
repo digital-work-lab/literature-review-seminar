@@ -65,7 +65,7 @@ Winter 2023/24 | October 27 and November 3 | Completed |
 
 **Gerit Wagner**  
 *Assistant Professor of Information Systems*  
-*Otto-Friedrich Universität Bamberg*
+*Otto-Friedrich-Universität Bamberg*
 
 My name is Gerit Wagner, and I am your instructor. I have worked extensively in this area, and I love to share my excitement for a variety of literature review topics, types, methods, and tools.
 You can read more about my work [here](docs/instructor.html).
