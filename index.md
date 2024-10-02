@@ -68,6 +68,10 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 - Doctoral students and external participants can use the seminar to develop a review paper.
 - All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review.
 
+| Deliverable      | Date     |
+| ---------------- | -------- |
+| Submission       | TBA      |
+| Presentation     | TBA      |
 
 ## Instructor
 

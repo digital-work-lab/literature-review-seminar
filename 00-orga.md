@@ -13,7 +13,9 @@ Seminar, Master
 
 Prof. Dr. Gerit Wagner
 Fakultät Wirtschaftsinformatik und Angewandte Informatik
-Universität Bamberg
+Otto-Friedrich-Universität Bamberg
+
+![center width:150px](../assets/qr-literature-review-seminar.png)
 
 ---
 
@@ -139,7 +141,7 @@ Acquire a broad understanding of
 
 - A **review protocol** applying this understanding and a short **presentation**
 - [Criteria and resources](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) are available online
-- Submission: **July 19** (via e-mail to [gerit.wagner@uni-bamberg.de](mailto:gerit.wagner@uni-bamberg.de)), presentation: **July 22**
+- Dates for submission and presentation: see [outline](../index.html#seminar-paper)
 
 <!-- January 26, presentation: February 1 -->
 
@@ -183,7 +185,7 @@ Contact: gerit.wagner@uni-bamberg.de
 Consultation hours: via [calendly](https://calendly.com/gerit-wagner/30min?month=2023-10)
 Web: https://www.uni-bamberg.de/digital-work
 
-Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=67999 (password: xa4Oidap)
+Materials: available [online](https://digital-work-lab.github.io/literature-review-seminar/)
 
 ---
 
