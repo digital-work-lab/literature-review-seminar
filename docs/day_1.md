@@ -9,21 +9,15 @@ nav_order: 3
 
 ## Introduction
 
-<div style="text-align: center;">
-  <a href="../output/00-orga.html" target="_blank">
-    <img src="../assets/slide_0.png" alt="Slides" width="600" height="400">
-  </a>
-  <p><a href="../output/00-orga.html" target="_blank">Click the image to access the slides</a></p>
-</div>
+| Session       | Slides                                                                                                                       |
+|---------------|------------------------------------------------------------------------------------------------------------------------------|
+| Introduction  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/00-orga.html){: target="_blank"} |
 
 ## Goals
 
-<div style="text-align: center;">
-  <a href="../output/01-goals.html" target="_blank">
-    <img src="../assets/slide_1.png" alt="Slides" width="600" height="400">
-  </a>
-  <p><a href="../output/01-goals.html" target="_blank">Click the image to access the slides</a></p>
-</div>
+| Session           | Slides                                                                                                                       |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Goals of reviews  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/01-goals.html){: target="_blank"} |
 
 **Key references**
 
@@ -35,12 +29,9 @@ nav_order: 3
 
 ## Steps
 
-<div style="text-align: center;">
-  <a href="../output/02-steps.html" target="_blank">
-    <img src="../assets/slide_2.png" alt="Slides" width="600" height="400">
-  </a>
-  <p><a href="../output/02-steps.html" target="_blank">Click the image to access the slides</a></p>
-</div>
+| Session                      | Slides                                                                                                                       |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Steps of the review process  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/02-steps.html){: target="_blank"} |
 
 **Key references**
 

@@ -9,12 +9,9 @@ nav_order: 4
 
 ## Qualities
 
-<div style="text-align: center;">
-  <a href="../output/03-qualities.html" target="_blank">
-    <img src="../assets/slide_3.png" alt="Slides" width="600" height="400">
-  </a>
-  <p><a href="../output/03-qualities.html" target="_blank">Click the image to access the slides</a></p>
-</div>
+| Session                     | Slides                                                                                                                       |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Qualities of review papers  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/03-qualities.html){: target="_blank"} |
 
 **Key references**
 
@@ -25,12 +22,9 @@ nav_order: 4
 
 ## Tools
 
-<div style="text-align: center;">
-  <a href="../output/04-tools.html" target="_blank">
-    <img src="../assets/slide_4.png" alt="Slides" width="600" height="400">
-  </a>
-  <p><a href="../output/04-tools.html" target="_blank">Click the image to access the slides</a></p>
-</div>
+| Session                       | Slides                                                                                                                       |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Tools for literature reviews  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/04-tools.html){: target="_blank"} |
 
 **Key references**
 
