@@ -82,6 +82,6 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 *Otto-Friedrich-Universität Bamberg*
 
 My name is Gerit Wagner, and I am your instructor. I have worked extensively in this area, and I love to share my excitement for a variety of literature review topics, types, methods, and tools.
-You can read more about my work [here](docs/instructor.html).
+You can read more about my work [here](docs/sallabus.html#instructor).
 
 <br style="clear:both">
