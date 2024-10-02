@@ -75,7 +75,9 @@ Grading criteria for the review protocol and presentation are available [here](p
 
 ## Teaching approach
 
-- **TODO**: .
+- **Open Topic Selection**: We encourage students to select and develop their research topics and ideas independently. This approach fosters motivation and a sense of ownership over their learning process. By taking on challenging projects, students gain valuable experience that serves as excellent preparation for their master’s theses or even the work of a Ph.D. thesis. This autonomy not only builds confidence but also enhances critical thinking and problem-solving skills, essential for academic and professional success.
+
+- **Create a Setting for Critical Evaluation**: Our course is designed to provide a setting where students can practice critical evaluation of research methods and contributions. By familiarizing themselves with the peer review process, students gain insights into recent methodological trends and the use of emergent open-synthesis and generative AI-supported review tools. This hands-on experience in critical evaluation not only improves their analytical skills but also prepares them for the rigorous standards of academic research and publishing.
 
 <!-- - **Real-World Impact**: We aim to empower students to make a meaningful impact by contributing to a real-world, publicly accessible Python package. This hands-on experience not only enhances technical skills but also provides a sense of accomplishment and relevance. Additionally, students can add this valuable experience to their CV, showcasing their practical contributions and teamwork skills to potential employers. -->
 
