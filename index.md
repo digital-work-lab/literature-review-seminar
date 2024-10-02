@@ -6,10 +6,33 @@ description: "Welcome"
 permalink: /
 ---
 
-# The literature review seminar
+# The Literature Review Seminar
 
-Welcome to the literature review seminar.
-The seminar is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
+<br>
+
+[![Level](https://img.shields.io/badge/Level-Master%20|%20PhD-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
+[![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
+[![5 Stars](https://img.shields.io/badge/Rating-★★★★★-yellow)](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
+
+Welcome!
+The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich Universität Bamberg.
+It is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
+You can find all information in our [syllabus](docs/syllabus.html).
+
+## Sign up!
+
+- To sign up, send me an [e-mail](mailto:gerit.wagner@uni-bamberg.de) and suggest a review topic you are interested in.
+- The seminar is taught in two full-day sessions at the University of Bamberg.
+- It is open to participants from other departments and universities.
+- There are no registration frees.
+
+{: .info }
+> **Info**
+> We are currently updating the contents for the upcoming winter semester (2024/25). You can find the dates and times for the sessions in the table below.
+
+## Goals
+
 The seminar starts with **two days** in which we cover four key areas:
 
 1. **Goals** We start by differentiating various review forms and their objectives, understanding the nuances and dimensions of each type.
@@ -22,21 +45,22 @@ The seminar starts with **two days** in which we cover four key areas:
 
 Introductory literature is available for [goals and steps (day 1)](docs/day_1.html) and [qualities and tools (day 2)](docs/day_2.html).
 
+## Outline
+
+|              | Session                                     | Date and Time              | Location      |
+| ------------ | ------------------------------------------- | ---------------------------| ------------- |
+| Session 1    | [Goals and steps](docs/day_1.html)          | October 26, 8.15-16.00     | WE5 02.020    |
+| Session 2    | [Qualitites and tools](docs/day_2.html)     | November 2, 8.15-16.00     | WE5 02.020    |
+
 <!-- 
-We will cover the following contents:
-
-**Day 1**
-
-- Distinguish the different goals and types of literature reviews
-- Understand the steps fo the process
-
-**Day 2**
-
-- Appreciate the qualities of a good review paper
-- Familiarize with the available research software
+| Semester | Date and location | Status |
+--- |--- |--- |--- |
+Winter 2024/25 | October 26 and November 2, 8.00-16.00, WE5/02.020 | In preparation |
+Summer 2024 | May 10 and 17 | Completed |
+Winter 2023/24 | October 27 and November 3 | Completed |
 -->
 
-**Seminar paper**
+## Seminar paper
 
 Participants are expected to select a topic of their choice (**open-topic**) and work on a review project
 
@@ -44,20 +68,6 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 - Doctoral students and external participants can use the seminar to develop a review paper.
 - All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review.
 
-## Sign up!
-
-- To sign up, send me an [e-mail](mailto:gerit.wagner@uni-bamberg.de) and suggest a review topic you are interested in.
-- The seminar is taught in two full-day sessions at the University of Bamberg.
-- It is open to participants from other departments and universities.
-- There are no registration frees.
-
-| Semester | Date and location | Status |
---- |--- |--- |--- |
-Winter 2024/25 | October 26 and November 2, 8.00-16.00, WE5/02.020 | In preparation |
-Summer 2024 | May 10 and 17 | Completed |
-Winter 2023/24 | October 27 and November 3 | Completed |
-
-<!-- [Register](mailto:gerit.wagner@uni-bamberg.de) -->
 
 ## Instructor
 
@@ -71,14 +81,3 @@ My name is Gerit Wagner, and I am your instructor. I have worked extensively in 
 You can read more about my work [here](docs/instructor.html).
 
 <br style="clear:both">
-
-<!-- 
-slides
-resources and links
-instructor
-
-TBD: include a picture?
-TODO : make group fotos and publish
-
-objectives: mention tools and open synthesis?
--->
