@@ -7,12 +7,31 @@ url: https://just-the-docs.github.io
 repository: digital-work-lab/literature-review-seminar
 
 gh_edit_link: true
-gh_edit_link_text: 'Edit this page on GitHub'
+gh_edit_link_text: 'Help improve this page'
 gh_edit_repository: 'https://github.com/digital-work-lab/literature-review-seminar'
 gh_edit_branch: 'main'
 gh_edit_view_mode: 'tree'
 
 logo: "/assets/images/lr-seminar.png"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  deliverable:
+    title: Deliverable
+    color: yellow
+  info:
+    color: yellow
+  feedback:
+    title: Student feedback
+    color: blue
+  objective:
+    title: Learning objective
+    color: blue
+  see_also:
+    title: See also
+    color: green
 
 aux_links:
   "Repository":
