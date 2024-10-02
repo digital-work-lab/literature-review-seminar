@@ -5,7 +5,6 @@ theme: ub-theme
 paginate: true
 ---
 
-
 # The Literature Review Seminar
 
 ## Presentation of review protocols

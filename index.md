@@ -18,7 +18,7 @@ permalink: /
 Welcome!
 The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich Universität Bamberg.
 It is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
-You can find all information in our [syllabus](docs/syllabus.html).
+You can find all information about the seminar in our [syllabus](docs/syllabus.html).
 
 ## Sign up!
 
