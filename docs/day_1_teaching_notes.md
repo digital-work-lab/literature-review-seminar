@@ -1,19 +1,27 @@
+---
+layout: default
+title: "Session 1: Goals and steps (teaching notes)"
+has_toc: true
+nav_exclude: true
+---
 
-# Setup
+# Session 1: Goals and steps (teaching notes)
 
-- Create VC, link (and update password)
-- Upload Pare et al. 2015
-- Prepare copies of the review types (for classification)
-
-# Introduction
+## Introduction
 
 - I am not an expert in all topics. 
 - I have experience with the method, how to ensure a good methodological fit, how to present and develop review papers in a compelling manner.
 - Prior experience: TA for 50 PhD students from different management disciplines
 
 - Ask students to write their topics and names on the whiteboard (one after the other, writing similar topics next to each other)
+- Ask students about their experience with literature reviews
+- Make sure that the topics and student interests receive enough attention
 
-# Goals
+## Literature reviews in IS
+
+- TODO : be prepared to illustrate the concept matrix
+
+## Goals
 
 Typical research questions:
 
@@ -25,7 +33,7 @@ Ask students whether anyone has a research question that fits to one of the four
 - Understanding: How do current research designs restrict our understandign of attention control theory?
 
 
-## After Paré 2015 reading
+### After Paré 2015 reading
 
 - What is your review type?
 - Summarize the key characteristics
@@ -33,38 +41,48 @@ Ask students whether anyone has a research question that fits to one of the four
 - If you were a journal editor/PhD student, which type would you prefer? (-> connect to frequency table: theoretical reviews are often pursued)
 
 
-## Before classification exercise
+### Before classification exercise
 
 - Discuss reading strategy (skim headings/figures etc)
 - Ask students to take notes: which parts (figures/statements) led to your decisions?
 
 
-## Classification results
+### Classification results
+
+Discuss results in groups of goals (testing - explaining, understanding, describing)
+Ask students about the differences between types in the groups (what are the key characteristics you noticed?)
 
 - Otte-Trojel2016: Realist review
 - King2006b: Meta-analysis
 - Melville2004: Theoretical
 - Kitsiou2017: Umbrella
-- Belanger2011: Critical
+- Belanger2011: Critical - highlight that privacy is a multilevel construct but rarely studied as such
 - Petter2008: Qualitative systematic
 - Powell2004: Scoping
 - Shim2002: Narrative
 - Seuring2013: Descriptive
 
+Any item that you would use as an inspiration (for your proposal)?
 
-# Steps
+### What can we publish from a review project
+
+Highlight that open science is just getting started in the area of literature reviews
+
+End of first session: take notes on your ideas and how to introduce your topic, take notes on questions you would need to research
+
+## Steps
 
 Ask students to adopt the perspective of a reviewer and scrutinize methodological choices
 
 
-# Problem formulation
+## Problem formulation
 
 Examples:
 
 - gap spotting: applying and testing transaction cost economics in different empirical contexts (different organizations/geographies)
 - problematization: transformational leadership theory is often glorified with a focus on the positive outcomes. A problematization approach may consider unintended outcomes (e.g., promoting groupthink or suppressing dissenting opinions within an organization)
 
-# Search
+## Search
 
 Exercise (Review the search strategy)
 
@@ -74,11 +92,11 @@ Exercise (Review the search strategy)
 - There is no rationale to require "ML decision" to be an exact match, but Algorithm* Aversion is not required to be an exact match
 - For a conference paper, the authors could be required to complete the building-block matrix (or justify the design of the search strategy)
 
-# Screening (reliability)
+## Screening (reliability)
 
 See notes-screening-reliability.jpg
 
-# Inductive
+## Inductive
 
 Worksheet is linked on the slides.
 
@@ -88,7 +106,13 @@ Q: What are the key processes across extracted documents?
 
 inductive-coding-result.jpg
 
-# Data extraction
+Key challenges:
+- Terminology
+- Scope
+- Abstraction
+- Differences in focus/perspective
+
+## Data extraction
 
 - For "training": show RCT.jpg.
 - Highlight the need to have a clear plan (e.g., which follow-up will be considered?)
