@@ -11,8 +11,8 @@ has_toc: true
 > **Info**
 > The teaching notes include materials for the instructor and teaching assistants.
 
-- [Session notes: Day 1](docs/day_1_teaching_notes.html)
-- [Session notes: Day 2](docs/day_2_teaching_notes.html)
+- [Session notes: Day 1](day_1_teaching_notes.html)
+- [Session notes: Day 2](day_2_teaching_notes.html)
 
 ## Preparation
 
