@@ -13,7 +13,7 @@ nav_order: 2
 ## Basic information
 
 - **Title**: DW-Sem-M: The Literature Review Seminar
-<!-- - **Credits**: 6 ECTS (180h) -->
+- **Credits**: 3 ECTS (90h)
 - **Degree program**: Master's in Information Systems, International Information Systems Management, and Applied Computer Science. Participation is also possible for Ph.D. students and students from other disciplines.
 - **Format**: Two full-day sessions, followed by individual work on the review protocol and a presentation.
 - **Dates, rooms, and tasks**: Listed on the [Main page](../index.html)
