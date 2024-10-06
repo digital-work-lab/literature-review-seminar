@@ -14,6 +14,7 @@ permalink: /
 [![Level](https://img.shields.io/badge/Level-Master%20|%20PhD-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 [![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(5%20/%205)-yellow)](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
+![Completion](https://img.shields.io/badge/Enrollment-Completed%20by%209-green)]
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 [![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/literature-review-seminar.svg?style=social&label=Star)](https://github.com/digital-work-lab/literature-review-seminar/stargazers)
 

@@ -17,6 +17,7 @@ has_toc: true
 ## Preparation
 
 - [ ] Update dates and rooms for sessions
+- [ ] Update the rating average in the badge (change the badge-link on index.md) and participation
 - Create VC, link (and update password)
 - Upload Pare et al. 2015
 - Prepare copies of the review types (for classification)
