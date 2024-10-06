@@ -5,7 +5,7 @@
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/literature-review-seminar/pages.yml?label=documentation)
 
-Welcome! The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich Universität Bamberg.
+Welcome! The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
 You can find more information on the following pages:
 
 - [Project page](https://digital-work-lab.github.io/literature-review-seminar/)

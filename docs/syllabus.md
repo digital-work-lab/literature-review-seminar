@@ -43,7 +43,7 @@ The seminar is offered in an open-topic format, meaning that participants select
 
 **Gerit Wagner**  
 *Assistant Professor of Information Systems*  
-*Otto-Friedrich Universität Bamberg*
+*Otto-Friedrich-Universität Bamberg*
 
 <br style="clear:both">
 
