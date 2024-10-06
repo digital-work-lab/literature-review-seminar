@@ -89,7 +89,7 @@ One refers to the *soundness of execution* and the other refers to the *explicit
 ## Reporting standards
 
 - In Information Systems, Templier and Paré (2018) provide an overview of recommended reporting items
-- In the health sciences, the [PRISMA checklist](http://prisma-statement.org/prismastatement/checklist.aspx) provides established guidelines for transparent reporting of literature reviews
+- In the health sciences, the [PRISMA checklist](https://www.prisma-statement.org/prisma-2020-checklist) provides established guidelines for transparent reporting of literature reviews
 
 ![center width:900px](../assets/prisma-checklist-extract.png)
 
