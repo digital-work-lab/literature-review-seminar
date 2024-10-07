@@ -12,9 +12,10 @@ permalink: /
 
 ![Course Status](https://img.shields.io/badge/Current%20course-Winter%20semester%202024/25-yellow)
 ![Course Status](https://img.shields.io/badge/Upcoming%20course-Summer%20semester%202025-green)<br>
-[![Topic](https://img.shields.io/badge/Format-Open%20topic%20&%20Literature%20review%20methods-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 [![Level](https://img.shields.io/badge/Level-Master%20|%20PhD-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
-[![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)<br>
+[![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
+[![Topic](https://img.shields.io/badge/Topics-Open%20topic%20&%20Literature%20review%20methods-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
+[![Format](https://img.shields.io/badge/Format-In%20person%20sessions%20&%20individual%20work-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)<br>
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(5%20/%205)-yellow)](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
 ![Completion](https://img.shields.io/badge/Enrollment-9%20students-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
