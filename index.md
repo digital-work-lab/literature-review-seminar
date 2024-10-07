@@ -15,7 +15,8 @@ permalink: /
 [![Level](https://img.shields.io/badge/Level-Master%20|%20PhD-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 [![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)<br>
 [![Topic](https://img.shields.io/badge/Topics-Open%20topic%20&%20Literature%20review%20methods-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
-[![Format](https://img.shields.io/badge/Format-In%20person%20sessions%20&%20individual%20work-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)<br>
+[![Format](https://img.shields.io/badge/Format-In%20person%20sessions%20&%20individual%20work-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
+![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)<br>
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(5%20/%205)-yellow)](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
 ![Completion](https://img.shields.io/badge/Enrollment-9%20students-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
