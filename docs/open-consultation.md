@@ -13,7 +13,7 @@ I offer an open consultation hour for Master's and Ph.D. students who work on a 
 - Methodological choices across different steps of the process
 - Selection of suitable tools and AI-support
 
-[Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green }
+[Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank" }
 
 - 📍 Online or in-person (WE5/01.081)
 - 📆 Monday - Thursday in the evening
