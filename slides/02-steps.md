@@ -290,6 +290,10 @@ https://en.wikipedia.org/wiki/Cohen%27s_kappa
 -->
 ---
 
+TODO : bring interpretations of kappa values, mention that higher kappa is difficult when the distribution is skewed
+
+---
+
 ## Reporting the search and screen
 
 ![center width:570px](../assets/PRISMA-flowchart.png)
@@ -390,6 +394,10 @@ The coding process and results are often illustrated in the *Gioia data structur
 - Data: Text fragments and figures have been pre-selected: [access the worksheet](../teaching_notes/Inductive-coding-Worksheet.pdf)
 
 - Objective: Analyze extant research and inductively develop a process model
+
+---
+
+TODO : present a clear Gioia structure as a result
 
 ---
 

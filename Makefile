@@ -1,25 +1,39 @@
-run : slides
-
-slides: output/00-orga.html output/01-goals.html output/02-steps.html output/03-qualities.html output/04-tools.html output/05-presentation.html
-
 UID := $(shell id -u)
 GID := $(shell id -g)
 LANG := "en_CA.UTF-8"
 
-output/00-orga.html: 00-orga.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 00-orga.md --theme-set assets/template/theme.css --html --allow-local-files -o output/00-orga.html
+LATEX_REF_DOC = --template /assets/basic.tex
 
-output/01-goals.html: 01-goals.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 01-goals.md --theme-set assets/template/theme.css --html --allow-local-files -o output/01-goals.html
+PANDOC_CALL = docker run --rm \
+	--volume "`pwd`:/data" \
+	--volume "$(shell readlink -f ./assets)":/assets/ \
+	--user $(shell id -u):$(shell id -g) \
+	pandoc/ubuntu-latex
 
-output/02-steps.html: 02-steps.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 02-steps.md --theme-set assets/template/theme.css --html --allow-local-files -o output/02-steps.html
+SLIDES_LIST := $(patsubst slides/%.md,%,$(wildcard slides/[0-9][0-9]*.md))
 
-output/03-qualities.html: 03-qualities.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 03-qualities.md --theme-set assets/template/theme.css --html --allow-local-files -o output/03-qualities.html
+# Define a rule to build all slides
+slides: lecture_slides lecture_slides_pdfs
 
-output/04-tools.html: 04-tools.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 04-tools.md --theme-set assets/template/theme.css --html --allow-local-files -o output/04-tools.html
+# convert_pdfs
 
-output/05-presentation.html: 05-presentation.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 05-presentation.md --theme-set assets/template/theme.css --html --allow-local-files -o output/05-presentation.html
+lecture_slides: $(addprefix output/,$(addsuffix .html,$(SLIDES_LIST)))
+
+lecture_slides_pdfs: $(addprefix output/,$(addsuffix .pdf,$(SLIDES_LIST)))
+
+# convert_pdfs:
+# 	python scripts/html_to_pdf.py
+
+# Define a pattern rule for building a slide
+output/%.html: slides/%.md assets/template/theme.css
+	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 $< --theme-set assets/template/theme.css --html --allow-local-files -o $@
+
+# Define a pattern rule for building a slide
+# output/%.pdf: %.md assets/template/theme.css
+# 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 $< --theme-set assets/template/theme.css --pdf --allow-local-files -o $@
+
+# output/%.pdf: %.md assets/template/theme.css
+# 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -v "$(PWD)/assets":/home/marp/app/assets -v "$(PWD)/material":/home/marp/app/material -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v3.4.0 /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files -o /home/marp/app/$@
+
+output/%.pdf: slides/%.md assets/template/theme.css
+	docker run --rm --init -v "$(shell pwd)":/home/marp/app/ -v "$(shell pwd)/assets":/home/marp/app/assets -v "$(shell pwd)/material":/home/marp/app/material -e LANG=$(LANG) -e MARP_USER=$(shell id -u):$(shell id -g) marpteam/marp-cli:v3.4.0 /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files -o /home/marp/app/$@

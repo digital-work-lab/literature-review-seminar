@@ -37,8 +37,8 @@ Otto-Friedrich-Universität Bamberg
 - 2014-2018: **Disseration** on the scientific impact of literature reviews
 - 2020-2023: Postdoctoral fellowship at HEC Montréal (Canada):
 
-    - worked with **Guy Paré**, Ph.D., a frequent co-author and mentor, who serves as a Senior Editor for Literature Reviews at JAIS
-    - served as a TA for the **literature review seminar** for Ph.D. students at five universities in Montréal
+    - Worked with **Guy Paré**, Ph.D., a frequent co-author and mentor, who serves as a Senior Editor for Literature Reviews at JAIS
+    - Served as a TA for the **literature review seminar** for Ph.D. students at five universities in Montréal
  
 - I have **published 20 papers related to literature reviews** (out of 30)
 - I started developing **CoLRev**, a Python tool for literature reviews
@@ -48,6 +48,10 @@ Otto-Friedrich-Universität Bamberg
 <!--
 My background: phd, publications, postdoc and phd seminar, guy pare: mentor and SE, colrev, jit award
 photo: montreal with its many universities: all sending phd students to the literature review seminar -->
+
+---
+
+TODO : add the hierarychy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers)
 
 ---
 

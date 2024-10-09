@@ -89,7 +89,9 @@ predicting of Gregor 2006: relevant? something missing?
 The review types are in bold.
 TODO : highlighted the important parts and disucss with the students
 -->
- 
+
+TODO : remove the last (example) column from the figure (otherwise, students will already know the result)!
+
 ![bg right:50% width:550px](../assets/Templier2018-table-1.png)
 
 <!-- 
