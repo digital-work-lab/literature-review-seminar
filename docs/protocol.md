@@ -63,7 +63,7 @@ Length: 10-15 minutes
 
 **Template**
 
-You can use the template for [markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}), [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx), or adapt existing LaTeX templates.
+You can use the template for [markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}), [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx){: target="_blank"}, or adapt existing LaTeX templates.
 
 **Papers**
 
