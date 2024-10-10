@@ -80,7 +80,7 @@ Better present in the protocol part (how to structure a review protocol/paper?)
 
 ![center width:600px](../assets/pare2016-twin-concepts.png)
 
-Paré et al. (2016) sensitize us to the distinction between **sytematicity** and **transparency**:
+Paré et al. (2016) sensitize us to the distinction between **systematicity** and **transparency**:
 One refers to the *soundness of execution* and the other refers to the *explicitness of reporting*.
 
 <!-- Pare2016/Templier2018 -->

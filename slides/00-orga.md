@@ -61,7 +61,7 @@ Literature reviews are essential to respond to key trends
 
 - The rapid growing volume and variety of research output, e.g., the EQUATOR network lists over 600 guidelines for different research methods
 - Expectations to exercise critical judgment of prior research, e.g., retracts, papers in predatory journals, theories or methods that have shortcomings, papers that are written by tools like genAI
-- The need to avoid reinventing the wheel, e.g., cases like the grit construct, which is basically identical with consciensciousness
+- The need to avoid reinventing the wheel, e.g., cases like the grit construct, which is basically identical with conscientiousness
  
 In the future, the ability to synthesize, organize, and critically assess prior research will become even more essential.
 

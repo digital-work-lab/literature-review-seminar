@@ -4,8 +4,10 @@
 
 [![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)](https://digital-work-lab.github.io/literature-review-seminar/)
 [![DOI](https://zenodo.org/badge/741438884.svg)](https://doi.org/10.5281/zenodo.13893025)
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
+![Spelling Check](https://github.com/digital-work-lab/literature-review-seminar/actions/workflows/spelling.yml/badge.svg)
+![Links Fix](https://github.com/digital-work-lab/literature-review-seminar/actions/workflows/links_fix.yml/badge.svg)
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/literature-review-seminar/pages.yml?label=documentation)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 
 # The Literature Review Seminar
 

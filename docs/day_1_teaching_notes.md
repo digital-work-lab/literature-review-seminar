@@ -27,10 +27,10 @@ Typical research questions:
 
 Ask students whether anyone has a research question that fits to one of the four categories
 
-- Testing: How effective are chatbot interventiosn for behavioral outcomes?
+- Testing: How effective are chatbot interventions for behavioral outcomes?
 - Describing. What are the methods and contexts considered by TAM-research?
 - Explaining: Why is attentional control inefficient in context X?
-- Understanding: How do current research designs restrict our understandign of attention control theory?
+- Understanding: How do current research designs restrict our understanding of attention control theory?
 
 
 ### After Paré 2015 reading
