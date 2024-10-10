@@ -1,9 +1,13 @@
-# The Literature Review Seminar
+<p align="center">
+    <img alt="Seminar Logo" src="https://raw.githubusercontent.com/digital-work-lab/literature-review-seminar/main/assets/images/lr-seminar.png" width="600px">
+</p>
 
 [![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)](https://digital-work-lab.github.io/literature-review-seminar/)
 [![DOI](https://zenodo.org/badge/741438884.svg)](https://doi.org/10.5281/zenodo.13893025)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/literature-review-seminar/pages.yml?label=documentation)
+
+# The Literature Review Seminar
 
 Welcome! The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
 You can find more information on the following pages:
