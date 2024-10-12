@@ -8,7 +8,7 @@ nav_order: 2
 # Syllabus
 
 {: .feedback }
-"As a participant in last semester’s seminar, I would highly recommend taking part in the Literature Review Seminar with a great instructor who always responds fast and detailed. In this seminar, you learn so many useful things, which you can apply in future research papers. Especially if you are interested in scientific work, you learn everything about the conduction of literature reviews and every single type that exists, including their benefits and rationale. This very complex and important area for the success of all research papers gets simplified, that after completing this seminar, you have a great overview and great knowledge about this methodology. You also see how important and helpful it is to plan every single step in advance. This knowledge helps you a lot for your masters thesis or other academic research papers." \[[more](feedback.html)\]
+"As a participant in last semester’s seminar, I would highly recommend taking part in the Literature Review Seminar with a great instructor who always responds fast and detailed. In this seminar, you learn so many useful things, which you can apply in future research papers. Especially if you are interested in scientific work, you learn everything about the conduction of literature reviews and every single type that exists, including their benefits and rationale. This very complex and important area for the success of all research papers gets simplified, that after completing this seminar, you have a great overview and great knowledge about this methodology. You also see how important and helpful it is to plan every single step in advance. This knowledge helps you a lot for your Master's thesis or other academic research papers." \[[more](feedback.html)\]
 
 ## Basic information
 
@@ -17,7 +17,7 @@ nav_order: 2
 - **Degree program**: Master's in Information Systems, International Information Systems Management, and Applied Computer Science. Participation is also possible for Ph.D. students and students from other disciplines.
 - **Format**: Two full-day sessions, followed by individual work on the review protocol and a presentation.
 - **Dates, rooms, and tasks**: Listed on the [Main page](../index.html)
-- **Registration**: If you would like to participate, please send me an e-mail.
+- **Registration**: If you would like to participate, e-mail me.
 
 Literature reviews are a central method in information systems research and enable diverse contributions to knowledge development.
 For example, influential theories such as Media Synchronicity Theory, the IT Business Value Model, and CARE Theory were published as literature reviews.

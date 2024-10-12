@@ -29,7 +29,7 @@ You can find all information about the seminar in our [syllabus](docs/syllabus.h
 
 ## Sign up!
 
-- To sign up, send me an [e-mail](mailto:gerit.wagner@uni-bamberg.de) and suggest a review topic you are interested in.
+- To sign up, [e-mail](mailto:gerit.wagner@uni-bamberg.de) me and suggest a review topic you are interested in.
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
 - There are no registration frees.
@@ -57,7 +57,7 @@ Introductory literature is available for [goals and steps (day 1)](docs/day_1.ht
 |              | Session                                     | Date and Time              | Location      |
 | ------------ | ------------------------------------------- | ---------------------------| ------------- |
 | Session 1    | [Goals and steps](docs/day_1.html)          | October 26, 8.15-16.00     | WE5 02.020    |
-| Session 2    | [Qualitites and tools](docs/day_2.html)     | November 2, 8.15-16.00     | WE5 02.020    |
+| Session 2    | [Qualities and tools](docs/day_2.html)     | November 2, 8.15-16.00     | WE5 02.020    |
 
 <!-- 
 | Semester | Date and location | Status |
