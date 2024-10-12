@@ -13,3 +13,4 @@ assets/images/logo-4.png
 assets/images/lr-seminar.png
 assets/iconmonstr-clipboard-5.svg
 assets/iconmonstr-pencil-lined.svg
+assets/iconmonstr-info-12.svg
