@@ -12,18 +12,21 @@ on:
     - cron: '10 2 * * 3'
 
 jobs:
-
   assetChecker:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
+
+      - name: Set up GitHub CLI
+        run: |
+          sudo apt-get install -y gh
+
       - name: Identify dangling assets
         run: |
           python .github/workflows/check-assets.py
         continue-on-error: false
 
-      # Check if dangling_assets.md exists before creating the issue
       - name: Check for dangling_assets file
         id: dangling_assets
         run: |
@@ -36,12 +39,27 @@ jobs:
           fi
         continue-on-error: false
 
-      # Create issue if the dangling_assets.md file exists
-      - name: Create Issue From File
-        if: env.found == 'true'
+      - name: Search for existing "Assets report" issue
+        id: find_issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Set the token
+        run: |
+          gh issue list --state open --search "Assets report" --json number --jq '.[0].number' > issue_number.txt || echo "" > issue_number.txt
+          issue_number=$(cat issue_number.txt)
+          echo "Issue number: $issue_number"
+          echo "issue_number=$issue_number" >> $GITHUB_ENV
+
+      - name: Create new issue if not found
+        if: env.issue_number == ''
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Assets report
           content-filepath: ./dangling_assets.md
           labels: report, automated issue
 
+      - name: Update existing issue
+        if: env.issue_number != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Set the token
+        run: |
+          gh issue edit ${{ env.issue_number }} --body-file ./dangling_assets.md
