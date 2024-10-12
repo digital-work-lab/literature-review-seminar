@@ -25,10 +25,6 @@ Otto-Friedrich-Universität Bamberg
 - What are your expectations for the seminar?
 - Did you work on a literature review before?
 
-<!--
-- What is important for a good literature review?
- Ask about topics, methods papers, challenges -->
-
 ---
 
 # Your instructor: Prof. Dr. Gerit Wagner
@@ -44,10 +40,6 @@ Otto-Friedrich-Universität Bamberg
 - I started developing **CoLRev**, a Python tool for literature reviews
 
 ![bg right:30% width:350px](../assets/OA6A2695.jpg)
-
-<!--
-My background: phd, publications, postdoc and phd seminar, guy pare: mentor and SE, colrev, jit award
-photo: montreal with its many universities: all sending phd students to the literature review seminar -->
 
 ---
 
@@ -65,24 +57,6 @@ Literature reviews are essential to respond to key trends
  
 In the future, the ability to synthesize, organize, and critically assess prior research will become even more essential.
 
-<!--
-This slide is more on the reaction, the next more on active contributions
-
-sheer volume of research:
-- our capacity to synthesize it will become much more important
-- our capacity to organize (make sense of prior research)
-- our capacity to scrutinize (and sort out the bad apples)
-
-reinventing the wheel (grit - meta-analysis)
-
-https://www.sciencedirect.com/science/article/pii/S0092656620301100
-https://psycnet.apa.org/record/2016-29674-001
-
-Note: in the search: connect to jangle-fallacies (generally the lack of controlled terminology)
-
-understanding cumulative and non-cumulative episodes (not as clear as with Kuhnian scientific revolutions, but senior scholars know: if you use a particular theory that it is old/has been criticized...)
--->
-
 ---
 
 # Why literature reviews are exciting (II)
@@ -94,30 +68,17 @@ Literature reviews can make a variety of original contributions, ranging from
 
 ![bg right:35% width:350px](../assets/word-cloud-literature-review-terms.png)
 
-<!-- 
-literature review; systematic review; umbrella; meta-analysis; overview of reviews; meta-synthesis; meta-ethnography; scoping review; literature survey; Review paper; Background; State-of-the-art
-1 -->
-
 ---
 
 # Example: Media Synchronicity Theory (Dennis et al. 2006)
 
 ![center width:650px](../assets/DennisEtAl2006.png)
 
-<!--
-Rationale: impossible for an individual empirical study because there would be too many variables that must vary (just imagine an experiment!)
-Especially at group/organizational levels where research designs are much more limited (no experiments)
-Especially macro-level theories. Similarly: RBV -->
-
 ---
 
 # Example: Review of the IS Success model (Petter et al. 2008)
 
 ![center width:450px](../assets/Petter2008.png)
-
-<!-- 
-
--->
 
 ---
 
@@ -147,39 +108,6 @@ Acquire a broad understanding of
 - [Criteria and resources](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) are available online
 - Dates for submission and presentation: see [outline](../index.html#seminar-paper)
 
-<!-- January 26, presentation: February 1 -->
-
-<!-- 
-Mich vorstellen:
-- Montreal
-- Regensburg
-
-## Your expectations for the lecture "Introduction to Digital Work"
-
-Studiengänge?
-Semester?
-Wer plant den Master zu machen?
-Jemand, der nicht in Bamberg bleiben möchte?
-Wer schon im Auslandssemester/Wo?
-Wer schon ein Praktikum?
-Wer hat ein klares Berufsziel?
-
-Was interessiert Sie an Digital Work, was würden Sie gerne lernen?
-
-# Learning objectives
-
-- Understand the historical, organizational, and societal drivers of change in digital work.
-- Familiarize with a repertoire of techniques, methods, and policies for effective digital work at the levels of individuals, teams, and crowds.
-- Apply, adapt, and critically discuss these methods in different practical contexts.
-- Appreciate different forms of scientific knowledge, theories, and methods prevalent in research on digital work.
-
-
-critically discuss: understand where they come from/how they were developed (based on what evidence/theories)
-Critically discuss ethical challenges associated with the future of work.
-
-Modulkatalog:
-Nach Abschluss des Kurses haben die Studierenden ein Verständnis über die Veränderungen, Gestaltungsbereiche und Auswirkungen digitaler Arbeit. Insbesondere können sie ein Repertoire ausgewählter Methoden, Designprinzipien und organisationelle Policies erklären und situativ anwenden. Zudem können sie die Evaluation einzelner Maßnahmen diskutieren und sie mit diesem Hintergrundwissen  effektiv und verantwortungsvoll in der Praxis einsetzen.
--->
 ---
 
 # Administration
@@ -206,17 +134,6 @@ Literature
 
 Acknowledgement:
 - Guy Paré: the materials are largely based on his literature review seminar.
-
-<!-- 
-
-# Agenda
-
-- Introduction - Drivers of change in digital work
-- Development of the course structure (interactively)
-- Assignment: 3x (each major block)
-
-Teaching: when I teach, I teach - you have my attention.
--->
 
 ---
 

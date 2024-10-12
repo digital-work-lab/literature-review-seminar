@@ -27,18 +27,9 @@ Generally, literature reviews can take different forms, including
 
 Our focus is on **standalone reviews**: an "independent paper whose purpose is to synthesize the extant literature in a field without collection of empirical data" (Templier and Paré 2018).
 
-<!-- 
----
-
-# The literature review genre
-
-- other forms of non-empirical papers
- -->
-
 ---
 
 ## Literature reviews in information systems
-
 
 - Early editorial by Webster and Watson (2002, MISQ, > 12.000 citations) with key suggestions
 
@@ -51,13 +42,6 @@ Our focus is on **standalone reviews**: an "independent paper whose purpose is t
 
 ![bg right:30% width:350px](../assets/WebsterWatson2002.png)
 
-<!-- 
-Illustrate the concept matrix
-
-Mention that W&W offered more suggestions, but those are the moste prominent ones
-
- -->
-
 ---
 
 ## Goals of literature reviews
@@ -69,13 +53,6 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 - **Explaining**: drawing on the literature to develop a conceptual framework, or theory with testable hypotheses, i.e., statements that explain real-world phenomena, and can be tested empirically
 - **Theory testing**: extracting data from empirical studies to assess the aggregated evidence that has accumulated
 
-<!--
-
-understanding: may also cover "theory landscaping" (Okoli2012)
-
-predicting of Gregor 2006: relevant? something missing? 
--->
-
 ---
 
 ## The literature review typology of Paré et al. (2015)
@@ -85,20 +62,7 @@ predicting of Gregor 2006: relevant? something missing?
 
 **Task**: Familiarize yourself with the types of reviews in the typology.
 
-<!-- 
-The review types are in bold.
-TODO : highlighted the important parts and disucss with the students
--->
-
-TODO : remove the last (example) column from the figure (otherwise, students will already know the result)!
-
 ![bg right:50% width:550px](../assets/Templier2018-table-1.png)
-
-<!-- 
----
-
-**TODO: mention SkinnerNelsonChin2022a and the correlation approach**
--->
 
 ---
 
@@ -118,47 +82,17 @@ Classify the selection of review papers according to the typology of Paré et al
 
 ![bg right:50% width:550px](../assets/Pare2015-table5.png)
 
-<!-- 
-Take note of the central contributions (e.g., a figure / short summary)
-
-Narrative: Shim2002
-Descriptive: Seuring2013
-Scoping: Powell2004
-Critical: Belanger2011
-Meta-analysis: King2006b
-Qualitative systematic: Petter2008
-Umbrella: Kitsiou2017
-Theoretical: Melville2004
-Realist: Otte-Trojel2016
-
-
-Based on the Paré et al. 2015 typology: explore examples and ask students to classify / appreciate differences
-
-- Application: classify example papers - print one version of each type, highlight particular pages/figures/goals, everyone selects one, after 3 minutes, we switch (prepare a table to fill out)
--> also include 1-2 papers that are not reviews?
--->
-
 ---
 
 ## Dimensions (Cooper's taxonomy)
 
 ![center width:450px](../assets/Cooper1988-table1.png)
 
-<!-- 
-Mention my first project - classifying hundreds of papers / review types
-- dimensions, including knowledge building activities
--->
-
 ---
 
 ## Central aspect: Internal coherence
 
 ![center width:650px](../assets/internal-coherence.png)
-
-<!-- 
-What would be most coherent with your review type?
-What would be the most incoherent conbination?
--->
 
 ---
 
@@ -167,6 +101,7 @@ What would be the most incoherent conbination?
 # Break
 
 ![bg right:60% width:350px](../assets/coffee.jpg)
+
 <!-- https://unsplash.com/de/fotos/%EC%BB%B5%EC%97%90-%EC%BB%A4%ED%94%BC%EC%9D%98-%EC%8B%9C%EA%B0%84-%EA%B2%BD%EA%B3%BC-%EC%82%AC%EC%A7%84-5iRgh_G0eRY -->
 
 ---
@@ -207,17 +142,6 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ![bg right:40% width:450px](../assets/prospero.png)
 
-<!-- 
-- Purpose of a protocol (registries like PROSPERO, feedback, show examples)
-
-A review protocol is a formal document that outlines the plan of a review project. It is the foundation of the entire review process
-It forces to think through the different stages of the process at the beginning of the project and any associated challenges or issues
-Having a detailed protocol ensures that all methodological decisions are carefully considered and justified, enhancing the trustworthiness of the results and conclusions
-It also protects the authors against “scope creep”
-Tendency of researchers to expand the work required without due consideration of the costs, schedule, etc.
-Last, its publication ensures other researchers are aware that the review is being undertaken, minimizing the amount of time and resources wasted on duplicate reviews
-
-synchronous session Topic 4.pptx -->
 --- 
 
 ## Review protocols: Conceptions
@@ -263,7 +187,6 @@ synchronous session Topic 4.pptx -->
 
 ## Review protocols: Structure and contents (III)
 
-
 - Conclusion
 
     - Methodological limitations
@@ -288,23 +211,6 @@ synchronous session Topic 4.pptx -->
     - Background (what contents you would cover)
 
 - Discussion of your proposals
-
-<!--
-
-(15-20 min: prep short slide/pitch)
-
-Topic 1
-Topic 2
-Topic 3A
-Topic 3B
-
-Examples:
-Topic 5
-Topic 6
-Topic 7
-Topic 8
-Topic 9
- -->
 
 ---
 
@@ -380,8 +286,6 @@ Petter, S., DeLone, W., & McLean, E. (2008). Measuring information systems succe
 Powell, A., Piccoli, G., & Ives, B. (2004). Virtual teams: a review of current literature and directions for future research. *ACM SIGMIS Database: the DATABASE for Advances in Information Systems*, 35(1), 6-36. doi:[10.1145/968464.968467](https://dl.acm.org/doi/abs/10.1145/968464.968467)
 
 Seuring, S. (2013). A review of modeling approaches for sustainable supply chain management. *Decision Support Systems*, 54(4), 1513-1520. doi:[10.1016/j.dss.2012.05.053](https://www.sciencedirect.com/science/article/pii/S0167923612001741)
-
-
 
 ---
 

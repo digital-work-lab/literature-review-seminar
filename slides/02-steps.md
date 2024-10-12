@@ -32,16 +32,6 @@ https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-grunem-rasen-sitzen-7rIm
 - The hermeneutic framework of Boell and Cecez-Kecmanovic (2014) vs.
 - The systematic guide of Okoli (2015)
 
-<!-- 
-Discuss how the models fit together / what the underlying differences are
-
-- Reading activities: in the "data extraction"
-hermeneutic vs. systematic traditions
-inductive/emergent vs. deductive form of data analysis
-
-Okoli: screen before search? (search: "reporting the search")
--->
-
 ---
 
 ## Generic steps: Templier and Paré (2018)
@@ -53,8 +43,6 @@ Okoli: screen before search? (search: "reporting the search")
 ## Generic steps: Templier and Paré (2018)
 
 ![center width:650px](../assets/Templier2018-table-8-2.png)
-
-<!-- TODO : discuss the differences between review types -->
 
 ---
 
@@ -75,8 +63,6 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 5. Data extraction
 6. Data analysis and interpretation
 
-<!-- Remember: coherence -->
-
 ---
 
 ## Problem formulation
@@ -88,12 +74,6 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
     - Problematization, as an approach that challenges existing theory and the underlying assumptions, can lead to more interesting and noteworthy contributions
 
 - Research question or objectives
-
-<!-- 
-
-- methodological coherence objectives/type/methods
--> we have done that in the first session
--->
 
 ---
 
@@ -138,11 +118,6 @@ Resulting search string: `(telemedicine OR telehealth OR ...) AND (physician OR 
 
 Building blocks can be based on established frameworks like PICO (population-intervention-control-outcome)
 
-<!--
-
--> Check the Ringeval search. Surprising: the search strategy was stated without any trial-and-error/iterations. Explain the linked-list format, explain the Concept-Synonym-group approach
--->
-
 ---
 
 <style>
@@ -179,20 +154,11 @@ Shortcomings:
 - Need to be familiar with the vocabulary (check keywords or taxonomies like [MeSH](https://meshb.nlm.nih.gov/?_gl=1*1v2wumx*_ga*MTAzMDkzMDY3OC4xNjg1OTY3ODEy*_ga_7147EPK006*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.*_ga_P1FPTH9PL4*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.) etc.)
 - Assumption of controlled scientific vocabulary although disciplines like Information Systems have abandoned corresponding efforts decades ago (Weber 2003)
 
-<!-- anecdote: sex vs. gender -->
-
 ---
 
 ## Literature search: Search metrics
 
 The common objective is to identify all relevant papers. Literature searches retrieve documents:
-
-<!-- 
-- $TP$: True positives = *retrieved* by the search and *relevant*
-- $FP$: False positives = *retrieved* by the search but *irrelevant*
-- $FN$: False negatives = *not retrieved* by the search and *relevant* ❓
-- $TN$: True negatives = *not retrieved* by the search but *irrelevant* ❓
- -->
 
 ![center width:650px](../assets/retrieval-matrix.png)
 
@@ -213,20 +179,6 @@ Three key metrics are particularly relevant in the context of literature searche
 Would you expect more precise searches in disciplines like Information Systems, Management, or the Social Sciences? 
 
 ![bg right:35% width:450px](../assets/SYNERGY.png)
-
-<!-- 
-It is instructive to know these metrics
-The key objective is to identify all relevant papers, but also to do that efficiently
-A certain level of noise (precision) must be accepted
-SYNERGY datasets: 
-https://github.com/asreview/synergy-dataset
-included = relevant
-all records (retrieved) = True positives and False positives
-on average: 4% or 2% when removing outliers
--> check absolute numbers: 
-covering 1,000 papers to identify 20-40 relevant ones (search may be too narrow when the inclusion percentage is bigger)
-
--->
 
 ---
 
@@ -252,8 +204,6 @@ Open challenge:
 ![bg right:40% width:500px](../assets/jukan-tateisi-bJhT_8nbUA0-unsplash.jpg)
 
 <!-- 
-"We have waited too often that database provides improve search capabilities"! 
-
 https://unsplash.com/de/fotos/toddlers-standing-in-front-of-beige-concrete-stair-bJhT_8nbUA0
 -->
 
@@ -285,7 +235,6 @@ Process:
 5. Calculate inter-rater agreement (e.g., Cohen's Kappa) and report the process
 
 <!-- 
--> illustrate "Percentage agreement, Agreement by chance" with an example on the blackboard
 https://en.wikipedia.org/wiki/Cohen%27s_kappa
 -->
 ---
@@ -340,8 +289,6 @@ Key differences with regard to data extraction and analysis:
 
 ![center width:700px](../assets/profiling.png)
 
-<!-- cite Bandara !? on profiling? -->
-
 ---
 
 ## Data analysis example: Co-citation analysis
@@ -356,13 +303,6 @@ Key differences with regard to data extraction and analysis:
 
 - Example keyword analysis: https://www.youtube.com/watch?v=9dTWkNRxUtw
 - Example bibliometric analysis: https://www.youtube.com/watch?v=xmLWjcsV4zQ
-
-<!--
-TBD: Illustrate differences between co-citation analysis and bibliographic coupling?
-
-Highlight the Web of Science data export format
-
--->
 
 ---
 
@@ -412,15 +352,6 @@ TODO : present a clear Gioia structure as a result
     - *0* for no-significant effects
     - *-1* for negative significant effects
 
-<!-- 
-Exampe: Lacity et al. (2011)
-
-TODO : summarize vote counting and give an outlook on meta-analyses
-
-- data extraction (reliability, ...)
-- risk-of-bias (quality) assessment
-- Vote counting example (meta-analysis)
- -->
 ---
 
 ## Example: Lacity et al. (2011)
@@ -443,8 +374,6 @@ Shortcoming of vote counting:
 - Effect sizes are not determined
 
 Meta-analysis techniques address these shortcomings.
-
-<!-- - Hierarchy of evidence (medicine) -->
 
 ---
 
@@ -488,12 +417,6 @@ Create a quick draft for the data extraction and analysis section.
 
 - Would you follow an inductive or deductive approach (why)?
 - What outcomes would you expect ideally?
-
-<!-- 
-Topic 4A
-Topic 4B
-Grounded theory: Topic 11
--->
 
 ---
 

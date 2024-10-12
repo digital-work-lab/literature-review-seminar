@@ -47,34 +47,6 @@ The study of Wagner et al. (2021)
 - Differences in **theoretical contributions** are hard to measure (contributing to *explaining*, in itself, does not lead to a higher impact)
 
 ---
-<!-- 
-Better present in the protocol part (how to structure a review protocol/paper?)
-
-# Introduction
-
-- Guidelines per section (see topic 11), such as building blocks of an introduction (Lange 2017?)
-
----
-
-- Application: draft bullet points for the intro etc.
-- Application: identify prior reviews and give a short overview
-
----
-
-# Background
-
-- definition of key concepts
-- theoretical lenses
-- related reviews
-
-# Findings
-
-- Descriptive profile of the studies
-- Writing style
-- Theoretical contribution vs. evidence vs. ... (Leidner2020?)
-- Theoretical contribution (RTD paper / knowledge contributions that do or do not require a comprehensive review)
-
--->
 
 ## Methodological transparency and systematicity
 
@@ -84,6 +56,7 @@ Paré et al. (2016) sensitize us to the distinction between **systematicity** an
 One refers to the *soundness of execution* and the other refers to the *explicitness of reporting*.
 
 <!-- Pare2016/Templier2018 -->
+
 ---
 
 ## Reporting standards
@@ -93,8 +66,6 @@ One refers to the *soundness of execution* and the other refers to the *explicit
 
 ![center width:900px](../assets/prisma-checklist-extract.png)
 
-<!-- - Discuss: which aspects of systematicity/transparency are important for your review, which ones will you skip? -->
-
 ---
 
 ## Theoretical contributions
@@ -103,15 +74,6 @@ One refers to the *soundness of execution* and the other refers to the *explicit
 - There are high-level guidelines such as Leidner and Tona's (2021) *thought-gear model for theorizing*
 
 ![center width:450px](../assets/leidner-tona-though-gear-model-theorizing.png)
-
-<!--
-**TODO : add Rivard 2024 JSIS**
-
-and it may be helpful to study exemplars
-
- TODO : ideally, link to an overview of IS review papers (filtered for impact) 
-scholarship
--->
 
 ---
 
@@ -123,32 +85,6 @@ scholarship
 
 ![center width:800px](../assets/research-agenda-example-1.png)
 
-<!-- - Application: read exemplars of research agendas, discuss the key elements, how you research agenda could be developed -->
-<!-- 
----
-
-## The impact of a research agenda
-
-- Foresight (research agenda) -> Scientific impact
----
-
-# Implications
-
-- Contributions / implications for research and practice: Agergalk and Karlsson 2020_Contributions & implications of studies
-- Implications for practice: EBP
-
----
-
-Discussion:
-
-- which qualities would be most important for your review? Identify an example to showcase how those qualities can be achieve.
-- do you disagree with a particular quality (for your review)?
-
- -->
-<!-- 
-Topic 11
- -->
-
 ---
 
 ## Summary
@@ -159,11 +95,6 @@ Literature reviews can be expected to be more impactful if they
 - are **more transparent** in explicating their methods
 - make a compelling and innovative **theoretical or empirical contribution**
 - provide more comprehensive **suggestions for future research**
-
-<!-- 
-Note: theoretical or empirical contribution: not based on the evidence.
--> we can assume that highly transparent papers that lack a contribution will not be cited.
- -->
 
 ---
 

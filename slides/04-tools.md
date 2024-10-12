@@ -13,8 +13,6 @@ paginate: true
 - Practice the use of an open-synthesis platform (CoLRev)
 - Appreciate how AI and genAI/LLM may change the conduct of literature reviews
 
-<!-- Warm-up: have you worked with research software, what should the ideal literature review tools offer? -->
-
 ---
 
 # Typical setups
@@ -56,10 +54,6 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 | **Data Analysis**         | [*Obsidian*](https://obsidian.md/): A tool for knowledge management and data extraction.                          |
 |                           | [*RevMan*](https://training.cochrane.org/online-learning/core-software/revman): A tool to conduct meta-analyses.  |
 
-<!-- TODO : add connectedpapers/inciteful
-mention asreview / the spiral model:
-https://link.springer.com/article/10.1186/s13643-023-02421-z
--->
 ---
 
 # Self-managed approach
@@ -122,11 +116,6 @@ The following aspects deem relevant:
 - Transparent data management, enabling the collaboration of reviewers and AI
 - Self-explanatory workflow
 
-<!-- 
-- OpenSource, extensible, validated, cost-efficient (open research software, e.g., R/Tidyverse, Machine Learning in Python, Visualization)
-Note: low-code / code environment
--->
-
 | Tool                                                   | Open Source | Extensibility  | Review types      | Deployment       | 
 |--------------------------------------------------------|-------------|----------------|-------------------|------------------|
 | [CoLRev](https://colrev-environment.github.io/colrev/) | yes         | yes            | All review types  | Local or cloud   |
@@ -185,10 +174,6 @@ Current challenges: "Directly asking ChatGPT for research summaries does not pro
 
 Researchers need to understand nuances of review types, methods, and steps
 
-<!--
-- LLM like ChatGPT are seemingly easy to operate (simple interface), but generating useful output is surprisingly hard (a metaphorical Norman door)
-- litmaps
--->
 ---
 
 # Which developments can be anticipated?
@@ -206,22 +191,6 @@ Steps of the process
 - In the screen, restrictions of human cognitive capacities are one of the prime reasons to screen most of the papers based on the metadata (instead of the full-text). This could change with LLM, which 
 - Applications of LLM in the later steps have yet to be explored
 
-<!--
-(not formally part of the main review steps)
- e.g., tabulating  - give examples 
- 
-effectively excluding over 90% of the information and only considering a few words of each PDF
-
--> we may even illustrate this with a whole paper and the title highlighted for screening
-
----
-
-# Philosophical questions
-
-- makes researchers obsolete
-- danger that it reduces deep engagement with prior literature (opportunity to preserve that ability)
-
--->
 ---
 
 # Prompt example: Search query formulation
@@ -276,7 +245,6 @@ Task i:
 - Consider open-synthesis platforms such as CoLRev
 - Understand how AI and genAI/LLM may facilitate or change the process 
 
-
 ---
 
 # We value your feedback and suggestions
@@ -314,15 +282,6 @@ Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_p
 - Help us spread the word to other students
 
 ![bg right:50% width:400px](../assets/thank_you.jpg)
-
-<!-- 
-The nice thing about literature reviews is that there are many roads that may connect us (or colleagues)
-
-- Deep engagement (AI/generative AI? - reading not part of the process?)
--> How could ML/machines/generative AI facilitate a deeper understanding (instead of distancing reviewers from the literature)?
-
-Wrap-up! Plans for submission (presentation?!?!)
--->
 
 ---
 
