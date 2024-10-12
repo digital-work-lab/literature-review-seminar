@@ -182,7 +182,7 @@ Review types
 
 - Descriptive reviews may be the first to become obsolete given the summarizing capabilities of LLM
 - For testing reviews, LLM can support different steps, including the generation of code for the analysis
-- For reviews aimed at understanding of explaining, there may be different futures
+- For reviews aimed at understanding or explaining, there may be different futures
 
 Steps of the process
 
@@ -205,7 +205,7 @@ needs. You are able to take an information need such as: “Review of IT Busines
 Science queries such as:
 “TI=(IT OR IS OR …) AND TI=(value OR payoff OR …) AND TI=(firm OR business OR …)”.
 
-Now you have your information need to conduct research on “The effect of LLM on individual performance at work”,
+Now you have your information needed to conduct research on “The effect of LLM on individual performance at work”,
 please generate a highly effective systematic review Boolean query for the information need.
 ```
 

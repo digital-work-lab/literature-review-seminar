@@ -130,7 +130,7 @@ blockquote {
 
 ## Exercise: Review a search strategy
 
-Imagine you serve as a reviewer for a conference. You review a paper on algorithmic decision making, along with Table 2.
+Imagine you serve as a reviewer for a conference. You review a paper on algorithmic decision-making, along with Table 2.
 
 - Evaluate the proposed search strategy critically, taking into account the building-block approach. 
 - Make a recommendation to accept, revise, or reject.
@@ -184,7 +184,7 @@ Would you expect more precise searches in disciplines like Information Systems, 
 
 ## Literature search: Application
 
-- Draft a search strategy for your topic following the building-blocks approach.
+- Draft a search strategy for your topic, following the building-blocks approach.
 
 ![center width:1200px](../assets/concept-map.png)
 
@@ -380,7 +380,7 @@ Meta-analysis techniques address these shortcomings.
 ## Data analysis: Risk of bias assessment (I)
 
 - Example: Ringeval et al. (2020): "Fitbit-Based Interventions for Healthy Lifestyle Outcomes: Systematic Review and Meta-Analysis"
-- The [Cochrane risk-of-bias tool for randomized trials (RoB 2)](https://training.cochrane.org/handbook/current/chapter-08) covers seven **domains of bias** as illustrated in the table
+- The [Cochrane risk-of-bias tool for randomized trials (RoB 2)](https://training.cochrane.org/handbook/current/chapter-08) covers seven **domains of bias**, as illustrated in the table
 
 ![bg right:50% width:600px](../assets/risk-of-bias-table.png)
 
@@ -394,7 +394,7 @@ Meta-analysis techniques address these shortcomings.
 
 ## Data analysis: Data extraction
 
-Research objective: "to assess the effects of Fitbit-based interventions, compared with nonwearable control groups, on healthy lifestyle outcomes." (Ringeval et al. 2020)
+Research objective: "to assess the effects of Fitbit-based interventions, compared with non-wearable control groups, on healthy lifestyle outcomes." (Ringeval et al. 2020)
 
 Data extraction (example): 
 

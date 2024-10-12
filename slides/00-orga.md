@@ -30,7 +30,7 @@ Otto-Friedrich-Universität Bamberg
 # Your instructor: Prof. Dr. Gerit Wagner
 
 - Sustained **fascination** for literature reviews for 10+ years
-- 2014-2018: **Disseration** on the scientific impact of literature reviews
+- 2014-2018: **Dissertation** on the scientific impact of literature reviews
 - 2020-2023: Postdoctoral fellowship at HEC Montréal (Canada):
 
     - Worked with **Guy Paré**, Ph.D., a frequent co-author and mentor, who serves as a Senior Editor for Literature Reviews at JAIS
@@ -40,10 +40,6 @@ Otto-Friedrich-Universität Bamberg
 - I started developing **CoLRev**, a Python tool for literature reviews
 
 ![bg right:30% width:350px](../assets/OA6A2695.jpg)
-
----
-
-TODO : add the hierarychy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers)
 
 ---
 
@@ -114,7 +110,7 @@ Acquire a broad understanding of
 
 Contact: gerit.wagner@uni-bamberg.de
 
-Consultation hours: via [calendly](https://calendly.com/gerit-wagner/30min?month=2023-10)
+Consultation hours: via [Calendly](https://calendly.com/gerit-wagner/30min?month=2023-10)
 Web: https://www.uni-bamberg.de/digital-work
 
 Materials: available [online](https://digital-work-lab.github.io/literature-review-seminar/)
