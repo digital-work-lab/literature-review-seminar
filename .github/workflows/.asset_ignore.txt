@@ -1,0 +1,15 @@
+assets/retrieval-matrix.pptx
+assets/search-query.pptx
+assets/template/background.jpg
+assets/template/theme.css
+assets/concept-map.pptx
+assets/gerit_wagner.jpg
+assets/deductive-inductive.pptx
+assets/internal-coherence.pptx
+assets/images/logo-1.png
+assets/images/logo-2.png
+assets/images/logo-3.png
+assets/images/logo-4.png
+assets/images/lr-seminar.png
+assets/iconmonstr-clipboard-5.svg
+assets/iconmonstr-pencil-lined.svg
