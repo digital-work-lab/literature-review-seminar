@@ -57,7 +57,7 @@ Especially macro-level theories. Similarly: RBV
 
 - TODO : be prepared to illustrate the concept matrix
 
-Mention that W&W offered more suggestions, but those are the moste prominent ones
+Mention that W&W offered more suggestions, but those are the most prominent ones
 
 ## Goals
 
@@ -121,7 +121,7 @@ Mention my first project - classifying hundreds of papers / review types
 ### Central aspect: Internal coherence
 
 What would be most coherent with your review type?
-What would be the most incoherent conbination?
+What would be the most incoherent combination?
 
 ### What can we publish from a review project
 
@@ -232,7 +232,7 @@ VOS-Viewer:
 - TBD: Illustrate differences between co-citation analysis and bibliographic coupling?
 - Highlight the Web of Science data export format
 
-Vote counting: Exampe: Lacity et al. (2011)
+Vote counting: Example: Lacity et al. (2011)
 
 TODO : summarize vote counting and give an outlook on meta-analyses
 

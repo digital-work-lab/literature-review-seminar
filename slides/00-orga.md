@@ -43,6 +43,10 @@ Otto-Friedrich-Universität Bamberg
 
 ---
 
+TODO : add the hierarychy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers)
+
+---
+
 # Why literature reviews are exciting (I)
 
 Literature reviews are essential to respond to key trends
