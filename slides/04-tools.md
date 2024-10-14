@@ -278,7 +278,7 @@ Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_p
 
 - Thank you for participating in the seminar
 - Keep in mind: If you work on literature reviews, there are opportunities to reconnect!
-- Give us some [feedback](https://digital-work-lab.github.io/literature-review-seminar/docs/feedback.html)
+- Give us some [feedback](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
 - Help us spread the word to other students
 
 ![bg right:50% width:400px](../assets/thank_you.jpg)
