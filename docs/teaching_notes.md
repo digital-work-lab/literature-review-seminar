@@ -3,7 +3,7 @@ layout: default
 title: "Teaching notes"
 nav_exclude: true
 has_toc: true
-search: false
+search_exclude: true
 ---
 
 # Teaching notes
