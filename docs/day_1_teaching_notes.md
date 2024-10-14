@@ -243,6 +243,15 @@ TODO : summarize vote counting and give an outlook on meta-analyses
 
 Aggregating evidence: Hierarchy of evidence (medicine)
 
+Explain RCTs (based on CONSORT): eligibility, randomization, intervention, follow-up, analysis
+
+
+Show the coding sheet: Thorndike (annotations)
+
+- Van Blarigan:
+    - intervention: booklet + fitbit + texts
+    - control: more active at baseline! (differences in baseline should be randomly distributede across studies, they should be smaller for larger samples)
+
 - For "training": show RCT.jpg.
 - Highlight the need to have a clear plan (e.g., which follow-up will be considered?)
 

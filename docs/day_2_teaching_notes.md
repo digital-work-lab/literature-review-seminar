@@ -42,6 +42,8 @@ Start with a question on students' current thoughts about tool selection in thei
 
 Warm-up: have you worked with research software, what should the ideal literature review tools offer?
 
+Video: Covidence / HubMEta
+
 ### Self-managed approach: Tools
 
 TODO : add connectedpapers/inciteful
