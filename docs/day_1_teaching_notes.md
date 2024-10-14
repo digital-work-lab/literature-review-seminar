@@ -3,6 +3,7 @@ layout: default
 title: "Session 1: Goals and steps (teaching notes)"
 has_toc: true
 nav_exclude: true
+search: false
 ---
 
 # Session 1: Goals and steps (teaching notes)

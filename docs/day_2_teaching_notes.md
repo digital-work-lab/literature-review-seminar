@@ -3,6 +3,7 @@ layout: default
 title: "Session 2: Qualities and tools (teaching notes)"
 has_toc: true
 nav_exclude: true
+search: false
 ---
 
 # Session 2: Qualities and tools (teaching notes)
