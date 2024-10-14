@@ -3,6 +3,8 @@ marp: true
 header: 'Literature Review Seminar'
 theme: ub-theme
 paginate: true
+layout: default
+search: true
 ---
 
 # The Literature Review Seminar

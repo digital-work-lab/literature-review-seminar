@@ -33,6 +33,11 @@ callouts:
     title: See also
     color: green
 
+collections:
+  slides:
+    output: true
+    search: true
+
 aux_links:
   "Repository":
     - "https://github.com/digital-work-lab/literature-review-seminar"
