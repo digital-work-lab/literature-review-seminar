@@ -249,8 +249,8 @@ Explain RCTs (based on CONSORT): eligibility, randomization, intervention, follo
 Show the coding sheet: Thorndike (annotations)
 
 - Van Blarigan:
-    - intervention: booklet + fitbit + texts
-    - control: more active at baseline! (differences in baseline should be randomly distributede across studies, they should be smaller for larger samples)
+    - intervention: booklet + Fitbit + texts
+    - control: more active at baseline! (differences in baseline should be randomly distributed across studies, they should be smaller for larger samples)
 
 - For "training": show RCT.jpg.
 - Highlight the need to have a clear plan (e.g., which follow-up will be considered?)
