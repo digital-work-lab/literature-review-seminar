@@ -35,7 +35,7 @@ xychart-beta
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#000000", "plotLineWidth": 4} } }}%%
 xychart-beta
     title "Participation"
-    x-axis [SS23, WS2324, SS24]
+    x-axis [WS2324, SS24]
     y-axis "Number of students" 0 --> 20
     line [5, 9]
 ```
