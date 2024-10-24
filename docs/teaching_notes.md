@@ -8,25 +8,23 @@ search_exclude: true
 
 # Teaching notes
 
-{: .info }
-> **Info**
-> The teaching notes include materials for the instructor and teaching assistants.
-
-- [Session notes: Day 1](day_1_teaching_notes.html)
-- [Session notes: Day 2](day_2_teaching_notes.html)
+| **Day** | **Session** | **Duration** | **Topic**      |  **Session Notes**                               |
+|---------|-------------|--------------|----------------|--------------------------------------------------|
+| 1       | Morning     | 1h           | Intro          | [Intro](day_1_teaching_notes_intro.html)         |
+| 1       | Morning     | 3h           | Goals          | [Goals](day_1_teaching_notes_goals.html)         |
+| 1       | Afternoon   | 4h           | Steps          | [Steps](day_1_teaching_notes_steps.html)         |
+| 2       | Morning     | 4h           | Qualities      | [Qualities](day_2_teaching_notes_qualities.html) |
+| 2       | Afternoon   | 4h           | Tools          | [Tools](day_2_teaching_notes_tools.html)         |
 
 ## Preparation
 
-- [ ] Update dates and rooms for sessions
-- [ ] Update the rating average in the badge (change the badge-link on index.md) and participation
-- Create VC, link (and update password)
-- Upload Pare et al. 2015
-- Prepare copies of the review types (for classification)
+- [x] Update dates and rooms for sessions
+- [x] Update the rating average in the badge (change the badge-link on index.md) and participation
+- [ ] Create VC, link (and update password)
+- [ ] Upload Pare et al. 2015
+- [ ] Prepare copies of the review types (for classification)
 
-## Session 1: ...
-
-<!-- 
-VC post:
+## First VC post
 
 > Sehr geehrte Studierende,
 > 
@@ -41,4 +39,3 @@ VC post:
 > Mit besten Grüßen
 > 
 > Gerit Wagner
--->
