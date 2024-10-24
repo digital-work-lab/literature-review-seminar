@@ -13,14 +13,14 @@ search_exclude: true
 | 1       | Morning     | 1h           | Intro          | [Intro](day_1_teaching_notes_intro.html)         |
 | 1       | Morning     | 3h           | Goals          | [Goals](day_1_teaching_notes_goals.html)         |
 | 1       | Afternoon   | 4h           | Steps          | [Steps](day_1_teaching_notes_steps.html)         |
-| 2       | Morning     | 4h           | Qualities      | [Qualities](day_2_teaching_notes_qualities.html) |
-| 2       | Afternoon   | 4h           | Tools          | [Tools](day_2_teaching_notes_tools.html)         |
+| 2       | Morning     | 3h           | Qualities      | [Qualities](day_2_teaching_notes_qualities.html) |
+| 2       | Afternoon   | 3h           | Tools          | [Tools](day_2_teaching_notes_tools.html)         |
 
 ## Preparation
 
 - [x] Update dates and rooms for sessions
 - [x] Update the rating average in the badge (change the badge-link on index.md) and participation
-- [ ] Create VC, link (and update password)
+- [x] Create VC, link (and update password)
 - [ ] Upload Pare et al. 2015
 - [ ] Prepare copies of the review types (for classification)
 
