@@ -8,6 +8,13 @@ search_exclude: true
 
 # Session 1: Goals (teaching notes)
 
+## Literature reviews in IS
+
+- Be prepared to illustrate the concept matrix
+- Mention that W&W offered more suggestions, but those are the most prominent ones
+
+## Goals
+
 Typical research questions:
 
 Ask students whether anyone has a research question that fits to one of the four categories
@@ -35,7 +42,6 @@ predicting of Gregor 2006: relevant? something missing?
 - Discuss reading strategy (skim headings/figures etc)
 - Ask students to take notes: which parts (figures/statements) led to your decisions?
 
-
 ### Classification results
 
 Take note of the central contributions (e.g., a figure / short summary)
@@ -62,8 +68,8 @@ Based on the Paré et al. 2015 typology: explore examples and ask students to cl
 
 ### Dimensions (Cooper's taxonomy)
 
-Mention my first project - classifying hundreds of papers / review types
-- dimensions, including knowledge building activities
+- Mention my first project - classifying hundreds of papers / review types
+- Dimensions, including knowledge building activities
 
 ### Central aspect: Internal coherence
 
@@ -93,3 +99,16 @@ Last, its publication ensures other researchers are aware that the review is bei
 
 synchronous session Topic 4.pptx 
 
+
+## Review protocols: Their purposes
+
+- Purpose of a protocol (registries like PROSPERO, feedback, show examples)
+
+A review protocol is a formal document that outlines the plan of a review project. It is the foundation of the entire review process
+It forces to think through the different stages of the process at the beginning of the project and any associated challenges or issues
+Having a detailed protocol ensures that all methodological decisions are carefully considered and justified, enhancing the trustworthiness of the results and conclusions
+It also protects the authors against “scope creep”
+Tendency of researchers to expand the work required without due consideration of the costs, schedule, etc.
+Last, its publication ensures other researchers are aware that the review is being undertaken, minimizing the amount of time and resources wasted on duplicate reviews
+
+<!-- synchronous session Topic 4.pptx  -->

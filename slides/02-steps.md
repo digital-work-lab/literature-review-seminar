@@ -224,7 +224,7 @@ https://unsplash.com/de/fotos/toddlers-standing-in-front-of-beige-concrete-stair
 
 ## Screening reliability
 
-Screening tasks are often split among the review team to complete the process **more quickly**, and to ensure **reliable decisions**
+Screening tasks are often split among the review team to complete the process **more quickly**, and to ensure **reliable decisions**.
 
 Process:
 
@@ -234,12 +234,38 @@ Process:
 4. Reconciliation: in case of disagreements, final decisions are made by selected team members (often more senior researchers)
 5. Calculate inter-rater agreement (e.g., Cohen's Kappa) and report the process
 
+
 <!-- 
 https://en.wikipedia.org/wiki/Cohen%27s_kappa
 -->
 ---
 
-TODO : bring interpretations of kappa values, mention that higher kappa is difficult when the distribution is skewed
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
+## Interpretation of Kappa Values
+
+<br>
+
+<div align="center">
+
+| Kappa Value Range | Interpretation           |
+|-------------------|--------------------------|
+| ≤ 0               | No agreement             |
+| 0.01 – 0.20       | None to slight           |
+| 0.21 – 0.40       | Fair                     |
+| 0.41 – 0.60       | Moderate                 |
+| 0.61 – 0.80       | Substantial              |
+| 0.81 – 1.00       | Almost perfect agreement |
+
+</div>
+
+> Note: When data is skewed—meaning one category is much more common than others—the Kappa statistic can be artificially low even if there is a high level of agreement. This occurs because Kappa adjusts for the level of agreement that would be expected purely by chance. In skewed distributions, the expected chance agreement tends to be high, which lowers the Kappa score. Essentially, in skewed distributions, even a relatively high observed agreement may not lead to a high Kappa, as the metric accounts for the imbalance.
 
 ---
 
@@ -335,9 +361,7 @@ The coding process and results are often illustrated in the *Gioia data structur
 
 - Objective: Analyze extant research and inductively develop a process model
 
----
-
-TODO : present a clear Gioia structure as a result
+<!-- TODO : present a clear Gioia structure as a result -->
 
 ---
 
@@ -424,7 +448,7 @@ Create a quick draft for the data extraction and analysis section.
 
 We encourage you to share your feedback and suggestions on this slide deck:
 
-<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/02-steps.md" target="_blank">
+<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/02-steps.md" target="_blank">
   <img src="../assets/iconmonstr-pencil-lined.svg" alt="Edit" width="32" height="32"> Suggest specific changes by directly modifying the content
 </a>
 <br>

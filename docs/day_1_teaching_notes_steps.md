@@ -10,20 +10,7 @@ search_exclude: true
 
 Ask students to adopt the perspective of a reviewer and scrutinize methodological choices
 
-## Review protocols: Their purposes
-
-- Purpose of a protocol (registries like PROSPERO, feedback, show examples)
-
-A review protocol is a formal document that outlines the plan of a review project. It is the foundation of the entire review process
-It forces to think through the different stages of the process at the beginning of the project and any associated challenges or issues
-Having a detailed protocol ensures that all methodological decisions are carefully considered and justified, enhancing the trustworthiness of the results and conclusions
-It also protects the authors against “scope creep”
-Tendency of researchers to expand the work required without due consideration of the costs, schedule, etc.
-Last, its publication ensures other researchers are aware that the review is being undertaken, minimizing the amount of time and resources wasted on duplicate reviews
-
-synchronous session Topic 4.pptx 
-
-# Steps
+## Steps
 
 Discuss how the models fit together / what the underlying differences are
 
@@ -84,7 +71,7 @@ Outlook: "We have waited too often that database provides improve search capabil
 
 Illustrate "Percentage agreement, Agreement by chance" with an example on the blackboard
 
-See notes-screening-reliability.jpg
+![screening reliability](day_1_steps_screen_notes-screening-reliability.jpg)
 
 ## Inductive
 
@@ -94,7 +81,7 @@ Have students analyze, code in groups
 
 Q: What are the key processes across extracted documents?
 
-inductive-coding-result.jpg
+![inductive coding result](day_1_steps_data_inductive-coding-result.jpg)
 
 Key challenges:
 - Terminology
@@ -127,7 +114,10 @@ Show the coding sheet: Thorndike (annotations)
     - intervention: booklet + Fitbit + texts
     - control: more active at baseline! (differences in baseline should be randomly distributed across studies, they should be smaller for larger samples)
 
-- For "training": show RCT.jpg.
+- For "training": show RCT schema:
+
+![RCT illustration](day_1_steps_data_RCT.jpg)
+
 - Highlight the need to have a clear plan (e.g., which follow-up will be considered?)
 
 Solution (LRTracker - data extraction fig 4)

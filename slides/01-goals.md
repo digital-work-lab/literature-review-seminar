@@ -121,8 +121,8 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ## What can we publish from a review project?
 
-- Review protocol: Open Science Foundation (OSF), conference proceedings, PROSPERO
-- Search strategy: searchRxiv
+- Review protocol: [Open Science Foundation (OSF)](https://osf.io/), [PROSPERO](https://www.crd.york.ac.uk/prospero/), conference proceedings
+- Search strategy: [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv)
 - Options to publish standalone review papers:
 
     - Conference proceedings (e.g., ICIS track for literature reviews)
@@ -131,7 +131,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
     - Review special issues (e.g., Journal of Strategic Information Systems)
     - Regular submission to journals
 
-- Review dataset: OSF, SYNERGY datasets
+- Review dataset: [OSF](https://osf.io/), [SYNERGY datasets](https://github.com/asreview/synergy-dataset)
 
 ---
 
@@ -220,7 +220,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 We encourage you to share your feedback and suggestions on this slide deck:
 
-<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/01-goals.md" target="_blank">
+<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/01-goals.md" target="_blank">
   <img src="../assets/iconmonstr-pencil-lined.svg" alt="Edit" width="32" height="32"> Suggest specific changes by directly modifying the content
 </a>
 <br>

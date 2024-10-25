@@ -34,9 +34,11 @@ You can find all information about the seminar in our [syllabus](docs/syllabus.h
 - It is open to participants from other departments and universities.
 - There are no registration frees.
 
+<!-- 
 {: .info }
 > **Info** Registration deadline: October 19th, 2024.
 > We are currently updating the contents for the upcoming winter semester (2024/25). You can find the dates and times for the sessions in the table below.
+-->
 
 ## Goals
 

@@ -8,10 +8,10 @@ search_exclude: true
 
 # Session 1: Intro (teaching notes)
 
-# Prior knowledge of literature reviews, topics, and expectations
+## Prior knowledge of literature reviews, topics, and expectations
 
 - What is important for a good literature review?
- Ask about topics, methods papers, challenges
+- Ask about topics, methods papers, challenges
 
 ## Introduction
 
@@ -24,11 +24,10 @@ search_exclude: true
 - Make sure that the topics and student interests receive enough attention
 
 My background: phd, publications, postdoc and phd seminar, guy pare: mentor and SE, colrev, jit award
-photo: montreal with its many universities: all sending phd students to the literature review seminar
 
 ## Why literature reviews are exciting (I)
 
-This slide is more on the reaction, the next more on active contributions
+This slide is more on how LRs help us to react to rising demands (the next more on active contributions)
 
 sheer volume of research:
 - our capacity to synthesize it will become much more important
@@ -37,12 +36,18 @@ sheer volume of research:
 
 reinventing the wheel (grit - meta-analysis)
 
+cases like the grit construct, which is basically identical with conscientiousness
+
+retracts, papers in predatory journals, theories or methods that have shortcomings, papers that are written by tools like genAI
+
+<!-- 
 https://www.sciencedirect.com/science/article/pii/S0092656620301100
 https://psycnet.apa.org/record/2016-29674-001
 
 Note: in the search: connect to jangle-fallacies (generally the lack of controlled terminology)
 
 understanding cumulative and non-cumulative episodes (not as clear as with Kuhnian scientific revolutions, but senior scholars know: if you use a particular theory that it is old/has been criticized...)
+-->
 
 ## Why literature reviews are exciting (II)
 
@@ -53,10 +58,3 @@ literature review; systematic review; umbrella; meta-analysis; overview of revie
 Rationale: impossible for an individual empirical study because there would be too many variables that must vary (just imagine an experiment!)
 Especially at group/organizational levels where research designs are much more limited (no experiments)
 Especially macro-level theories. Similarly: RBV 
-
-## Literature reviews in IS
-
-- TODO : be prepared to illustrate the concept matrix
-
-Mention that W&W offered more suggestions, but those are the most prominent ones
-

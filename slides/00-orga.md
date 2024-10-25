@@ -9,10 +9,10 @@ paginate: true
 
 # The Literature Review Seminar
 
-Seminar, Master
+Seminar: Master | Ph.D.
 
 Prof. Dr. Gerit Wagner
-Fakultät Wirtschaftsinformatik und Angewandte Informatik
+Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-literature-review-seminar.png)
@@ -29,67 +29,104 @@ Otto-Friedrich-Universität Bamberg
 
 # Your instructor: Prof. Dr. Gerit Wagner
 
-- Sustained **fascination** for literature reviews for 10+ years
+Sustained **fascination** for literature reviews for 10+ years:
+
 - 2014-2018: **Dissertation** on the scientific impact of literature reviews
-- 2020-2023: Postdoctoral fellowship at HEC Montréal (Canada):
+- 2020-2022: Postdoctoral fellowship at HEC Montréal (Canada):
 
     - Worked with **Guy Paré**, Ph.D., a frequent co-author and mentor, who serves as a Senior Editor for Literature Reviews at JAIS
     - Served as a TA for the **literature review seminar** for Ph.D. students at five universities in Montréal
  
+- 2022-2024: Professor of Information Systems at Otto-Friedrich-Universität Bamberg
+
+    - Started offering the **Literature Review Seminar**
+
 - I have **published 20 papers related to literature reviews** (out of 30)
-- I started developing **CoLRev**, a Python tool for literature reviews
+- I am the lead developer of **CoLRev**, a Python tool for literature reviews
 
-![bg right:30% width:350px](../assets/OA6A2695.jpg)
-
----
-
-TODO : add the hierarychy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers)
+![bg right:25% width:300px](../assets/OA6A2695.jpg)
 
 ---
 
 # Why literature reviews are exciting (I)
 
-Literature reviews are essential to respond to key trends
+Literature reviews are essential to respond to key trends:
 
-- The rapid growing volume and variety of research output, e.g., the EQUATOR network lists over 600 guidelines for different research methods
-- Expectations to exercise critical judgment of prior research, e.g., retracts, papers in predatory journals, theories or methods that have shortcomings, papers that are written by tools like genAI
-- The need to avoid reinventing the wheel, e.g., cases like the grit construct, which is basically identical with conscientiousness
- 
+- The rapid growing volume and variety of research output, e.g., 
+
+  - Over 2 million new papers per year
+  - Over 600 guidelines for different research methods (see EQUATOR network)
+
+- The need to demonstrate novelty of contributions and avoid reinventing the wheel
+- Expectations to exercise critical judgment of prior research
+
+<!-- TODO: show "scholarly sophistication", "to the best of our knowledge, this is new..."  -->
+
 In the future, the ability to synthesize, organize, and critically assess prior research will become even more essential.
 
 ---
 
 # Why literature reviews are exciting (II)
 
-Literature reviews can make a variety of original contributions, ranging from 
+<!-- Literature reviews can make a variety of original contributions, ranging from  -->
 
-- conceptual contributions that could never be accomplished in an individual study
-- to reviews that aggregate empirical evidence, and address common errors that cannot be eliminated in empirical studies (e.g., measurement error or publication bias)
+Literature reviews can make theoretical contributions that could never be accomplished in an individual study.
 
-![bg right:35% width:350px](../assets/word-cloud-literature-review-terms.png)
+Example: Media Synchronicity Theory (Dennis et al. 2006)
 
----
+<!-- ![bg right:35% width:350px](../assets/word-cloud-literature-review-terms.png) -->
 
-# Example: Media Synchronicity Theory (Dennis et al. 2006)
+![center width:580px](../assets/DennisEtAl2006.png)
 
-![center width:650px](../assets/DennisEtAl2006.png)
-
+<!-- 
 ---
 
 # Example: Review of the IS Success model (Petter et al. 2008)
 
 ![center width:450px](../assets/Petter2008.png)
+-->
 
 ---
 
 # Why literature reviews are exciting (III)
 
-- Exemplary contributions can have a profound impact (e.g., Vial 2019 is cited 2,000 times per year)
-- There are open challenges, such as 
+![bg right:40% width:500px](../assets/hierarchy-of-evidence.png)
 
-    - Differences and synergies across disciplines,
-    - Design of LR software to manage data, AI, and collaboration,
-    - Coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review))
+Meta-analyses and qualitative systematic reviews can be used to aggregate the empirical evidence across studies. They are at the top of the **hierarchy of evidence**. For **practitioners** and **policy makers**, meta-analyses can be an authoritative source of evidence:
+
+ <!-- In healthcare, the hierarchy of evidence (on the right) is an integral part for *evidence-based practice*. There are similar examples in education (Hattie) -->
+
+- The Cochrane Reviews (public health)
+- The Campbell Collaboration (social policy, and criminal justice)
+- Visible learning: A synthesis of over 800 meta-analyses relating to achievement (Hattie 2008)
+<!-- - Time-series minimum-wage studies: a meta-analysis (Card and Krueger, 1995) 
+- Job satisfaction and job performance: A meta-analysis (Iaffaldano and Muchinsky 1985)
+-->
+
+For **researchers**, meta-analyses and systematic reviews may indicate areas where empirical evidence is inconclusive.
+
+Meta-analyses are able to address common errors that cannot be eliminated in empirical studies (e.g., measurement error or publication bias).
+
+
+<!-- TODO : add the hierarychy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers) -->
+
+---
+
+# Why literature reviews are exciting (IV)
+
+Literature reviews can have a profound impact (e.g., Vial 2019 is cited 2,000 times per year)
+
+![center width:900px](../assets/vial_scholar.png)
+
+---
+
+# Why literature reviews are exciting (V)
+
+There are many open challenges, such as 
+
+  - Differences and synergies across disciplines,
+  - Design of LR software to manage data, AI, and collaboration,
+  - Coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review))
 
 ---
 
@@ -110,26 +147,20 @@ Acquire a broad understanding of
 
 ---
 
-# Administration
+# Administration and Materials
 
 Contact: gerit.wagner@uni-bamberg.de
 
 Consultation hours: via [Calendly](https://calendly.com/gerit-wagner/30min?month=2023-10)
-Web: https://www.uni-bamberg.de/digital-work
 
-Materials: available [online](https://digital-work-lab.github.io/literature-review-seminar/)
-
----
-
-# Materials
+Materials are available [online](https://digital-work-lab.github.io/literature-review-seminar/):
 
 Slides
 - Presentation slides will be made available for download.
 - You are expected to take complementary notes and read the recommended literature.
 
 Literature
-- Literature and complementary materials will be listed at the end of each lecture.
-- Materials will be made available via VC whenever possible.
+- Literature and complementary materials are listed at the end of each lecture.
 - Reading of complementary materials depends on your interest and ambition.
 
 Acknowledgement:
@@ -141,7 +172,7 @@ Acknowledgement:
 
 We encourage you to share your feedback and suggestions on this slide deck:
 
-<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/00-orga.md" target="_blank">
+<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/00-orga.md" target="_blank">
   <img src="../assets/iconmonstr-pencil-lined.svg" alt="Edit" width="32" height="32"> Suggest specific changes by directly modifying the content
 </a>
 <br>
