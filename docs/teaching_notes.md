@@ -21,7 +21,7 @@ search_exclude: true
 - [x] Update dates and rooms for sessions
 - [x] Update the rating average in the badge (change the badge-link on index.md) and participation
 - [x] Create VC, link (and update password)
-- [x] Upload Pare et al. 2015
+- [x] Upload Pare et al. 2015, Thorndike et al. 2014, van Blarigan et al. 2019
 - [x] Prepare copies of the review types (for classification)
 
 ## First VC post

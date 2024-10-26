@@ -422,7 +422,7 @@ Research objective: "to assess the effects of Fitbit-based interventions, compar
 
 Data extraction (example): 
 
-- Two randomized controlled trials: Thorndike et al. 2014, van Blarigan et al. 2019
+- Two randomized controlled trials: [Thorndike et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24950218/), [van Blarigan et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30866859/)
 - Extract the following findings (at follow-up):
 
 ![center width:1000px](../assets/coding-sheet.png)
