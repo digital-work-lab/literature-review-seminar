@@ -10,18 +10,25 @@ search_exclude: true
 
 ## Prior knowledge of literature reviews, topics, and expectations
 
+- What is your topic and research question for this seminar?
+- What are your expectations for the seminar?
+- Did you work on a literature review before?
+
+- Ask students to write their topics and names on the whiteboard (one after the other, writing similar topics next to each other)
+- Ask students about their experience with literature reviews
+- Make sure that the topics and student interests receive enough attention
+
+<!-- 
+Potential follow-up questions:
 - What is important for a good literature review?
 - Ask about topics, methods papers, challenges
+ -->
 
 ## Introduction
 
 - I am not an expert in all topics. 
 - I have experience with the method, how to ensure a good methodological fit, how to present and develop review papers in a compelling manner.
 - Prior experience: TA for 50 PhD students from different management disciplines
-
-- Ask students to write their topics and names on the whiteboard (one after the other, writing similar topics next to each other)
-- Ask students about their experience with literature reviews
-- Make sure that the topics and student interests receive enough attention
 
 My background: phd, publications, postdoc and phd seminar, guy pare: mentor and SE, colrev, jit award
 
@@ -55,6 +62,11 @@ literature review; systematic review; umbrella; meta-analysis; overview of revie
 
 ## Example: Media Synchronicity Theory (Dennis et al. 2006)
 
-Rationale: impossible for an individual empirical study because there would be too many variables that must vary (just imagine an experiment!)
-Especially at group/organizational levels where research designs are much more limited (no experiments)
-Especially macro-level theories. Similarly: RBV 
+- Rationale: impossible for an individual empirical study because there would be too many variables that must vary (just imagine an experiment!)
+- Especially at group/organizational levels where research designs are much more limited (no experiments)
+- Especially macro-level theories. Similarly: RBV 
+
+## Protocol/Outcome
+
+- Set date for presentation
+- Show LR-Seminar website and the **Review Protocol** section with criteria/template

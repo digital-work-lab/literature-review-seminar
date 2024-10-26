@@ -40,7 +40,7 @@ Our focus is on **standalone reviews**: an "independent paper whose purpose is t
     - Concept-centric writing instead of author-centric summaries
 
 - Establishment of the Theory and Review Department at MISQ, and similar initiatives at JAIS, and JSIS
-- Active discourse covering systematicity, transparency, and typological pluralism across top journals in Information Systems
+- Active discourse covering typological pluralism, systematicity, and transparency across top journals in Information Systems
 
 ![bg right:30% width:350px](../assets/WebsterWatson2002.png)
 
@@ -57,7 +57,7 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 
 ---
 
-## The literature review typology of Paré et al. (2015)
+## The typology of Paré et al. (2015)
 
 - Paré et al. (2015) published the established typology of literature reviews, covering 9 distinct types of reviews (plus hybrid reviews)
 - The review types can be aligned with the goals of Rowe (2014), as indicated in the table (Templier and Paré 2018)

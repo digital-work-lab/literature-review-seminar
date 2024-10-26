@@ -52,13 +52,13 @@ Sustained **fascination** for literature reviews for 10+ years:
 
 Literature reviews are essential to respond to key trends:
 
-- The rapid growing volume and variety of research output, e.g., 
+- The rapid growing volume and variety of research output:
 
   - Over 2 million new papers per year
   - Over 600 guidelines for different research methods (see EQUATOR network)
 
 - The need to demonstrate novelty of contributions and avoid reinventing the wheel
-- Expectations to exercise critical judgment of prior research
+- The need to exercise critical judgment of prior research
 
 <!-- TODO: show "scholarly sophistication", "to the best of our knowledge, this is new..."  -->
 
@@ -124,7 +124,7 @@ Literature reviews can have a profound impact (e.g., Vial 2019 is cited 2,000 ti
 
 There are many open challenges, such as 
 
-  - Differences and synergies across disciplines,
+  - Considering differences and synergies between disciplines in the design of methods and tools,
   - Design of LR software to manage data, AI, and collaboration,
   - Coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review))
 

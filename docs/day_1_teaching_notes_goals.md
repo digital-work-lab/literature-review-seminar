@@ -15,9 +15,7 @@ search_exclude: true
 
 ## Goals
 
-Typical research questions:
-
-Ask students whether anyone has a research question that fits to one of the four categories
+Ask students whether anyone has a typical research question that fits to one of the four categories (write on the whiteboard)
 
 - Testing: How effective are chatbot interventions for behavioral outcomes?
 - Describing. What are the methods and contexts considered by TAM-research?
@@ -26,21 +24,29 @@ Ask students whether anyone has a research question that fits to one of the four
 
 <!-- understanding: may also cover "theory landscaping" (Okoli2012) -->
 
-predicting of Gregor 2006: relevant? something missing? 
+Predicting of Gregor 2006: relevant? something missing? 
 
-### After Paré 2015 reading
+### Paré 2015: reading
+
+PDF in VC - 20 min, take notes
 
 - What is your review type?
 - Summarize the key characteristics
 - For which review type would grey literature be relevant? Which review type is the most/least structured?
 - If you were a journal editor/PhD student, which type would you prefer? (-> connect to frequency table: theoretical reviews are often pursued)
 
-**TODO: mention SkinnerNelsonChin2022a and the correlation approach**
+<!-- **TODO: mention SkinnerNelsonChin2022a and the correlation approach** -->
 
-### Before classification exercise
+### Classification exercise (rotating papers every 5 min)
+
+**Before**
 
 - Discuss reading strategy (skim headings/figures etc)
 - Ask students to take notes: which parts (figures/statements) led to your decisions?
+- Set a timer to 5 min
+
+- Application: classify example papers - print one version of each type, highlight particular pages/figures/goals, everyone selects one, after 3 minutes, we switch (prepare a table to fill out)
+-> maybe even include 1-2 papers that are not reviews?
 
 ### Classification results
 
@@ -61,11 +67,6 @@ Ask students about the differences between types in the groups (what are the key
 
 Any item that you would use as an inspiration (for your proposal)?
 
-Based on the Paré et al. 2015 typology: explore examples and ask students to classify / appreciate differences
-
-- Application: classify example papers - print one version of each type, highlight particular pages/figures/goals, everyone selects one, after 3 minutes, we switch (prepare a table to fill out)
--> also include 1-2 papers that are not reviews?
-
 ### Dimensions (Cooper's taxonomy)
 
 - Mention my first project - classifying hundreds of papers / review types
@@ -76,15 +77,15 @@ Based on the Paré et al. 2015 typology: explore examples and ask students to cl
 What would be most coherent with your review type?
 What would be the most incoherent combination?
 
+### Internal coherence
+
+- Requirement for the review protocol - need to study methods papers carefully, identify the characteristics, and justify your choices.
+
 ### What can we publish from a review project
 
 Highlight that open science is just getting started in the area of literature reviews
 
 End of first session: take notes on your ideas and how to introduce your topic, take notes on questions you would need to research
-
-## Steps
-
-Ask students to adopt the perspective of a reviewer and scrutinize methodological choices
 
 ## Review protocols: Their purposes
 
@@ -97,8 +98,7 @@ It also protects the authors against “scope creep”
 Tendency of researchers to expand the work required without due consideration of the costs, schedule, etc.
 Last, its publication ensures other researchers are aware that the review is being undertaken, minimizing the amount of time and resources wasted on duplicate reviews
 
-synchronous session Topic 4.pptx 
-
+<!-- synchronous session Topic 4.pptx  -->
 
 ## Review protocols: Their purposes
 
