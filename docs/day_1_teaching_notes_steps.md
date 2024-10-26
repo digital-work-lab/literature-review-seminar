@@ -40,7 +40,8 @@ Examples:
 
 ## Search
 
-Exercise (Review the search strategy)
+{: .info }
+> Exercise: Review a search strategy
 
 - Hits per sub-query is helpful
 - It is implicit/unclear how the search strings are connected (probably OR)

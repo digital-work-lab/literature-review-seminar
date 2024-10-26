@@ -357,7 +357,7 @@ The coding process and results are often illustrated in the *Gioia data structur
 
 - Scope: Digital platforms for knowledge-intensive services, such as Upwork, Fiverr, or TopCoder
 - Sample: 50 papers, mostly published in the Information Systems discipline
-- Data: Text fragments and figures have been pre-selected: [access the worksheet](../teaching_notes/Inductive-coding-Worksheet.pdf)
+- Data: Text fragments and figures have been pre-selected: [access the worksheet](../teaching_notes/day_1_steps_data_Inductive-coding-Worksheet.pdf)
 
 - Objective: Analyze extant research and inductively develop a process model
 
