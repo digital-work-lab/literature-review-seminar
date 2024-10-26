@@ -39,6 +39,11 @@ Methods:
 - Data extraction procedures explicit and aligned with review type
 - Data analysis and synthesis approach described
 
+Expected results:
+
+- Structure of the synthesis (first-level headings)
+- Proposed presentation of synthesis (e.g., in the form of a table or figure)
+
 Conclusion / Short limitations, implications for research and practice
 
 Appendix:

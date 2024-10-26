@@ -166,15 +166,15 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
     - Scope of the review
     - Expected contributions of the review
 
+- Background section (WHAT / if applicable)
+
+    - Definition of key concepts/presentation of the framework to be used to organize the review, presentation of the theory at the center of the review, etc.
+
 <!-- - PareWagnerPrester2023: table 1 -->
 
 ---
 
 ## Review protocols: Structure and contents (II)
-
-- Background section (WHAT / if applicable)
-
-    - Definition of key concepts/presentation of the framework to be used to organize the review, presentation of the theory at the center of the review, etc.
 
 - Methods
 
@@ -184,6 +184,11 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
     - Quality appraisal strategy and procedures
     - Data extraction strategy and procedures
     - Data analysis/synthesis strategy and procedures
+
+- Expected results:
+
+    - Structure of the synthesis (first-level headings)
+    - Proposed presentation of synthesis (e.g., in the form of a table or figure)
 
 ---
 
