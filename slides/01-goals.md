@@ -11,7 +11,7 @@ search: true
 
 ## Goals and types of reviews
 
-- Familiarize with different forms of reviews
+- Familiarize ourselves with different forms of reviews
 - Dissociate goals and review types, along with their dimensions
 - Appreciate the key elements of a review protocol
 
@@ -148,8 +148,8 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ## Review protocols: Conceptions
 
-- A plan that is developed a priori and fixed. The protocol regulates researchers and requires them to follow an inflexible set of rules. Fixed protocols are more common in the health sciences and often associated with theory-testing reviews like meta-analyses.
-- A “living plan”. The protocol is a living document which is used as a work log that records how the review project has evolved over time. Researchers may deviate from their original plan. Protocol development is thus iterative.
+- A plan that is developed a priori and fixed. The protocol regulates researchers and requires them to follow an inflexible set of rules. Fixed protocols are more common in the health sciences and are often associated with theory-testing reviews like meta-analyses.
+- A “living plan”. The protocol is a living document that is used as a work log that records how the review project has evolved over time. Researchers may deviate from their original plan. Protocol development is thus iterative.
 
 ---
 
@@ -160,7 +160,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 - Introduction section (WHAT and WHY)
 
     - Generativity statements
-    - Brief introduction of the topic, phenomenon, theory of interest
+    - Brief introduction of the topic, phenomenon, and theory of interest
     - Rationale for the review
     - Review objectives (and research questions)
     - Scope of the review
@@ -174,7 +174,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 - Background section (WHAT / if applicable)
 
-    - Definition of key concepts / presentation of the framework to be used to organize the review, presentation of the theory at the center of the review, etc.
+    - Definition of key concepts/presentation of the framework to be used to organize the review, presentation of the theory at the center of the review, etc.
 
 - Methods
 
