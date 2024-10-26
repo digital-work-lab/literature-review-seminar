@@ -37,7 +37,10 @@ PDF in VC - 20 min, take notes
 
 <!-- **TODO: mention SkinnerNelsonChin2022a and the correlation approach** -->
 
-### Classification exercise (rotating papers every 5 min)
+{: .info }
+> **Exercise**
+> 
+> Classification exercise (rotating papers every 5 min)
 
 **Before**
 

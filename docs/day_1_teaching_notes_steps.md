@@ -22,19 +22,21 @@ Okoli: screen before search? (search: "reporting the search")
 
 ### Generic steps: Templier and Paré (2018)
 
-TODO : discuss the differences between review types
 
-Remember: coherence!
+- Discuss the differences between review types (e.g., highlight the role of quality appraisal or grey literature)
+- Remember: coherence!
 
 ## Problem formulation
 
-- methodological coherence objectives/type/methods
--> we have done that in the first session
+- Methodological coherence objectives/type/methods
+- We have done that in the first session
 
 Examples:
 
-- gap spotting: applying and testing transaction cost economics in different empirical contexts (different organizations/geographies)
-- problematization: transformational leadership theory is often glorified with a focus on the positive outcomes. A problematization approach may consider unintended outcomes (e.g., promoting groupthink or suppressing dissenting opinions within an organization)
+- **Gap spotting**: applying and testing transaction cost economics in different empirical contexts (different organizations/geographies)
+- **Problematization**: transformational leadership theory is often glorified with a focus on the positive outcomes. A problematization approach may consider unintended outcomes (e.g., promoting groupthink or suppressing dissenting opinions within an organization)
+
+<div class="page-break"></div>
 
 ## Search
 
@@ -47,25 +49,29 @@ Exercise (Review the search strategy)
 - For a conference paper, the authors could be required to complete the building-block matrix (or justify the design of the search strategy)
 
 Metrics:
-- $TP$: True positives = *retrieved* by the search and *relevant*
-- $FP$: False positives = *retrieved* by the search but *irrelevant*
-- $FN$: False negatives = *not retrieved* by the search and *relevant* ❓
-- $TN$: True negatives = *not retrieved* by the search but *irrelevant* ❓
+- True positives (TP) = *retrieved* by the search and *relevant*
+- False positives (FP) = *retrieved* by the search but *irrelevant*
+- False negatives (FN) = *not retrieved* by the search and *relevant* ❓
+- True negatives (TN) = *not retrieved* by the search but *irrelevant* ❓
 
--> Check the Ringeval search. Surprising: the search strategy was stated without any trial-and-error/iterations. Explain the linked-list format, explain the Concept-Synonym-group approach
+- Check the Ringeval search. Surprising: the search strategy was stated without any trial-and-error/iterations. Explain the linked-list format, explain the Concept-Synonym-group approach
 
-It is instructive to know these metrics
-The key objective is to identify all relevant papers, but also to do that efficiently
-A certain level of noise (precision) must be accepted
-SYNERGY datasets: 
-https://github.com/asreview/synergy-dataset
-included = relevant
-all records (retrieved) = True positives and False positives
-on average: 4% or 2% when removing outliers
--> check absolute numbers: 
-covering 1,000 papers to identify 20-40 relevant ones (search may be too narrow when the inclusion percentage is bigger)
+
+- It is instructive to know these metrics
+- The key objective is to identify all relevant papers, but also to do that efficiently
+- A certain level of noise (precision) must be accepted
+
+SYNERGY datasets:  https://github.com/asreview/synergy-dataset
+
+- included = relevant
+- all records (retrieved) = True positives and False positives
+- on average: 4% or 2% when removing outliers
+
+- check absolute numbers: covering 1,000 papers to identify 20-40 relevant ones (search may be too narrow when the inclusion percentage is bigger)
 
 Outlook: "We have waited too often that database provides improve search capabilities"! 
+
+<div class="page-break"></div>
 
 ## Screening (reliability)
 
@@ -73,11 +79,15 @@ Illustrate "Percentage agreement, Agreement by chance" with an example on the bl
 
 ![screening reliability](day_1_steps_screen_notes-screening-reliability.jpg)
 
+<div class="page-break"></div>
+
 ## Inductive
 
-Worksheet is linked on the slides.
-
-Have students analyze, code in groups
+{: .info }
+> **Exercise**
+> 
+> Worksheet is linked on the slides.
+> Have students analyze, code in groups
 
 Q: What are the key processes across extracted documents?
 
@@ -88,6 +98,8 @@ Key challenges:
 - Scope
 - Abstraction
 - Differences in focus/perspective
+
+<div class="page-break"></div>
 
 ## Data extraction
 
@@ -105,8 +117,12 @@ TODO : summarize vote counting and give an outlook on meta-analyses
 
 Aggregating evidence: Hierarchy of evidence (medicine)
 
-Explain RCTs (based on CONSORT): eligibility, randomization, intervention, follow-up, analysis
+{: .info }
+> **Exercise**
+> 
+> Coding: Meta-analysis
 
+Explain RCTs (based on CONSORT): eligibility, randomization, intervention, follow-up, analysis
 
 Show the coding sheet: Thorndike (annotations)
 
