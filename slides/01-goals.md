@@ -55,6 +55,10 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 - **Explaining**: drawing on the literature to develop a conceptual framework, or theory with testable hypotheses, i.e., statements that explain real-world phenomena, and can be tested empirically
 - **Theory testing**: extracting data from empirical studies to assess the aggregated evidence that has accumulated
 
+<br>
+
+![image](../assets/iconmonstr-help-6.svg) **Task**: Propose a research question that exemplifies each goal.
+
 ---
 
 ## The typology of Paré et al. (2015)
@@ -62,15 +66,15 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 - Paré et al. (2015) published the established typology of literature reviews, covering 9 distinct types of reviews (plus hybrid reviews)
 - The review types can be aligned with the goals of Rowe (2014), as indicated in the table (Templier and Paré 2018)
 
-**Task**: Familiarize yourself with the types of reviews in the typology.
+![image](../assets/iconmonstr-magnifier-10.svg) **Task**: Familiarize yourself with the types of reviews in the typology.
 
 ![bg right:50% width:550px](../assets/Templier2018-table-1.png)
 
 ---
 
-## Application
+## Practice
 
-Classify the selection of review papers according to the typology of Paré et al. (2015):
+![image width:25px](../assets/iconmonstr-window-multiple-3d-alt-lined.svg) **Task**: Classify the selection of review papers according to the typology of Paré et al. (2015):
 
 - Shim et al. (2022)
 - Seuring (2013)
@@ -112,7 +116,8 @@ Classify the selection of review papers according to the typology of Paré et al
 
 The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a survey of literature review dimensions to identify the right review type for your project.
 
-- Complete the survey and check your results.
+![image](../assets/iconmonstr-speech-bubble-comments-thin.svg) **Task**: Complete the survey and check your results.
+
 - Do you agree? Are there any dimensions that are unclear?
 
 ![bg right:40% width:450px](../assets/right-review-tool.png)
@@ -211,13 +216,13 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ## Practice: First draft of a review protocol
 
-- Create a quick draft for your protocol, covering the following elements:
+![image](../assets/iconmonstr-note-23.svg) **Task**: Create a quick draft for your protocol, covering the following elements:
 
-    - Title and keywords
-    - Introduction in bullet points 
-    - Background (what contents you would cover)
+- Title and keywords
+- Introduction in bullet points 
+- Background (what contents you would cover)
 
-- Discussion of your proposals
+<!-- - Discussion of your proposals -->
 
 ---
 

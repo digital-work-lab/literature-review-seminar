@@ -18,6 +18,10 @@ paginate: true
 
 ![center width:550px](../assets/steps-mindmap.jpg)
 
+<br>
+
+![image](../assets/iconmonstr-pencil-15.svg) **Task**: Outline the steps of the literature review process as you envision them.
+
 <!-- 
 https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-grunem-rasen-sitzen-7rImz-goqfQ
 -->
@@ -128,12 +132,11 @@ blockquote {
 }
 </style>
 
-## Exercise: Review a search strategy
+## Exercise: Reviewing a search strategy
 
 Imagine you serve as a reviewer for a conference. You review a paper on algorithmic decision-making, along with Table 2.
 
-- Evaluate the proposed search strategy critically, taking into account the building-block approach. 
-- Make a recommendation to accept, revise, or reject.
+![image](../assets/iconmonstr-clipboard-6.svg) **Task**: Evaluate the proposed search strategy critically, taking into account the building-block approach. Make a recommendation to accept, revise, or reject.
 
 ![bg right:50% width:500px](../assets/MahmudEtAl2022.png)
 
@@ -176,7 +179,7 @@ Three key metrics are particularly relevant in the context of literature searche
 - A **highly precise search strategy should be suspicious** because the search may not be comprehensive enough
 - Based on the [SYNERGY](https://github.com/asreview/synergy-dataset) dataset, average precision is 2% - 4% in medicine, chemistry, and computer science
 
-Would you expect more precise searches in disciplines like Information Systems, Management, or the Social Sciences? 
+![image](../assets/iconmonstr-help-6.svg) **Question**: Would you expect more precise searches in disciplines like Information Systems, Management, or the Social Sciences?
 
 ![bg right:35% width:450px](../assets/SYNERGY.png)
 
@@ -293,10 +296,9 @@ An online version is available [here](https://estech.shinyapps.io/prisma_flowdia
 The reading activities can be organized strategically at two levels:
 
 - The overall corpus level: In which order should papers be read or skimmed?
-
 - The individual paper level: How should the different parts of a paper be read?
 
-Assume you have 300 papers to cover, how would you organize the reading activities?
+![image](../assets/iconmonstr-help-6.svg) **Question**: Assume you have 300 papers to cover, how would you organize the reading activities?
 
 ---
 
@@ -354,12 +356,13 @@ The coding process and results are often illustrated in the *Gioia data structur
 
 ## Data analysis: Example for inductive analysis
 
+Context:
 
 - Scope: Digital platforms for knowledge-intensive services, such as Upwork, Fiverr, or TopCoder
 - Sample: 50 papers, mostly published in the Information Systems discipline
-- Data: Text fragments and figures have been pre-selected: [access the worksheet](../teaching_notes/day_1_steps_data_Inductive-coding-Worksheet.pdf)
+- Data: Text fragments and figures have been pre-selected (see [worksheet](../teaching_notes/day_1_steps_data_Inductive-coding-Worksheet.pdf))
 
-- Objective: Analyze extant research and inductively develop a process model
+![image](../assets/iconmonstr-note-23.svg) **Task**: Analyze extant research and inductively develop a process model
 
 <!-- TODO : present a clear Gioia structure as a result -->
 
@@ -420,10 +423,11 @@ Meta-analysis techniques address these shortcomings.
 
 Research objective: "to assess the effects of Fitbit-based interventions, compared with non-wearable control groups, on healthy lifestyle outcomes." (Ringeval et al. 2020)
 
-Data extraction (example): 
+Outcome of interest:
 
-- Two randomized controlled trials: [Thorndike et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24950218/), [van Blarigan et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30866859/)
-- Extract the following findings (at follow-up):
+- Steps per day (control vs. intervention group) at follow-up
+
+![image](../assets/iconmonstr-note-23.svg) **Task**: Extract the data from two randomized controlled trials: [Thorndike et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24950218/), [van Blarigan et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30866859/) based on the following coding sheet:
 
 ![center width:1000px](../assets/coding-sheet.png)
 
@@ -437,7 +441,7 @@ Data extraction (example):
 
 ## Discussion of the data analysis section
 
-Create a quick draft for the data extraction and analysis section. 
+![image](../assets/iconmonstr-note-23.svg) **Task**: Create a quick draft for the data extraction and analysis section. 
 
 - Would you follow an inductive or deductive approach (why)?
 - What outcomes would you expect ideally?

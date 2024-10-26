@@ -147,10 +147,13 @@ Disclaimer: I am the lead developer of CoLRev.
 # Platforms: CoLRev and open synthesis
 
 
-- Start the [demo](https://github.com//codespaces/new?hide_repo_select=true&ref=main&repo=767717822) (account and login on GitHub required)
-- Form small groups of 2-3 people
-- Complete the worksheet (opens automatically in the demo Codespace)
-- Consult the [documentation](https://colrev-environment.github.io/colrev/) whenever necessary
+![image](../assets/iconmonstr-rocket-17.svg) Start the [demo](https://github.com//codespaces/new?hide_repo_select=true&ref=main&repo=767717822) (account and login on GitHub required)
+
+![image](../assets/iconmonstr-idea-13.svg) Form small groups of 2-3 people
+
+![image](../assets/iconmonstr-note-23.svg) Complete the worksheet (opens automatically)
+
+![image](../assets/iconmonstr-help-6.svg) Consult the [documentation](https://colrev-environment.github.io/colrev/) whenever necessary
 
 ![bg right:40% width:350px](../assets/start-demo.png)
 
@@ -270,7 +273,6 @@ Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_p
 
 - Continue to develop the review protocol
 - Schedule meetings to discuss the protocol as needed
-- Submission: July 19, presentation: TBA
 
 ---
 
