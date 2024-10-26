@@ -15,7 +15,10 @@ search_exclude: true
 
 ## Goals
 
-Ask students whether anyone has a typical research question that fits to one of the four categories (write on the whiteboard)
+{: .info }
+> **Task**
+> 
+> Ask students whether anyone has a typical research question that fits to one of the four categories (write on the whiteboard)
 
 - Testing: How effective are chatbot interventions for behavioral outcomes?
 - Describing. What are the methods and contexts considered by TAM-research?
@@ -28,7 +31,7 @@ Predicting of Gregor 2006: relevant? something missing?
 
 ### Paré 2015: reading
 
-PDF in VC - 20 min, take notes
+PDF in VC - 25 min, take notes
 
 - What is your review type?
 - Summarize the key characteristics
@@ -40,7 +43,7 @@ PDF in VC - 20 min, take notes
 {: .info }
 > **Exercise**
 > 
-> Classification exercise (rotating papers every 5 min)
+> Classification exercise (rotating papers to the next student every 5 min, colleting the batch at the end and moving it to the beginning of the line once)
 
 **Before**
 
@@ -75,6 +78,8 @@ Any item that you would use as an inspiration (for your proposal)?
 - Mention my first project - classifying hundreds of papers / review types
 - Dimensions, including knowledge building activities
 
+- Outlook: 40+ methods/types. Anticipate: key question: how many types do we need (really distinct?) - anticipating Wagner et al. 2021.
+
 ### Central aspect: Internal coherence
 
 What would be most coherent with your review type?
@@ -89,19 +94,6 @@ What would be the most incoherent combination?
 Highlight that open science is just getting started in the area of literature reviews
 
 End of first session: take notes on your ideas and how to introduce your topic, take notes on questions you would need to research
-
-## Review protocols: Their purposes
-
-- Purpose of a protocol (registries like PROSPERO, feedback, show examples)
-
-A review protocol is a formal document that outlines the plan of a review project. It is the foundation of the entire review process
-It forces to think through the different stages of the process at the beginning of the project and any associated challenges or issues
-Having a detailed protocol ensures that all methodological decisions are carefully considered and justified, enhancing the trustworthiness of the results and conclusions
-It also protects the authors against “scope creep”
-Tendency of researchers to expand the work required without due consideration of the costs, schedule, etc.
-Last, its publication ensures other researchers are aware that the review is being undertaken, minimizing the amount of time and resources wasted on duplicate reviews
-
-<!-- synchronous session Topic 4.pptx  -->
 
 ## Review protocols: Their purposes
 

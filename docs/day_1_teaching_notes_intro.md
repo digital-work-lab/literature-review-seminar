@@ -10,6 +10,12 @@ search_exclude: true
 
 ## Prior knowledge of literature reviews, topics, and expectations
 
+{: .info }
+> **Activate/Show interest in topics**
+> 
+> Get up, as, on the whiteboard what your topics are.
+> Ask follow-up questions on the the topics.
+
 - What is your topic and research question for this seminar?
 - What are your expectations for the seminar?
 - Did you work on a literature review before?
