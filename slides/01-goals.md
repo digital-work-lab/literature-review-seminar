@@ -76,15 +76,15 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 
 ![image width:25px](../assets/iconmonstr-window-multiple-3d-alt-lined.svg) **Task**: Classify the selection of review papers according to the typology of Paré et al. (2015):
 
-- Shim et al. (2022)
-- Seuring (2013)
-- Powell et al. (2004)
-- Bélanger and Crossler (2011)
-- King and He (2006)
-- Petter et al. (2008)
-- Kitsiou et al. (2017)
-- Melville et al. (2004)
-- Otte-Trojel et al. (2016)
+- [Shim et al. (2022)](https://www.sciencedirect.com/science/article/pii/S0167923601001397)
+- [Seuring (2013)](https://www.sciencedirect.com/science/article/pii/S0167923612001741)
+- [Powell et al. (2004)](https://dl.acm.org/doi/abs/10.1145/968464.968467)
+- [Bélanger and Crossler (2011)](https://www.jstor.org/stable/41409971)
+- [King and He (2006)](https://www.sciencedirect.com/science/article/pii/S0378720606000528)
+- [Petter et al. (2008)](https://link.springer.com/article/10.1057/ejis.2008.15)
+- [Kitsiou et al. (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173160)
+- [Melville et al. (2004)](https://www.jstor.org/stable/25148636)
+- [Otte-Trojel et al. (2016)](https://academic.oup.com/jamia/article/21/4/751/764620?login=true)
 
 ![bg right:50% width:550px](../assets/Pare2015-table5.png)
 
@@ -276,7 +276,6 @@ p {
 Bélanger, F., & Crossler, R. E. (2011). Privacy in the digital age: a review of information privacy research in information systems. *MIS Quarterly*, 35(4) 1017-1041. doi:[10.2307/41409971](https://www.jstor.org/stable/41409971)
 
 King, W. R., & He, J. (2006). A meta-analysis of the technology acceptance model. *Information & Management*, 43(6), 740-755. doi:[10.1016/j.im.2006.05.003](https://www.sciencedirect.com/science/article/pii/S0378720606000528)
-
 
 Kitsiou, S., Paré, G., Jaana, M., & Gerber, B. (2017). Effectiveness of mHealth interventions for patients with diabetes: an overview of systematic reviews. *PloS one*, 12(3), e0173160. doi:[10.1371/journal.pone.0173160](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173160)
 
