@@ -8,6 +8,8 @@ search_exclude: true
 
 # Session 2: Qualities (teaching notes)
 
+Reminder: submission / presentation dates
+
 ## Qualities
 
 Given that transparency is significant, why do some reviews not report their methods explicitly? For example, Alavi and Leidner (2001). Try to take their position and argue why a methods section would not be helpful for their work.
