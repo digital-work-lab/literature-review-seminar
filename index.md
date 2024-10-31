@@ -13,7 +13,8 @@ permalink: /
 ![Course Status](https://img.shields.io/badge/Current%20course-Winter%20semester%202024/25-yellow)
 ![Course Status](https://img.shields.io/badge/Upcoming%20course-Summer%20semester%202025-green)<br>
 [![Level](https://img.shields.io/badge/Level-Master%20|%20PhD-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
-[![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)<br>
+[![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
+![Workload](https://img.shields.io/badge/Work%20load-90h%20(3%20ECTS)-blue)<br>
 [![Topic](https://img.shields.io/badge/Topics-Open%20topic%20&%20Literature%20review%20methods-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 [![Format](https://img.shields.io/badge/Format-In%20person%20sessions%20&%20individual%20work-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)<br>
 <!-- ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue) -->
