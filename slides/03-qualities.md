@@ -14,7 +14,25 @@ paginate: true
 
 ---
 
+## Warm-up exercise
+
+![image](../assets/iconmonstr-pencil-15.svg) **Task** (10 min): Record your topic, research question, and the type of review. If aiming for a top-tier journal, what key aspects would you focus on to produce a high-quality review paper?
+
+![bg right:45% width:400px](../assets/dalle_warm-up.jpg)
+
+---
+
+## Studying the qualities of exemplars
+
+Studying exemplary literature reviews and analyzing the qualities that make them compelling provides valuable insights into what constitutes a high-quality review.
+
+![image](../assets/iconmonstr-idea-13.svg) Form  a review panel to evaluate the four review papers. Provide recommendations on which papers to accept and which to reject, along with justifications for each decision.
+
+---
+
 ## What makes a review successful?
+
+<br><br>
 
 ![center width:450px](../assets/successful-review.png)
 
@@ -130,6 +148,6 @@ Leidner, D. E., & Tona, O. (2021). A thought-gear model of theorizing from liter
 
 Paré, G., Tate, M., Johnstone, D., & Kitsiou, S. (2016). Contextualizing the twin concepts of systematicity and transparency in information systems literature reviews. *European Journal of Information Systems*, 25, 493-508. doi:[10.1057/s41303-016-0020-3](https://link.springer.com/article/10.1057/s41303-016-0020-3)
 
-Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” Communications of the Association for Information Systems, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/)
+Schryen, G., Wagner, G., Benlian, A., and Paré, G. 2020. “A Knowledge Development Perspective on Literature Reviews: Validation of a New Typology in the IS Field,” *Communications of the Association for Information Systems*, 46 (Paper 7), 134–186. doi:[10.17705/1CAIS.04607](https://aisel.aisnet.org/cais/vol46/iss1/7/)
 
 Wagner, G., Prester, J., Roche, M. P., Schryen, G., Benlian, A., Paré, G., and Templier, M. 2021 “Which Factors Affect the Scientific Impact of Review Papers in IS Research? A Scientometric Study”. *Information & Management*, 58(3), 103427. doi:[10.1016/j.im.2021.103427](https://www.sciencedirect.com/science/article/abs/pii/S037872062100001X)

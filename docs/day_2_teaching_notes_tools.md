@@ -39,6 +39,10 @@ Invite students to contribute to CoLRev (documentation, testing, etc.)
 
 ### LLMs, current challenges, and promises
 
+How would you use genAI-tools in a literature review?
+
+- Follow-up: any application areas for genAI (beyond LLMs) - image/audio/video? - e.g., Googles NotebookLM
+
 - LLM like ChatGPT are seemingly easy to operate (simple interface), but generating useful output is surprisingly hard (a metaphorical Norman door)
 - litmaps
 

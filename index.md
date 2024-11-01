@@ -57,10 +57,10 @@ Introductory literature is available for [goals and steps (day 1)](docs/day_1.ht
 
 ## Outline
 
-|              | Session                                     | Date and Time              | Location      |
-| ------------ | ------------------------------------------- | ---------------------------| ------------- |
-| Session 1    | [Goals and steps](docs/day_1.html)          | October 26, 8.15-16.00     | WE5 02.020    |
-| Session 2    | [Qualities and tools](docs/day_2.html)      | November 2, 8.15-16.00     | WE5 02.020    |
+|            | Session                                | Date and Time              | Location    |
+| ---------- | -------------------------------------- | ---------------------------| ----------- |
+| Session 1  | [Goals and steps](docs/day_1.html)     | October 26, 8.15-16.00     | WE5 02.020  |
+| Session 2  | [Qualities and tools](docs/day_2.html) | November 2, 8.15-16.00     | WE5 02.020  |
 
 <!-- 
 | Semester | Date and location | Status |
@@ -81,7 +81,7 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 | Deliverable      | Date                                   |
 | ---------------- | -------------------------------------- |
 | Submission       | January, 31                            |
-| Presentation     | Feburary 7, 13-15.00, ISM (1.094)      |
+| Presentation     | February 7, 13-15.00, ISM (1.094)      |
 
 ## Instructor
 

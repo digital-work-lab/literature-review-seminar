@@ -15,21 +15,24 @@ paginate: true
 
 ---
 
-# Typical setups
+## Start the demo
+
+![image](../assets/iconmonstr-rocket-17.svg) Start the [demo](https://github.com//codespaces/new?hide_repo_select=true&ref=main&repo=767717822) (account and login on GitHub required)
+
+---
+
+# Typical setups <a id="setups"></a>
 
 Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](https://web.archive.org/web/20240110043514/http://systematicreviewtools.com/) alone listed over 250 tools (**discontinued in early 2024**).
 
 There are three major approaches:
 
 - **Self-managed approach**: Combine multiple tools, including a reference manager, and Excel
-- **Workflow tool**: Select a comprehensive workflow tool and use the default functionality
-- **Platforms** (*): Adopt an extensible platform to handle data and use package extensions
-
-(*) Vision
+- **Platform**: Select a platform that handles the whole workflow and use the default functionality or extensions
 
 ---
 
-# Self-managed approach
+# Self-managed approach <a id="self-managed"></a>
 
 Common elements:
 
@@ -40,7 +43,7 @@ Common elements:
 
 ---
 
-# Self-managed approach: Tools
+# Self-managed approach: Tools <a id="self-managed-tools"></a>
 
 Leading automation tools for literature reviews (Wagner et al. 2021):
 
@@ -56,7 +59,7 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 
 ---
 
-# Self-managed approach
+# Self-managed approach <a id="self-managed-assessment"></a>
 
 Advantages:
 
@@ -67,7 +70,7 @@ Disadvantages:
 
 - Data is handled manually: assigning IDs, sharing PDFs, keeping track of the status of records, data conversion, manual import and export
 - Error-prone, especially when using Excel (see [1](https://www.washingtonpost.com/news/wonk/wp/2016/08/26/an-alarming-number-of-scientific-papers-contain-excel-errors/), [2](https://www.wired.co.uk/article/spreadsheet-excel-errors))
-- Tools have limited compatibility (lock-in)
+- Individual tools may have limited compatibility
 - Working in a team requires explicit and careful coordination
 - Updating searches is challenging
 
@@ -76,19 +79,71 @@ https://www.zdnet.com/article/what-is-ransomware-everything-you-need-to-know-and
 -->
 ---
 
-# Workflow tools
+# Platforms
 
-- Workflow tools manage the data throughout the process
-
+<!-- 
 | Tool                                     | Open Source | Extensibility  | Review types         | Deployment    | 
 |------------------------------------------|-------------|----------------|----------------------|---------------|
 | [Covidence](https://www.covidence.org/)  | no  (paid)  | upon request   | systematic reviews   | web only      |
 | [HubMeta](https://hubmeta.com/)          | no  (free)  | upon request   | systematic reviews   | web only      |
 | [BUHOS](https://www.buhos.org/)          | yes         | no             | systematic reviews   | web and local |
+ -->
 
+<style>
+table {
+  width: 100%;
+}
+th {
+  position: sticky;
+  top: 0;
+  background: white;
+}
+</style>
+
+| **Criteria**                                  | **CoLRev**                        | [**LitStudy**](https://github.com/NLeSC/litstudy)  | [**BUHOS**](https://github.com/clbustos/buhos)  | [**Covidence**](https://www.covidence.org/)   |
+|-----------------------------------------------|-----------------------------------|----------------------------------|---------------------------------|---------------------------------|
+| **Review types**                              |                                   |                                  |                                 |                                 |
+| Supports different genres of review methods   | ![yes]                            | ![no]                            | ![no]                           | ![no]                           |
+| **Process steps**                             |                                   |                                  |                                 |                                 |
+| Review objectives and protocol                | ![yes]                            | ![yes]                           | ![yes]                          | ![yes]                          |
+| Search                                        | ![yes]                            | ![yes]                           | ![yes]                          | ![yes]                          |
+| Duplicate handling                            | ![yes]                            | ![no]                            | ![maybe]                        | ![maybe]                        |
+| (Pre)Screen                                   | ![yes]                            | ![maybe]                         | ![yes]                          | ![yes]                          |
+| Data extraction                               | ![yes]                            | ![maybe]                         | ![yes]                          | ![yes]                          |
+| Data analysis and quality appraisal           | ![yes]                            | ![maybe]                         | ![yes]                          | ![yes]                          |
+| Synthesis and reporting                       | ![yes]                            | ![yes]                           | ![yes]                          | ![yes]                          |
+| **Process qualities**                         |                                   |                                  |                                 |                                 |
+| Extensibility                                 | ![yes]                            | ![yes]                           | ![no]                           | ![no]                           |
+| Extensions                                    | 102                               | 0                                | 0                               | 0                               |
+| Search updates                                | ![yes]                            | ![no]                            | ![maybe]                        | ![maybe]                        |
+| Search: APIs                                  | ![yes]                            | ![yes]                           | ![yes]                          | ![no]                           |
+| **Collaboration**                             |                                   |                                  |                                 |                                 |
+| Large teams                                   | ![yes]                            | ![maybe]                         | ![maybe]                        | ![maybe]                        |
+| Algorithms                                    | ![yes]                            | ![yes]                           | ![maybe]                        | ![maybe]                        |
+| **Data management**                           |                                   |                                  |                                 |                                 |
+| Transparency                                  | ![yes]                            | ![no]                            | ![no]                           | ![no]                           |
+| Validation                                    | ![yes]                            | ![no]                            | ![no]                           | ![no]                           |
+| **Platform**                                  |                                   |                                  |                                 |                                 |
+| OSI-approved license                          | ![yes]                            | ![yes]                           | ![yes]                          | ![no]                           |
+| Peer-reviewed                                 | ![no]                             | ![yes]                           | ![yes]                          | ![no]                           |
+| Technology                                    | Python                            | Python                           | Ruby                            | Proprietary                     |
+| Setup                                         | Local or cloud                    | Local or cloud                   | Server                          | Server                          |
+| Interface                                     | CLI, Programmatic                 | Jupyter Notebook                 | Web-UI                          | Web-UI                          |
+| Contributors                    | ![GitHub contributors](https://img.shields.io/github/contributors-anon/CoLRev-Environment/colrev) | ![GitHub contributors](https://img.shields.io/github/contributors-anon/NLeSC/litstudy) | ![GitHub contributors](https://img.shields.io/github/contributors-anon/clbustos/buhos) | NA                                                                     |
+| Commits                         | ![GitHub total commits](https://img.shields.io/github/commit-activity/t/CoLRev-Environment/colrev) | ![GitHub total commits](https://img.shields.io/github/commit-activity/t/NLeSC/litstudy) | ![GitHub total commits](https://img.shields.io/github/commit-activity/t/clbustos/buhos) | NA                                                                     |
+| Last release                    | ![GitHub last release](https://img.shields.io/github/release-date/CoLRev-Environment/colrev)  | ![GitHub last release](https://img.shields.io/github/release-date/NLeSC/litstudy)  | ![GitHub last release](https://img.shields.io/github/release-date-pre/clbustos/buhos)  | NA                                                                     |
+| Current release              | ![Releases](https://img.shields.io/github/release/CoLRev-Environment/colrev?label=Releases) | ![Releases](https://img.shields.io/github/release/NLeSC/litstudy?label=Releases) | ![GitHub Release](https://img.shields.io/github/v/release/clbustos/buhos?include_prereleases)| NA |
+
+[yes]: ../assets/yes.svg
+[no]: ../assets/no.svg
+[maybe]: ../assets/maybe.svg
+
+
+<!-- 
 ---
+Note: advantages/disadvantages hard to say (depend on the tool)
 
-# Workflow tools
+# Platforms
 
 Advantages:
 
@@ -102,10 +157,11 @@ Disadvantages:
 - Often restricted to a specific type of review, i.e., systematic reviews, which are not the most common types in Information Systems
 - Limited flexibility to use other tools and limited extensibility (lock-in)
 - Costly or restricted in functionality/quality of service
+-->
 
 ---
 
-# Platforms: CoLRev and open synthesis
+# Platforms: CoLRev and open synthesis <a id="colrev"></a>
 
 We may envision an open and extensible research platform supporting different types of literature reviews.
 
@@ -115,10 +171,11 @@ The following aspects deem relevant:
 - Open-Source license and extensibility through packages
 - Transparent data management, enabling the collaboration of reviewers and AI
 - Self-explanatory workflow
-
+<!-- 
 | Tool                                                   | Open Source | Extensibility  | Review types      | Deployment       | 
 |--------------------------------------------------------|-------------|----------------|-------------------|------------------|
 | [CoLRev](https://colrev-environment.github.io/colrev/) | yes         | yes            | All review types  | Local or cloud   |
+ -->
 
 Disclaimer: I am the lead developer of CoLRev.
 
@@ -151,7 +208,7 @@ Disclaimer: I am the lead developer of CoLRev.
 
 ![image](../assets/iconmonstr-idea-13.svg) Form small groups of 2-3 people
 
-![image](../assets/iconmonstr-note-23.svg) Complete the worksheet (opens automatically)
+![image](../assets/iconmonstr-note-23.svg) Complete the [tutorial](https://colrev-environment.github.io/colrev-tutorial-notebooks/)
 
 ![image](../assets/iconmonstr-help-6.svg) Consult the [documentation](https://colrev-environment.github.io/colrev/) whenever necessary
 
@@ -159,17 +216,19 @@ Disclaimer: I am the lead developer of CoLRev.
 
 ---
 
-<!-- _class: centered -->
 # AI, genAI and the future(s) of literature reviews
-## What can we expect?
 
-![bg right:50% width:600px](../assets/gpt-4.jpg)
+<br>
+
+![image](../assets/iconmonstr-help-6.svg) **Question**: How would you use genAI-tools in a literature review?
+
+![bg right:45% width:500px](../assets/gpt-4.jpg)
 
 ---
 
 # LLMs, current challenges, and promises
 
-Current challenges: "Directly asking ChatGPT for research summaries does not produce compelling results"
+Status quo: "Directly asking ChatGPT for research summaries does not produce compelling results"
 
 - Language vs. knowledge and the problem of hallucination (fictitious references) 
 - LLMs do not necessarily have access to paywalled research
@@ -232,8 +291,8 @@ Task i:
 •	Abstract: “Crafting quality assessment questions in medical education […]”
 ```
 
-⚠️ Metrics for LLM-based classification vary considerably across datasets, indicating **limited generalizability**
-⚠️ The findings show that the essential recall metric does not dominate the performance of random classification in all cases
+⚠️ Performance of LLM-based screening varies considerably across datasets, indicating **limited generalizability**
+⚠️ The findings show that LLMs does not consistently perform better than random classification (in terms of recall)
 
 ---
 

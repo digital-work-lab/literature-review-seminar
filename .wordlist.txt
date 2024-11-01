@@ -750,3 +750,9 @@ img
 io
 svg
 yml
+NotebookLM
+CLI
+Jupyter
+LitStudy
+OSI
+UI

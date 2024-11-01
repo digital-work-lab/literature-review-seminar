@@ -28,7 +28,7 @@ search_exclude: true
 
 > Sehr geehrte Studierende,
 > 
-> herzlich willkommen zum WI-Projekt der Juniorprofessur für Digital Work.
+> herzlich willkommen zum Literature-Review Seminar der Juniorprofessur für Digital Work.
 > 
 > Sie finden alle administrativen Informationen sowie Unterlagen hier im VC-Kurs. Bitte beachten Sie, dass sämtliche schriftliche Kommunikation sowie alle Informationen hier im VC-Kurs erfolgt bzw. zur Verfügung gestellt wird.
 > 

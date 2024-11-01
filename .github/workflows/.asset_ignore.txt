@@ -15,3 +15,6 @@ assets/iconmonstr-clipboard-5.svg
 assets/iconmonstr-pencil-lined.svg
 assets/iconmonstr-info-12.svg
 assets/Templier2018-table-1.pptx
+assets/no.svg
+assets/yes.svg
+assets/maybe.svg

@@ -10,6 +10,10 @@ search_exclude: true
 
 Reminder: submission / presentation dates
 
+## Warm-up exercise
+
+- Ask students to write their topic/RQ/review type on the whiteboard to make the discussion easier
+
 ## Qualities
 
 Given that transparency is significant, why do some reviews not report their methods explicitly? For example, Alavi and Leidner (2001). Try to take their position and argue why a methods section would not be helpful for their work.
