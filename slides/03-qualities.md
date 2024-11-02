@@ -26,7 +26,7 @@ paginate: true
 
 Studying exemplary literature reviews and analyzing the qualities that make them compelling provides valuable insights into what constitutes a high-quality review.
 
-![image](../assets/iconmonstr-idea-13.svg) Form  a review panel to evaluate the four review papers. Provide recommendations on which papers to accept and which to reject, along with justifications for each decision.
+![image](../assets/iconmonstr-idea-13.svg) Form  a review panel to evaluate the review papers. Provide recommendations on which papers to accept and which to reject, along with justifications for each decision.
 
 ---
 
