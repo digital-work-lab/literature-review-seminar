@@ -16,7 +16,15 @@ paginate: true
 
 ## Warm-up exercise
 
-![image](../assets/iconmonstr-pencil-15.svg) **Task** (10 min): Record your topic, research question, and the type of review. If aiming for a top-tier journal, what key aspects would you focus on to produce a high-quality review paper?
+![image](../assets/iconmonstr-pencil-15.svg) **Task** (10 min): Record your topic, research question, and the type of review.
+
+![bg right:45% width:400px](../assets/dalle_warm-up.jpg)
+
+---
+
+## Warm-up exercise
+
+![image](../assets/iconmonstr-help-6.svg) **Question**: If aiming for a top-tier journal, what key aspects would you focus on to produce a high-quality review paper?
 
 ![bg right:45% width:400px](../assets/dalle_warm-up.jpg)
 
@@ -32,9 +40,13 @@ Studying exemplary literature reviews and analyzing the qualities that make them
 
 ## What makes a review successful?
 
-<br><br>
+<br>
 
 ![center width:450px](../assets/successful-review.png)
+
+<br>
+
+![image](../assets/iconmonstr-help-6.svg) **Question**: Which factors lead to a high citation impact?
 
 ---
 

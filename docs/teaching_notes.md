@@ -8,13 +8,13 @@ search_exclude: true
 
 # Teaching notes
 
-| **Day** | **Session** | **Duration** | **Topic**      |  **Session Notes**                               |
-|---------|-------------|--------------|----------------|--------------------------------------------------|
-| 1       | Morning     | 0.5h         | Intro          | [Intro](day_1_teaching_notes_intro.html)         |
-| 1       | Morning     | 3h           | Goals          | [Goals](day_1_teaching_notes_goals.html)         |
-| 1       | Afternoon   | 4h           | Steps          | [Steps](day_1_teaching_notes_steps.html)         |
-| 2       | Morning     | 3h           | Qualities      | [Qualities](day_2_teaching_notes_qualities.html) |
-| 2       | Afternoon   | 3h           | Tools          | [Tools](day_2_teaching_notes_tools.html)         |
+| **Day** | **Session** | **Duration** | **Topic** |  **Session Notes**                               |
+|---------|-------------|--------------|-----------|--------------------------------------------------|
+| 1       | Morning     | 0.5h         | Intro     | [Intro](day_1_teaching_notes_intro.html)         |
+| 1       | Morning     | 3h           | Goals     | [Goals](day_1_teaching_notes_goals.html)         |
+| 1       | Afternoon   | 4h           | Steps     | [Steps](day_1_teaching_notes_steps.html)         |
+| 2       | Morning     | 2h           | Qualities | [Qualities](day_2_teaching_notes_qualities.html) |
+| 2       | Afternoon   | 2h           | Tools     | [Tools](day_2_teaching_notes_tools.html)         |
 
 ## Preparation
 

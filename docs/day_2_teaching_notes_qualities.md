@@ -12,9 +12,33 @@ Reminder: submission / presentation dates
 
 ## Warm-up exercise
 
+- With 3 participants, we spent 45 minutes on the warm-up part.
 - Ask students to write their topic/RQ/review type on the whiteboard to make the discussion easier
+- Discuss whether the scope is adequate, whether the fit between the research question/type of review/topic is appropriate, whether anything needs to be pilot-tested.
+
+## Review-panel assessment of reviews
+
+Give students cases that match their review types.
+
+
+TODO : add theoretical review examples
+
+Scoping reviews:
+
+- Beaudry2006 (overarching synthesis missing, table 2: detailed/author-centric -> general, rationale for excluding empirical papers?)
+- Zhao2014a (synthesis: three focus areas is clear, methods are transparent, there is an overarching and instructive synthesis, good fit with the scoping review, broad search, the topic is emerging)
+
+Systematic reviews:
+
+- Jeyaraj2006
+- Johnson2002
+
+- Ask students for their initial reaction (which one is more compelling?)
+- Ask for details afterwards
 
 ## Qualities
+
+Ask students what affects quality/citations.
 
 Given that transparency is significant, why do some reviews not report their methods explicitly? For example, Alavi and Leidner (2001). Try to take their position and argue why a methods section would not be helpful for their work.
 

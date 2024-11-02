@@ -63,7 +63,12 @@ effectively excluding over 90% of the information and only considering a few wor
 
 Create a reminder for the presentation session
 
-# Thank you!
+## Feedback
+
+- Ask students for issues that are good/should be improved
+- Mention 5-star ratings, and ask for feedback in the final evaluations
+
+## Thank you!
 
 The nice thing about literature reviews is that there are many roads that may connect us (or colleagues)
 
