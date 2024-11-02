@@ -14,22 +14,24 @@ Warm-up: have you worked with research software, what should the ideal literatur
 
 Video: Covidence / HubMEta
 
-### Self-managed approach: Tools
+## Self-managed approach: Tools
 
 TODO : add connectedpapers/inciteful
+
+<!-- 
 mention asreview / the spiral model:
 https://link.springer.com/article/10.1186/s13643-023-02421-z
+-->
 
-
-#### Colrev
-
-TODO : include comparison (readme)!
+## Colrev
 
 - OpenSource, extensible, validated, cost-efficient (open research software, e.g., R/Tidyverse, Machine Learning in Python, Visualization)
-Note: low-code / code environment
+- Code environment (low-code)
 
+<!-- 
 Highlight that literature review data may be different from typical "reproducible research approaches". Why?
 -> Explain the different properties (LRDM), Git
+-->
 
 Explicitly show the colrev status
 
@@ -37,7 +39,7 @@ Show the data (that is what CoLRev relies on)
 
 Invite students to contribute to CoLRev (documentation, testing, etc.)
 
-### LLMs, current challenges, and promises
+## LLMs, current challenges, and promises
 
 How would you use genAI-tools in a literature review?
 
@@ -46,8 +48,7 @@ How would you use genAI-tools in a literature review?
 - LLM like ChatGPT are seemingly easy to operate (simple interface), but generating useful output is surprisingly hard (a metaphorical Norman door)
 - litmaps
 
-### Which developments can be anticipated?
-
+## Which developments can be anticipated?
 
 (not formally part of the main review steps)
  e.g., tabulating  - give examples 
@@ -70,6 +71,6 @@ Create a reminder for the presentation session
 The nice thing about literature reviews is that there are many roads that may connect us (or colleagues)
 
 - Deep engagement (AI/generative AI? - reading not part of the process?)
--> How could ML/machines/generative AI facilitate a deeper understanding (instead of distancing reviewers from the literature)?
+- How could ML/machines/generative AI facilitate a deeper understanding (instead of distancing reviewers from the literature)?
 
 Wrap-up! Plans for submission (presentation?!?!)

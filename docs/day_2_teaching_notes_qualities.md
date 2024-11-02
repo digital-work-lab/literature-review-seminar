@@ -24,12 +24,13 @@ Discuss: which aspects of systematicity/transparency are important for your revi
 
 ### Theoretical contributions
 
-Study specific exemplars
+- Study specific exemplars
 
-**TODO : add Rivard 2024 JSIS**
+**TODO**
 
- TODO : ideally, link to an overview of IS review papers (filtered for impact) 
-scholarship
+- Add Rivard 2024 JSIS.
+- Ideally, link to an overview of IS review papers (filtered for impact) 
+- Mention scholarship
 
 ### Research agenda
 
@@ -40,5 +41,6 @@ The impact of a research agenda: Foresight (research agenda) -> Scientific impac
 ### Summary
 
 Note: theoretical or empirical contribution: not based on the evidence.
--> we can assume that highly transparent papers that lack a contribution will not be cited.
+
+- We can assume that highly transparent papers that lack a contribution will not be cited.
 
