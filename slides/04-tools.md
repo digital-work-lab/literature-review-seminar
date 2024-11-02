@@ -51,6 +51,7 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 |---------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **Search**                | [*LitSonar*](https://litsonar.com/): Supports search query translation.                                           |
 |                           | [*litsearchr*](https://elizagrames.github.io/litsearchr/): Supports search strategy development.                  |
+|                           | [*connectedpapers*](https://www.connectedpapers.com/), [inciteful](https://inciteful.xyz/): Support citation searches. |
 |                           | [*TheoryOn*](https://theoryon.org/): Supports construct searches.                                                 |
 | **Screen**                | [*ASReview*](https://asreview.nl/): AI-supported screening.                                                       |
 | **Quality Assessment**    | [*Robot Reviewer*](https://www.robotreviewer.net/): AI-supported quality appraisal.                               |

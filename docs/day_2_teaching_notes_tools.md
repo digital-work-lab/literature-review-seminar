@@ -12,13 +12,10 @@ Start with a question on students' current thoughts about tool selection in thei
 
 Warm-up: have you worked with research software, what should the ideal literature review tools offer?
 
-Video: Covidence / HubMEta
+<!-- Video: Covidence / HubMEta 
 
 ## Self-managed approach: Tools
 
-TODO : add connectedpapers/inciteful
-
-<!-- 
 mention asreview / the spiral model:
 https://link.springer.com/article/10.1186/s13643-023-02421-z
 -->
