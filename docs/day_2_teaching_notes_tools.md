@@ -76,3 +76,5 @@ The nice thing about literature reviews is that there are many roads that may co
 - How could ML/machines/generative AI facilitate a deeper understanding (instead of distancing reviewers from the literature)?
 
 Wrap-up! Plans for submission (presentation?!?!)
+
+Communicate the expectation that students attend at least 2-3 meetings

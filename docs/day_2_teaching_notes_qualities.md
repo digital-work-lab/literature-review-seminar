@@ -16,6 +16,8 @@ Reminder: submission / presentation dates
 - Ask students to write their topic/RQ/review type on the whiteboard to make the discussion easier
 - Discuss whether the scope is adequate, whether the fit between the research question/type of review/topic is appropriate, whether anything needs to be pilot-tested.
 
+![topics-whiteboard](day_2_topics.jpg)
+
 ## Review-panel assessment of reviews
 
 Give students cases that match their review types.

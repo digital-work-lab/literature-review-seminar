@@ -21,6 +21,7 @@ search_exclude: true
 - [x] Update dates and rooms for sessions
 - [x] Update the rating average in the badge (change the badge-link on index.md) and participation
 - [x] Create VC, link (and update password)
+- [ ] Students should have a very specific topic before the first session (to make sure they can ask the right questions and start to develop the protocol)
 - [x] Upload Pare et al. 2015, Thorndike et al. 2014, van Blarigan et al. 2019
 - [x] Prepare copies of the review types (for classification) - sorting: the clear cases should be last (maximum uncertainty)
 
