@@ -23,6 +23,8 @@ Literature reviews are a central method in information systems research and enab
 For example, influential theories such as Media Synchronicity Theory, the IT Business Value Model, and CARE Theory were published as literature reviews.
 At the same time, meta-analyses, as a special form of literature review, provide the opportunity to aggregate empirical evidence from multiple empirical studies, quantify biases, and derive evidence-based recommendations for practice.
 
+## Goals and learning objectives
+
 The Literature Review Seminar focuses on the method of conducting literature reviews. The goals are to:
 
 - Understand the methodological pluralism within the genre of literature reviews,
@@ -61,13 +63,14 @@ His work on the use of AI in the conduct of literature reviews was recently awar
 Gerit has led the DFG-funded project named EPIQUALIS (Epistemological Advances Through Qualitative Literature Reviews in Information Systems Research), and currently serves as an associate editor for the Communications of the Association for Information Systems, and the International Conference on Information Systems (focusing on literature review methods).
 He is the lead developer for open-source literature review software such as [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and [BibDedupe](https://github.com/CoLRev-Environment/bib-dedupe){: target="_blank"}.
 
-## Goals and learning objectives
-
-**TODO**
-
 ## Course outline
 
-**TODO**
+The seminar starts with two full-day sessions covering:
+
+- Goals and steps of the review process (day 1)
+- Qualities of and tools for literature reviews (day 2)
+
+Afterwards, students develop a review protocol and present it at the end of the semester.
 
 ## Grading criteria
 
