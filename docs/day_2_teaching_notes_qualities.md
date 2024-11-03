@@ -62,7 +62,7 @@ Note: theoretical or empirical contribution: not based on the evidence.
 - We can assume that highly transparent papers that lack a contribution will not be cited.
 
 
-{: .highligh }
+{: .highlight }
 > **TODO**
 > 
 > - Add theoretical review examples (in the review-panel assessment)

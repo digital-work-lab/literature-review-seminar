@@ -18,3 +18,7 @@ assets/Templier2018-table-1.pptx
 assets/no.svg
 assets/yes.svg
 assets/maybe.svg
+assets/day_2_topics.jp
+assets/day_1_steps_data_RCT.jpg
+assets/day_1_steps_screen_notes-screening-reliability.jpg
+assets/day_1_steps_data_inductive-coding-result.jpg
