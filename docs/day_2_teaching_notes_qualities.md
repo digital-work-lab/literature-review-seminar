@@ -16,14 +16,11 @@ Reminder: submission / presentation dates
 - Ask students to write their topic/RQ/review type on the whiteboard to make the discussion easier
 - Discuss whether the scope is adequate, whether the fit between the research question/type of review/topic is appropriate, whether anything needs to be pilot-tested.
 
-![topics-whiteboard](day_2_topics.jpg)
+![topics-whiteboard](../assets/day_2_topics.jpg)
 
 ## Review-panel assessment of reviews
 
 Give students cases that match their review types.
-
-
-TODO : add theoretical review examples
 
 Scoping reviews:
 
@@ -52,12 +49,6 @@ Discuss: which aspects of systematicity/transparency are important for your revi
 
 - Study specific exemplars
 
-**TODO**
-
-- Add Rivard 2024 JSIS.
-- Ideally, link to an overview of IS review papers (filtered for impact) 
-- Mention scholarship
-
 ### Research agenda
 
 Application: read exemplars of research agendas, discuss the key elements, how you research agenda could be developed
@@ -70,3 +61,9 @@ Note: theoretical or empirical contribution: not based on the evidence.
 
 - We can assume that highly transparent papers that lack a contribution will not be cited.
 
+
+{: .highligh }
+> **TODO**
+> 
+> - Add theoretical review examples (in the review-panel assessment)
+> - Add for theoretical contributions: Rivard 2024 JSIS. Ideally, link to an overview of IS review papers (filtered for impact). Mention scholarship.

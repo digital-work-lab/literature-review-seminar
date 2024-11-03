@@ -78,7 +78,7 @@ Outlook: "We have waited too often that database provides improve search capabil
 
 Illustrate "Percentage agreement, Agreement by chance" with an example on the blackboard
 
-![screening reliability](day_1_steps_screen_notes-screening-reliability.jpg)
+![screening reliability](../assets/day_1_steps_screen_notes-screening-reliability.jpg)
 
 <div class="page-break"></div>
 
@@ -92,7 +92,7 @@ Illustrate "Percentage agreement, Agreement by chance" with an example on the bl
 
 Q: What are the key processes across extracted documents?
 
-![inductive coding result](day_1_steps_data_inductive-coding-result.jpg)
+![inductive coding result](../assets/day_1_steps_data_inductive-coding-result.jpg)
 
 Key challenges:
 - Terminology
@@ -133,7 +133,7 @@ Show the coding sheet: Thorndike (annotations)
 
 - For "training": show RCT schema:
 
-![RCT illustration](day_1_steps_data_RCT.jpg)
+![RCT illustration](../assets/day_1_steps_data_RCT.jpg)
 
 - Highlight the need to have a clear plan (e.g., which follow-up will be considered?)
 
