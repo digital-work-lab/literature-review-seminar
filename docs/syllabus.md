@@ -28,7 +28,7 @@ At the same time, meta-analyses, as a special form of literature review, provide
 The Literature Review Seminar focuses on the method of conducting literature reviews. The goals are to:
 
 - Understand the methodological pluralism within the genre of literature reviews,
-- Follow, plan, and adapt the process steps to the objectives of the review,
+- Plan, and adapt the process steps to the objectives of the review,
 - Discuss the quality of literature reviews across various dimensions, and
 - Select appropriate software for the implementation.
 
