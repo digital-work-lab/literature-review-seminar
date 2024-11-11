@@ -170,7 +170,7 @@ The following aspects deem relevant:
 
 - Shared data structures and processes
 - Open-Source license and extensibility through packages
-- Transparent data management, enabling the collaboration of reviewers and AI
+- Transparent data management, enabling the collaboration of reviewers and algorithms, including Artificial Intelligence and Generative Artificial Intelligence
 - Self-explanatory workflow
 <!-- 
 | Tool                                                   | Open Source | Extensibility  | Review types      | Deployment       | 
