@@ -9,7 +9,7 @@ search_exclude: true
 # Teaching notes
 
 {: .info }
-Based on the [pedagogical concept](pedagogy.html).
+Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/32_courses/){: target="_blank"}.
 
 | **Day** | **Session** | **Duration** | **Topic** |  **Session Notes**                               |
 |---------|-------------|--------------|-----------|--------------------------------------------------|
