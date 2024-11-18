@@ -54,3 +54,8 @@ nav_order: 3
     <p>Paré, G., Wagner, G., & Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. <em>Journal of Decision Systems</em>, 1-17. doi:<a href="https://www.tandfonline.com/doi/full/10.1080/12460125.2023.2197701" target="_blank">10.1080/12460125.2023.2197701</a></p>
     <p>Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. <em>European Journal of Information Systems</em>, 27(5), 503-550. doi:<a href="https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880" target="_blank">10.1080/0960085X.2017.1398880</a></p>
 </div>
+
+
+## Resources
+
+- The *This IS Research Podcast* episode [HOW TO DO A LITERATURE REVIEW (10 July 2024)](https://www.janrecker.com/this-is-research-podcast/how-to-do-a-literature-review-10-july-2024/){: target="_blank"}
