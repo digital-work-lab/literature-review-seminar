@@ -56,6 +56,11 @@ Appendix:
 
 References (quality and completeness)
 
+{: .info }
+> We do not expect you to complete the whole literature review, including the search, screen, data extraction, and analysis.
+> Instead, the review protocol should demonstrate that your plans for each step are feasible and promising.
+> To this end, it can be helpful to run the search, and to pilot-test the screen, data extraction and analysis with a few papers.
+
 Prior work must be cited appropriately. We run a plagiarism check for all protocols.
 
 Submission: via e-mail to [gerit.wagner@uni-bamberg.de](mailto:gerit.wagner@uni-bamberg.de)
