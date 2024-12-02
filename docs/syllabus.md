@@ -19,10 +19,10 @@ nav_order: 2
 - **Dates, rooms, and tasks**: Listed on the [Main page](../index.html)
 - **Registration**: If you would like to participate, e-mail me.
 
-{: .highlight }
+{: .info }
 > **FlexNow**
 >
-> Registration in FlexNow is not required to participate in the seminar.
+> Registration in FlexNow is **not required** to participate in the seminar.
 > After submitting your work, we will register you for the seminar and enter your grade in FlexNow.
 
 Literature reviews are a central method in information systems research and enable diverse contributions to knowledge development.
