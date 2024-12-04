@@ -76,7 +76,7 @@ Length: 10-15 minutes
 > 
 > For the protocol, you can use the template for [Markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}), [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx){: target="_blank"}, or adapt existing LaTeX templates.
 > 
-> For the presentation, you can use the [PowerPoint](../assets/UB-Folienmaster.pptx) or [Marp](https://github.com/digital-work-lab/slides_template) template.
+> For the presentation, you can use the [PowerPoint](../assets/UB-Folienmaster.pptx) or [Marp](https://github.com/digital-work-lab/slides_template){: target="_blank"} template.
 
 **Papers**
 
