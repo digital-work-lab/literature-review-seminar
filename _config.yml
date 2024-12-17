@@ -15,7 +15,7 @@ gh_edit_view_mode: 'tree'
 logo: "/assets/images/lr-seminar.png"
 
 mermaid:
-  version: "11.1.0"
+  version: "11.4.0"
 
 callouts:
   warning:
