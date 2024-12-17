@@ -25,7 +25,7 @@ Results from our regular teaching evaluations are available [here](https://digit
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
 xychart-beta
     title "Student rating (overall)"
-    x-axis [WS2324, SS24]
+    x-axis [WiSe2324, SuSe24]
     y-axis "Indicator (1-5)" 1 --> 5
     line [5.0, 5.0]
 ```
@@ -35,7 +35,7 @@ xychart-beta
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
 xychart-beta
     title "Participation"
-    x-axis [WS2324, SS24]
+    x-axis [WiSe2324, SuSe24]
     y-axis "Number of students" 0 --> 15
     line [5, 9]
 ```
