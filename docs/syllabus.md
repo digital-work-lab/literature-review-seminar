@@ -5,6 +5,12 @@ has_toc: true
 nav_order: 2
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Syllabus
 
 {: .feedback }
