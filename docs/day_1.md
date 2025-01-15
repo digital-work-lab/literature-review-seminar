@@ -24,13 +24,6 @@ nav_order: 3
 
 ## Goals
 
-{: .objective }
-> In this session, our goal is to 
-> 
-> - Familiarize with different forms of reviews
-> - Dissociate goals and review types, along with their dimensions
-> - Appreciate the key elements of a review protocol
-
 <br>
 
 <iframe src="../output/01-goals.html" 
@@ -53,12 +46,6 @@ nav_order: 3
 </div>
 
 ## Steps
-
-{: .objective }
-> In this session, our goal is to 
-> 
-> - Understand the generic steps of the review process
-> - Appreciate the critical methodological choices in the search, screen, and analysis
 
 <br>
 

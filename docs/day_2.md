@@ -9,12 +9,6 @@ nav_order: 4
 
 ## Qualities
 
-{: .objective }
-> In this session, our goal is to 
-> 
-> - Distinguish different quality dimensions for literature reviews
-> - Explain which qualities are essential for the different types of reviews
-
 <br>
 
 <iframe src="../output/03-qualities.html" 
@@ -36,13 +30,6 @@ nav_order: 4
 </div>
 
 ## Tools
-
-{: .objective }
-> In this session, our goal is to 
-> 
-> - Distinguish the major approaches of setting up tools for literature reviews
-> - Practice the use of an open-synthesis platform (CoLRev)
-> - Appreciate how AI and genAI/LLM may change the conduct of literature reviews
 
 <br>
 
