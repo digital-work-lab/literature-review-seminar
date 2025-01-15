@@ -9,9 +9,18 @@ nav_order: 3
 
 ## Introduction
 
-| Session       | Slides                                                                                                                       |
-|---------------|------------------------------------------------------------------------------------------------------------------------------|
-| Introduction  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/00-orga.html){: target="_blank"} |
+<br>
+
+<iframe src="../output/00-orga.html" 
+        style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc; border-radius: 5px;" 
+        allowfullscreen>
+</iframe>
+
+<br>
+
+| **Material**         | **Link**                                                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Slides  | [![View Slides Part 1](https://img.shields.io/badge/View-HTML%20Slides-orange?logo=html5)](../output/00-orga.html){: target="_blank"} [![View PDF Slides](https://img.shields.io/badge/Download-PDF-orange?logo=adobe)](../output/00-orga.pdf){: target="_blank"} |
 
 ## Goals
 
@@ -22,9 +31,18 @@ nav_order: 3
 > - Dissociate goals and review types, along with their dimensions
 > - Appreciate the key elements of a review protocol
 
-| Session           | Slides                                                                                                                       |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Goals of reviews  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/01-goals.html){: target="_blank"} |
+<br>
+
+<iframe src="../output/01-goals.html" 
+        style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc; border-radius: 5px;" 
+        allowfullscreen>
+</iframe>
+
+<br>
+
+| **Material**         | **Link**                                                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Slides  | [![View Slides Part 1](https://img.shields.io/badge/View-HTML%20Slides-orange?logo=html5)](../output/01-goals.html){: target="_blank"} [![View PDF Slides](https://img.shields.io/badge/Download-PDF-orange?logo=adobe)](../output/01-goals.pdf){: target="_blank"} |
 
 **Key references**
 
@@ -42,9 +60,18 @@ nav_order: 3
 > - Understand the generic steps of the review process
 > - Appreciate the critical methodological choices in the search, screen, and analysis
 
-| Session                      | Slides                                                                                                                       |
-|------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Steps of the review process  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/02-steps.html){: target="_blank"} |
+<br>
+
+<iframe src="../output/02-steps.html" 
+        style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc; border-radius: 5px;" 
+        allowfullscreen>
+</iframe>
+
+<br>
+
+| **Material**         | **Link**                                                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Slides  | [![View Slides Part 1](https://img.shields.io/badge/View-HTML%20Slides-orange?logo=html5)](../output/02-steps.html){: target="_blank"} [![View PDF Slides](https://img.shields.io/badge/Download-PDF-orange?logo=adobe)](../output/02-steps.pdf){: target="_blank"} |
 
 **Key references**
 

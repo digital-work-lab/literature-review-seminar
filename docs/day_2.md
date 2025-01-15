@@ -15,9 +15,18 @@ nav_order: 4
 > - Distinguish different quality dimensions for literature reviews
 > - Explain which qualities are essential for the different types of reviews
 
-| Session                     | Slides                                                                                                                       |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Qualities of review papers  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/03-qualities.html){: target="_blank"} |
+<br>
+
+<iframe src="../output/03-qualities.html" 
+        style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc; border-radius: 5px;" 
+        allowfullscreen>
+</iframe>
+
+<br>
+
+| **Material**         | **Link**                                                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Slides  | [![View Slides Part 1](https://img.shields.io/badge/View-HTML%20Slides-orange?logo=html5)](../output/03-qualities.html){: target="_blank"} [![View PDF Slides](https://img.shields.io/badge/Download-PDF-orange?logo=adobe)](../output/03-qualities.pdf){: target="_blank"} |
 
 **Key references**
 
@@ -35,9 +44,18 @@ nav_order: 4
 > - Practice the use of an open-synthesis platform (CoLRev)
 > - Appreciate how AI and genAI/LLM may change the conduct of literature reviews
 
-| Session                       | Slides                                                                                                                       |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Tools for literature reviews  | [![View Slides](https://img.shields.io/badge/View-Slides-orange?logo=html5)](../output/04-tools.html){: target="_blank"} |
+<br>
+
+<iframe src="../output/04-tools.html" 
+        style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc; border-radius: 5px;" 
+        allowfullscreen>
+</iframe>
+
+<br>
+
+| **Material**         | **Link**                                                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Slides  | [![View Slides Part 1](https://img.shields.io/badge/View-HTML%20Slides-orange?logo=html5)](../output/04-tools.html){: target="_blank"} [![View PDF Slides](https://img.shields.io/badge/Download-PDF-orange?logo=adobe)](../output/04-tools.pdf){: target="_blank"} |
 
 **Key references**
 
