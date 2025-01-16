@@ -7,7 +7,38 @@ nav_order: 5
 
 # Review Protocol
 
-## Grading criteria: Protocol (70%)
+The review protocol and presentation will be weighted as follows in the overall grade: 70% for the review protocol and 30% for the presentation.
+
+## Grading Criteria
+
+The review protocol will be evaluated with the following criteria, closely aligned with the expectations discussed during in-person sessions and modeled after standards for review protocols submitted to conferences:
+
+1. Fit
+
+- Alignment between the topic, research objectives, review type, and methodological choices.
+- Logical consistency throughout the sections of the protocol, ensuring that these elements are aligned with each other.
+
+2. Transparency and Systematicity
+
+- Clarity and completeness in the reporting of methods, including search strategy, screening criteria, data extraction, and synthesis procedures.
+- Demonstration of rigor in methodological choices, in line with the review type.
+
+3. Grounding in Prior Work
+
+- Degree to which relevant theories, related reviews, and prior research are integrated.
+- Justification for the review's rationale based on gaps or opportunities identified in the literature.
+
+4. Feasibility
+
+- Feasibility of completing the review project, given the scope of the review and reasonable resources.
+- Evidence of pilot testing for search, screening, data extraction, and analysis to demonstrate the feasibility and the anticipated effort required to implement the methods.
+
+5. Contribution and Relevance
+
+- Potential to contribute meaningfully to academic research and/or practical applications.
+- Clarity in articulatating the expected implications for the research field or areas of practice.
+
+##  Protocol: Structure and Key Elements
 
 Length: approx. 15 pages
 
@@ -65,7 +96,7 @@ Prior work must be cited appropriately. We run a plagiarism check for all protoc
 
 Submission: via e-mail to [gerit.wagner@uni-bamberg.de](mailto:gerit.wagner@uni-bamberg.de)
 
-## Grading criteria: Presentation (30%)
+## Presentation
 
 Length: 10-15 minutes
 
