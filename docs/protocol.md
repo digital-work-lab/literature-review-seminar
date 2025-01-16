@@ -15,28 +15,28 @@ The review protocol will be evaluated with the following criteria, closely align
 
 1. Fit
 
-- Alignment between the topic, research objectives, review type, and methodological choices.
-- Logical consistency throughout the sections of the protocol, ensuring that these elements are aligned with each other.
+    - Alignment between the topic, research objectives, review type, and methodological choices.
+    - Logical consistency throughout the sections of the protocol, ensuring that these elements are aligned with each other.
 
 2. Transparency and Systematicity
 
-- Clarity and completeness in the reporting of methods, including search strategy, screening criteria, data extraction, and synthesis procedures.
-- Demonstration of rigor in methodological choices, in line with the review type.
+    - Clarity and completeness in the reporting of methods, including search strategy, screening criteria, data extraction, and synthesis procedures.
+    - Demonstration of rigor in methodological choices, in line with the review type.
 
 3. Grounding in Prior Work
 
-- Degree to which relevant theories, related reviews, and prior research are integrated.
-- Justification for the review's rationale based on gaps or opportunities identified in the literature.
+    - Degree to which relevant theories, related reviews, and prior research are integrated.
+    - Justification for the review's rationale based on gaps or opportunities identified in the literature.
 
 4. Feasibility
 
-- Feasibility of completing the review project, given the scope of the review and reasonable resources.
-- Evidence of pilot testing for search, screening, data extraction, and analysis to demonstrate the feasibility and the anticipated effort required to implement the methods.
+    - Feasibility of completing the review project, given the scope of the review and reasonable resources.
+    - Evidence of pilot testing for search, screening, data extraction, and analysis to demonstrate the feasibility and the anticipated effort required to implement the methods.
 
 5. Contribution and Relevance
 
-- Potential to contribute meaningfully to academic research and/or practical applications.
-- Clarity in articulatating the expected implications for the research field or areas of practice.
+    - Potential to contribute meaningfully to academic research and/or practical applications.
+    - Clarity in articulatating the expected implications for the research field or areas of practice.
 
 ##  Protocol: Structure and Key Elements
 
