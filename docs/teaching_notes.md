@@ -23,9 +23,9 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 
 - [x] Update dates and rooms for sessions
 - [x] Update the rating average in the badge (change the badge-link on index.md) and participation
-- [x] Create VC, link (and update password)
+- [x] Create VC, link (and update password) - deactivate remaining weeks, add an upload at the end and a note on the deadline.
 - [x] Review the [pedagogical concept](pedagogy.html) in preparation of the seminar
-- [ ] Students should have a very specific topic before the first session (to make sure they can ask the right questions and start to develop the protocol)
+- [x] Students should have a very specific topic before the first session (to make sure they can ask the right questions and start to develop the protocol)
 - [x] Upload Pare et al. 2015, Thorndike et al. 2014, van Blarigan et al. 2019
 - [x] Prepare copies of the review types (for classification) - sorting: the clear cases should be last (maximum uncertainty)
 
@@ -44,3 +44,36 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 > Mit besten Grüßen
 > 
 > Gerit Wagner
+
+## VC Post announcing evaluations
+
+> **Literaturseminar: Evaluation & Feedback**
+> 
+> Liebe Studierende,
+> 
+> ich hoffe, Sie sind gut in den letzten Teil des Semesters gestartet.
+> 
+> ✉️ Evaluation
+> 
+> Die Evaluation des Literature Review Seminars haben Sie per E-Mail erhalten. Wir würden uns freuen, wenn Sie sich einen Moment Zeit nehmen, um mir Feedback zu geben. Ihre Rückmeldungen helfen mir, das Seminar weiter zu verbessern.
+> 
+> Parallel dazu habe ich Verbesserungsvorschläge für das kommende Semester in folgendem Issue gesammelt und werde Ihre Vorschläge dort ergänzen:
+> [Verbesserungsvorschläge](https://github.com/digital-work-lab/literature-review-seminar/issues/31)
+> 
+> 📆 Termine
+> 
+> Sollten sich Fragen zu Ihrem Protokoll ergeben, buchen Sie gerne einen Termin über meinen Kalender:
+> [Calendly](https://calendly.com/gerit-wagner/30min)
+> 
+> Mit besten Grüßen,
+> 
+> Gerit Wagner
+
+## Backup
+
+> 📑 Bewertungskriterien
+> 
+> Die Bewertungskriterien für das Seminar wurden aktualisiert. Sie finden die überarbeiteten Kriterien unter folgendem Link:
+> 
+> [Bewertungskriterien](https://digital-work-lab.github.io/literature-review-seminar/docs/protocol.html) mit [Delta der Änderungen](https://github.com/digital-work-lab/literature-review-seminar/commit/8b8b0bc9101d8f5ba4f222c0557ad77020e978df)
+> 
