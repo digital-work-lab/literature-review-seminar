@@ -36,7 +36,7 @@ The review protocol will be evaluated with the following criteria, closely align
 5. Contribution and Relevance
 
     - Potential to contribute meaningfully to academic research and/or practical applications.
-    - Clarity in articulatating the expected implications for the research field or areas of practice.
+    - Clarity in articulating the expected implications for the research field or areas of practice.
 
 ##  Protocol: Structure and Key Elements
 
@@ -67,7 +67,7 @@ Methods:
 - Description of search strategy and procedures (in line with review type)
 - Description of screening criteria
 - Quality appraisal (if applicable)
-- Data extraction procedures explicit and aligned with review type
+- Data extraction procedures explicit and aligned with the review type
 - Data analysis and synthesis approach described
 
 Expected results:
