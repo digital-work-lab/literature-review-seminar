@@ -24,3 +24,4 @@ assets/day_1_steps_screen_notes-screening-reliability.jpg
 assets/day_1_steps_data_inductive-coding-result.jpg
 assets/day_2_topics.jpg
 assets/UB-Folienmaster.pptx
+assets/Seminar-VC-Abgabe.pdf
