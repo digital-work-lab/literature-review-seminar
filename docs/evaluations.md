@@ -30,9 +30,8 @@ Results from our regular teaching evaluations are available [here](https://digit
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
 {% endfor %}
 
-{% assign x_axis = x_axis | rstrip: "," %}
-{% assign y_ratings = y_ratings | rstrip: "," %}
-{% assign y_participation = y_participation | rstrip: "," %}
+y_participation: {{ y_participation }}
+
 
 {: .text-center}
 ```mermaid
@@ -51,10 +50,9 @@ xychart-beta
     title "Participation"
     x-axis [WiSe2324, SuSe24]
     y-axis "Number of students" 0 --> 15
+    line [5, 9]
     line [{{ y_participation }}]
 ```
-
-## Feedback
 
 We actively seek student feedback to improve the seminar. Students can decide whether they want to provide feedback, whether we can publish it, and if so, whether it should be published anonymously. If you send us your feedback via [e-mail](mailto:gerit.wagner@uni-bamberg.de), we will handle it anonymously and only publish if you agree.
 
