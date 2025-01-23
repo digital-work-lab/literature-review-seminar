@@ -30,6 +30,8 @@ Results from our regular teaching evaluations are available [here](https://digit
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
 {% endfor %}
 
+{% assign y_participation = y_participation | rstrip: "," %}
+
 y_participation: {{ y_participation }}
 
 
@@ -50,7 +52,6 @@ xychart-beta
     title "Participation"
     x-axis [WiSe2324, SuSe24]
     y-axis "Number of students" 0 --> 15
-    line [5, 9]
     line [{{ y_participation }}]
 ```
 
