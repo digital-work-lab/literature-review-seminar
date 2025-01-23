@@ -70,6 +70,35 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 > 
 > Gerit Wagner
 
+## VC: reminder
+
+
+> Subject: Erinnerung: Bitte nehmen Sie an der Evaluation des Literature Review Seminars teil 📋
+> 
+> Liebe Studierende,
+> 
+> vor einigen Tagen haben Sie per E-Mail den Link zur Evaluation unseres Literature Review Seminars erhalten. Ich möchte Sie herzlich darum bitten, sich einen Moment Zeit zu nehmen, um mir Ihr Feedback zu geben.
+> 
+> Bisher hat nur eine Person an der Evaluation teilgenommen. Ihre Rückmeldungen sind jedoch besonders wichtig für mich, da sie entscheidend dazu beitragen, das Seminar weiterzuentwickeln und zu verbessern.
+> 
+> Vielen Dank für Ihre Unterstützung!
+> 
+> Mit besten Grüßen,
+> Gerit Wagner
+> 
+> Subject: Reminder: Please participate in the evaluation of the Literature Review Seminar 📋
+> 
+> Dear Students,
+> 
+> A few days ago, you received an email with the link to the evaluation of our Literature Review Seminar. I kindly ask you to take a moment to share your feedback with me.
+> 
+> So far, only one person has participated in the evaluation. Your feedback is particularly important to me, as it is critical for further developing and improving the seminar.
+> 
+> Thank you very much for your support!
+> 
+> Best regards,
+> Gerit Wagner
+
 ## Backup
 
 > 📑 Bewertungskriterien
