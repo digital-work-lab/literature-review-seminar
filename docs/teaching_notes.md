@@ -72,7 +72,6 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 
 ## VC: reminder
 
-
 > Subject: Erinnerung: Bitte nehmen Sie an der Evaluation des Literature Review Seminars teil 📋
 > 
 > Liebe Studierende,
@@ -98,6 +97,12 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 > 
 > Best regards,
 > Gerit Wagner
+
+
+## Dates for the next semester
+
+- [x] Update the landing page to announce the dates for the upcoming semester (in a callout box).
+- [ ] Once the semester is over, update the dates in the table and move the callout box to comments.
 
 ## Backup
 
