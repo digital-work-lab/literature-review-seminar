@@ -40,6 +40,11 @@ You can find all the information about the seminar in our [syllabus](docs/syllab
 
 ## Sign up!
 
+{: .info }
+> **Info** Upcoming Seminar
+> 
+> In 2025, the seminar will be offered with sessions on May 16 and May 23 (8.00-16.00, WE5/05.005). Please **register by May 10**.
+
 - To sign up, [e-mail](mailto:gerit.wagner@uni-bamberg.de) me and suggest a review topic you are interested in.
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
@@ -50,10 +55,6 @@ You can find all the information about the seminar in our [syllabus](docs/syllab
 > **Info** Registration deadline: October 19th, 2024.
 > We are currently updating the contents for the upcoming winter semester (2024/25). You can find the dates and times for the sessions in the table below.
 -->
-
-{: .info }
-> **Info** Upcoming Seminar
-> The seminar will be offered with sessions on May 16 and May 23 (8.00-16.00, WE5/05.005).
 
 ## Goals
 
