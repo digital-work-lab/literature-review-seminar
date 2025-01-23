@@ -13,7 +13,7 @@ permalink: /
 {% assign total_average = 0 %}
 {% assign count = 0 %}
 
-{% for semester in site.data.semesters.semesters %}
+{% for semester in site.data.data.semesters %}
   {% assign total_average = total_average | plus: semester.evaluation_average %}
   {% assign count = count | plus: 1 %}
 {% endfor %}
