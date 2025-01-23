@@ -32,9 +32,14 @@ Results from our regular teaching evaluations are available [here](https://digit
 
 y_participation: {{ y_participation }}
 
-{% assign x_axis = x_axis | truncate: 1 %}
-{% assign y_ratings = y_ratings | truncate: 1 %}
-{% assign y_participation = y_participation | truncate: 1 %}
+{% assign x_axis = x_axis | append: "#END" %}
+{% assign x_axis = x_axis | remove: ",#END" %}
+
+{% assign y_ratings = y_ratings | append: "#END" %}
+{% assign y_ratings = y_ratings | remove: ",#END" %}
+
+{% assign y_participation = y_participation | append: "#END" %}
+{% assign y_participation = y_participation | remove: ",#END" %}
 
 y_participation: {{ y_participation }}
 
