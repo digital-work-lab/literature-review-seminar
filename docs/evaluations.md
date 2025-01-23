@@ -30,12 +30,17 @@ Results from our regular teaching evaluations are available [here](https://digit
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
 {% endfor %}
 
+y_participation: {{ y_participation }}
+
 {% assign x_axis = x_axis | truncate: 1 %}
 {% assign y_ratings = y_ratings | truncate: 1 %}
 {% assign y_participation = y_participation | truncate: 1 %}
 
 y_participation: {{ y_participation }}
 
+{% assign y_participation = "5, 9" %}
+
+y_participation: {{ y_participation }}
 
 {: .text-center}
 ```mermaid
