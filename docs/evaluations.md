@@ -30,8 +30,6 @@ Results from our regular teaching evaluations are available [here](https://digit
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
 {% endfor %}
 
-y_participation: {{ y_participation }}
-
 {% assign x_axis = x_axis | append: "#END" %}
 {% assign x_axis = x_axis | remove: ",#END" %}
 
