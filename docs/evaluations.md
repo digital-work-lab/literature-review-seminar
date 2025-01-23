@@ -20,6 +20,20 @@ nav_order: 6
 
 Results from our regular teaching evaluations are available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.21.evaluations.html){: target="_blank"}.
 
+{% assign x_axis = "" %}
+{% assign y_ratings = "" %}
+{% assign y_participation = "" %}
+
+{% for semester in site.data.data.semesters %}
+  {% assign x_axis = x_axis | append: semester.ID | append: "," %}
+  {% assign y_ratings = y_ratings | append: semester.evaluation_average | append: "," %}
+  {% assign y_participation = y_participation | append: semester.participants | append: "," %}
+{% endfor %}
+
+{% assign x_axis = x_axis | slice: 0, x_axis.size | rstrip: "," %}
+{% assign y_ratings = y_ratings | slice: 0, y_ratings.size | rstrip: "," %}
+{% assign y_participation = y_participation | slice: 0, y_participation.size | rstrip: "," %}
+
 {: .text-center}
 ```mermaid
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
@@ -37,7 +51,7 @@ xychart-beta
     title "Participation"
     x-axis [WiSe2324, SuSe24]
     y-axis "Number of students" 0 --> 15
-    line [5, 9]
+    line [{{ y_participation }}]
 ```
 
 ## Feedback
