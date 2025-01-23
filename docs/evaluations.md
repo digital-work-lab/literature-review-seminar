@@ -30,9 +30,9 @@ Results from our regular teaching evaluations are available [here](https://digit
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
 {% endfor %}
 
-{% assign x_axis = x_axis | slice: 0, x_axis.size | rstrip: "," %}
-{% assign y_ratings = y_ratings | slice: 0, y_ratings.size | rstrip: "," %}
-{% assign y_participation = y_participation | slice: 0, y_participation.size | rstrip: "," %}
+{% assign x_axis = x_axis | rstrip: "," %}
+{% assign y_ratings = y_ratings | rstrip: "," %}
+{% assign y_participation = y_participation | rstrip: "," %}
 
 {: .text-center}
 ```mermaid
