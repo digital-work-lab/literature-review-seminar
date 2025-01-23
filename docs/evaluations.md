@@ -41,12 +41,6 @@ y_participation: {{ y_participation }}
 {% assign y_participation = y_participation | append: "#END" %}
 {% assign y_participation = y_participation | remove: ",#END" %}
 
-y_participation: {{ y_participation }}
-
-{% assign y_participation = "5, 9" %}
-
-y_participation: {{ y_participation }}
-
 {: .text-center}
 ```mermaid
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
@@ -54,7 +48,7 @@ xychart-beta
     title "Student rating (overall)"
     x-axis [WiSe2324, SuSe24]
     y-axis "Indicator (1-5)" 1 --> 5
-    line [5.0, 5.0]
+    line [{{ y_ratings }}]
 ```
 
 {: .text-center}
