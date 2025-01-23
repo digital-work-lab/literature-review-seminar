@@ -35,21 +35,25 @@ permalink: /
 
 Welcome!
 The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
-It is designed to equip Master's students, Ph.D. students and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
-You can find all information about the seminar in our [syllabus](docs/syllabus.html).
+It is designed to equip Master's students, Ph.D. students, and researchers in Information Systems, Management, and Organizational Sciences, with the skills to leverage state-of-the-art literature review methods and tools.
+You can find all the information about the seminar in our [syllabus](docs/syllabus.html).
 
 ## Sign up!
 
 - To sign up, [e-mail](mailto:gerit.wagner@uni-bamberg.de) me and suggest a review topic you are interested in.
 - The seminar is taught in two full-day sessions at the University of Bamberg.
 - It is open to participants from other departments and universities.
-- There are no registration frees.
+- There are no registration fees.
 
 <!-- 
 {: .info }
 > **Info** Registration deadline: October 19th, 2024.
 > We are currently updating the contents for the upcoming winter semester (2024/25). You can find the dates and times for the sessions in the table below.
 -->
+
+{: .info }
+> **Info** Upcoming Seminar
+> The seminar will be offered with sessions on May 16 and May 23 (8.00-16.00, WE5/05.005).
 
 ## Goals
 
@@ -61,7 +65,7 @@ The seminar starts with **two days** in which we cover four key areas:
 
 3. **Qualities**: We discuss the diverse qualities of literature reviews, from methodological rigor to theoretical contributions, and evaluate them for different types of reviews.
 
-4. **Tools**: We familiarize with tools that support literature review processes, including traditional and emerging technologies like generative AI, and discuss the selection of appropriate tools for different methodologies.
+4. **Tools**: We familiarize ourselves with tools that support literature review processes, including traditional and emerging technologies like generative AI, and discuss the selection of appropriate tools for different methodologies.
 
 Introductory literature is available for [goals and steps (day 1)](docs/day_1.html) and [qualities and tools (day 2)](docs/day_2.html).
 
