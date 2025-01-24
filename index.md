@@ -41,7 +41,7 @@ You can find all the information about the seminar in our [syllabus](docs/syllab
 ## Sign up!
 
 {: .info }
-> **Info** Upcoming Seminar
+> **Info on the Upcoming Seminar**
 > 
 > In 2025, the seminar will be offered with sessions on May 16 and May 23 (8.00-16.00, WE5/05.005). Please **register by May 10**.
 
