@@ -40,7 +40,7 @@ The review protocol will be evaluated with the following criteria, closely align
 
 ##  Protocol: Structure and Key Elements
 
-Length: approx. 15 pages
+Length: 12-15 pages of text (excluding references and appendices)
 
 Title page information:
 
