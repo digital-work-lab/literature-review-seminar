@@ -31,7 +31,6 @@ permalink: /
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20({{ average_of_averages }}%20/%205)-yellow)](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
 ![Completion](https://img.shields.io/badge/Enrollment-9%20students-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
-[![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/literature-review-seminar.svg?style=social&label=Star)](https://github.com/digital-work-lab/literature-review-seminar/stargazers)
 
 Welcome!
 The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
