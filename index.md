@@ -12,10 +12,12 @@ permalink: /
 
 {% assign total_average = 0 %}
 {% assign count = 0 %}
+{% assign total_students = 0 %}
 
 {% for semester in site.data.data.semesters %}
   {% assign total_average = total_average | plus: semester.evaluation_average %}
   {% assign count = count | plus: 1 %}
+  {% assign total_students = total_students | plus: semester.participants %}
 {% endfor %}
 
 {% assign average_of_averages = total_average | divided_by: count %}
@@ -29,7 +31,7 @@ permalink: /
 [![Format](https://img.shields.io/badge/Format-In%20person%20sessions%20&%20individual%20work-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)<br>
 <!-- ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue) -->
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20({{ average_of_averages }}%20/%205)-yellow)](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
-![Completion](https://img.shields.io/badge/Enrollment-9%20students-green)
+![Completion](https://img.shields.io/badge/Enrollment-{{ total_students }}%20students-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 
 Welcome!
