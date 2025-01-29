@@ -39,6 +39,8 @@ Results from our regular teaching evaluations are available [here](https://digit
 {% assign y_participation = y_participation | append: "#END" %}
 {% assign y_participation = y_participation | remove: ",#END" %}
 
+y_ratings: {{ y_ratings }}
+
 {: .text-center}
 ```mermaid
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
@@ -69,9 +71,7 @@ We actively seek student feedback to improve the seminar. Students can decide wh
 
 > A really great seminar if you already have some topics that interest you and want to broaden your methodological skills.  
 
-> I am very satisfied with the supervision (especially the appointment booking tool) and the highly constructive feedback.  
-> The open-topic seminar is unique within the faculty, particularly due to its strong focus on methodology, which was also the reason I chose this seminar.  
-> I am completely satisfied with both the seminar and the supervision and would highly recommend it to anyone who wants to deeply engage with a specific methodology.
+> I am very satisfied with the supervision (especially the appointment booking tool) and the highly constructive feedback. The open-topic seminar is unique within the faculty, particularly due to its strong focus on methodology, which was also the reason I chose this seminar. I am completely satisfied with both the seminar and the supervision and would highly recommend it to anyone who wants to deeply engage with a specific methodology.
 
 ### Summer semester 2024
 
