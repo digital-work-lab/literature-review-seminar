@@ -25,6 +25,7 @@ Results from our regular teaching evaluations are available [here](https://digit
 {% assign y_participation = "" %}
 
 {% for semester in site.data.data.semesters %}
+  {% assign semester_id = semester.ID | replace: "/", "_" %}
   {% assign x_axis = x_axis | append: semester.ID | append: "," %}
   {% assign y_ratings = y_ratings | append: semester.evaluation_average | append: "," %}
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
@@ -38,8 +39,6 @@ Results from our regular teaching evaluations are available [here](https://digit
 
 {% assign y_participation = y_participation | append: "#END" %}
 {% assign y_participation = y_participation | remove: ",#END" %}
-
-x_axis: {{ x_axis }}
 
 {: .text-center}
 ```mermaid
