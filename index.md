@@ -20,6 +20,7 @@ permalink: /
   {% assign total_students = total_students | plus: semester.participants %}
 {% endfor %}
 
+{% assign average_of_averages = total_average | divided_by: count %}
 {% assign rounded_avg_x10 = average_of_averages | times: 10 %}
 {% assign rounded_avg_floor = rounded_avg_x10 | floor %}
 {% assign average_of_averages_rounded = rounded_avg_floor | divided_by: 10.0 %}
