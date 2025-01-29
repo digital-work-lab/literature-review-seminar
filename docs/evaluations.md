@@ -39,14 +39,12 @@ Results from our regular teaching evaluations are available [here](https://digit
 {% assign y_participation = y_participation | append: "#END" %}
 {% assign y_participation = y_participation | remove: ",#END" %}
 
-y_ratings: {{ y_ratings }}
-
 {: .text-center}
 ```mermaid
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
 xychart-beta
     title "Student rating (overall)"
-    x-axis [WiSe2324, SuSe24]
+    x-axis [{{ x_axis }}]
     y-axis "Indicator (1-5)" 1 --> 5
     line [{{ y_ratings }}]
 ```
@@ -56,7 +54,7 @@ xychart-beta
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
 xychart-beta
     title "Participation"
-    x-axis [WiSe2324, SuSe24]
+    x-axis [{{ x_axis }}]
     y-axis "Number of students" 0 --> 15
     line [{{ y_participation }}]
 ```
