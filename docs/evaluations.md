@@ -39,6 +39,8 @@ Results from our regular teaching evaluations are available [here](https://digit
 {% assign y_participation = y_participation | append: "#END" %}
 {% assign y_participation = y_participation | remove: ",#END" %}
 
+x_axis: {{ x_axis }}
+
 {: .text-center}
 ```mermaid
 %%{init: { "themeVariables": {"xyChart": {"plotColorPalette": "#7253ed", "plotLineWidth": 4} } }}%%
