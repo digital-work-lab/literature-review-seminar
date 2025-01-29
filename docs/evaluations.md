@@ -26,7 +26,7 @@ Results from our regular teaching evaluations are available [here](https://digit
 
 {% for semester in site.data.data.semesters %}
   {% assign semester_id = semester.ID | replace: "/", "_" %}
-  {% assign x_axis = x_axis | append: semester.ID | append: "," %}
+  {% assign x_axis = x_axis | append: semester_id | append: "," %}
   {% assign y_ratings = y_ratings | append: semester.evaluation_average | append: "," %}
   {% assign y_participation = y_participation | append: semester.participants | append: "," %}
 {% endfor %}
