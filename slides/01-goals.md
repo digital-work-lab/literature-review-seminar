@@ -3,8 +3,7 @@ marp: true
 header: 'Literature Review Seminar'
 theme: ub-theme
 paginate: true
-layout: default
-search: true
+footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/01-goals.md' target='_blank'>⚙️</a>"
 ---
 
 # The Literature Review Seminar

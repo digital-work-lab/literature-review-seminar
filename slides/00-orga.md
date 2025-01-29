@@ -3,6 +3,7 @@ marp: true
 header: 'Literature Review Seminar'
 theme: ub-theme
 paginate: true
+footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/00-orga.md' target='_blank'>⚙️</a>"
 ---
 
 <!-- _class: centered -->
