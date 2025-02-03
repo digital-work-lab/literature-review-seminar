@@ -3,7 +3,9 @@ marp: true
 header: 'Literature Review Seminar'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/01-goals.md' target='_blank'>⚙️</a>"
+layout: default
+search: true
+footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/01-goals.md' target='_blank'>🛠️</a>"
 ---
 
 # The Literature Review Seminar
@@ -222,25 +224,6 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 - Background (what contents you would cover)
 
 <!-- - Discussion of your proposals -->
-
----
-
-# We value your feedback and suggestions
-
-We encourage you to share your feedback and suggestions on this slide deck:
-
-<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/01-goals.md" target="_blank">
-  <img src="../assets/iconmonstr-pencil-lined.svg" alt="Edit" width="32" height="32"> Suggest specific changes by directly modifying the content
-</a>
-<br>
-<a href="https://github.com/digital-work-lab/literature-review-seminar/issues/new" target="_blank">
-  <img src="../assets/iconmonstr-info-12.svg" alt="New Issue" width="32" height="32"> Provide feedback by submitting an issue
-</a>
-<br>
-
-Your feedback plays a crucial role in helping us align with our core goals of **impact in research, teaching, and practice**. By contributing your suggestions, you help us further our commitment to **rigor**, **openness** and **participation**. Together, we can continuously enhance our work by contributing to **continuous learning** and collaboration across our community.
-
-Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html" target="_blank">page</a> to learn more about our goals:  🚀 🛠️ ♻️ 🙏 🧑‍🎓️ . 
 
 ---
 
