@@ -163,11 +163,6 @@ Your feedback plays a crucial role in helping us align with our core goals of **
 
 Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html" target="_blank">page</a> to learn more about our goals:  🚀 🛠️ ♻️ 🙏 🧑‍🎓️ . 
 
-<!-- 
-<img src="../assets/iconmonstr-info-12.svg" alt="New Issue" width="32" height="32">
-<img src="../assets/iconmonstr-pencil-lined.svg" alt="Edit" width="32" height="32">
--->
-
 ---
 
 # Administration and Materials
