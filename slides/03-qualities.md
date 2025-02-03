@@ -103,7 +103,7 @@ One refers to the *soundness of execution* and the other refers to the *explicit
 - Quality of theoretical contributions is hard to measure
 - There are high-level guidelines such as Leidner and Tona's (2021) *thought-gear model for theorizing*
 
-![center width:450px](../assets/theorizing_leidner.png)
+![center width:550px](../assets/theorizing_leidner.png)
 
 ---
 
