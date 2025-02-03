@@ -60,7 +60,7 @@ The study of Wagner et al. (2021)
 - The research question: What are the main attributes that affect the scientific impact of IS review papers?
 - The research model covers factors at three levels: the paper, the authors, and the journal
 
-![bg right:45% width:500px](../assets/lr-sciento-model.png)
+![bg right:45% width:500px](../assets/impact_model.png)
 
 ---
 
@@ -104,7 +104,7 @@ One refers to the *soundness of execution* and the other refers to the *explicit
 - Quality of theoretical contributions is hard to measure
 - There are high-level guidelines such as Leidner and Tona's (2021) *thought-gear model for theorizing*
 
-![center width:450px](../assets/leidner-tona-though-gear-model-theorizing.png)
+![center width:450px](../assets/theorizing_leidner.png)
 
 ---
 

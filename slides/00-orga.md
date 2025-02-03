@@ -77,7 +77,7 @@ Example: Media Synchronicity Theory (Dennis et al. 2006)
 
 <!-- ![bg right:35% width:350px](../assets/word-cloud-literature-review-terms.png) -->
 
-![center width:580px](../assets/DennisEtAl2006.png)
+![center width:580px](../assets/media_synchronicity_theory.png)
 
 <!-- 
 ---
