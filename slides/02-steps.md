@@ -386,7 +386,7 @@ Context:
 
 Effects are aggregated and presented as follows:
 
-![center width:650px](../assets/aggregating-evidence.png)
+![center width:650px](../assets/vote_counting_lacity.png)
 
 ---
 

@@ -25,3 +25,8 @@ assets/day_1_steps_data_inductive-coding-result.jpg
 assets/day_2_topics.jpg
 assets/UB-Folienmaster.pptx
 assets/Seminar-VC-Abgabe.pdf
+assets/media_synchronicity_theory.pptx
+assets/theorizing_leidner.pptx
+assets/vote_counting_lacity.pptx
+assets/Steps_slide 3.pptx
+assets/impact_model.pptx
