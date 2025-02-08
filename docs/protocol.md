@@ -98,7 +98,9 @@ Submission: via e-mail to [gerit.wagner@uni-bamberg.de](mailto:gerit.wagner@uni-
 
 ## Presentation
 
-Length: 10-15 minutes
+Length: 12 minutes ( +- 10% )
+
+Slides: 2-3 min/slide
 
 ## Resources
 
