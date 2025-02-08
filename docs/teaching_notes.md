@@ -98,6 +98,10 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 > Best regards,
 > Gerit Wagner
 
+## Presentation
+
+- Prepare cards: **5 min**, **2 min**
+- Students should stand up when presenting
 
 ## Dates for the next semester
 
