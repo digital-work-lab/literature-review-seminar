@@ -103,6 +103,20 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - Prepare cards: **5 min**, **2 min**
 - Students should stand up when presenting
 
+> Feedback zum Seminar
+> 
+> Liebe Studierende,
+> 
+> vielen Dank für die informativen Präsentationen heute und für den erfolgreichen Abschluss des Seminars!
+> 
+> Gerne gebe ich Ihnen ab der kommenden Woche Feedback zu Ihrer Arbeit und der Bewertung. Für die Terminabstimmung schlage ich wie gewohnt das Calendly-Tool vor:
+> 
+> https://calendly.com/gerit-wagner/30min
+> 
+> Beste Grüße & ein schönes Wochenende
+> 
+> Gerit Wagner
+
 ## Dates for the next semester
 
 - [x] Update the landing page to announce the dates for the upcoming semester (in a callout box).
