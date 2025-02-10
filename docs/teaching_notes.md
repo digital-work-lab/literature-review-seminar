@@ -100,7 +100,9 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 
 ## Presentation
 
-- Prepare cards: **5 min**, **2 min**
+- [ ] Prepare [protocol grades](../docs/Seminar-evaluation-sheet.ods)
+- [ ] Prepare [grading sheets](../docs/presentation_grading.docx)
+- [ ] Prepare cards: **5 min**, **2 min**
 - Students should stand up when presenting
 
 > Feedback zum Seminar
