@@ -105,6 +105,11 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [ ] Prepare cards: **5 min**, **2 min**
 - Students should stand up when presenting
 
+General quetsions for reflection:
+
+- What was challenging when writing the protocol?
+- What would you change if you were to complete the review?
+
 > Feedback zum Seminar
 > 
 > Liebe Studierende,
