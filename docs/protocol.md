@@ -115,7 +115,7 @@ Slides: 2-3 min/slide
 
 <div class="references">
     <p>Büscher, R., Torok, M., & Sander, L. (2019). The effectiveness of internet-based self-help interventions to reduce suicidal ideation: Protocol for a systematic review and meta-analysis. <em>JMIR Research Protocols</em>, 8(7), e14174. <a href="https://www.researchprotocols.org/2019/7/e14174/">link</a></p>
-    <p>Valstad, M., Alvares, G. A., Andreassen, O. A., Westlye, L. T., & Quintana, D. S. (2016). The relationship between central and peripheral oxytocin concentrations: a systematic review and meta-analysis protocol. <em>Systematic Reviews</em>, 5, 1-7. <a href="https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-016-0383-4">link</a></p>
+    <p>Valstad, M., Alvares, G. A., Andreassen, O. A., Westlye, L. T., & Quintana, D. S. (2016). The relationship between central and peripheral oxytocin concentrations: a systematic review and meta-analysis protocol. <em>Systematic Reviews</em>, 5, 1-7. <a href="https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-016-0225-5">link</a></p>
 </div>
 
 **Papers**
