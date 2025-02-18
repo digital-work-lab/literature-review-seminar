@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -11,7 +11,7 @@ layout: default
 </head>
 <body>
     <div class="content">
-        {{ content }}
+        {{ content | markdownify }}
     </div>
 </body>
 </html>
