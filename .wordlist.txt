@@ -780,6 +780,4 @@ IDIS
 Erba
 Monréal
 Paré's
-Gioia’s
-Paré’s
 SearchQuery
