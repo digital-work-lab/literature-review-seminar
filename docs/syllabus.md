@@ -32,7 +32,7 @@ nav_order: 2
 > After submitting your work, we will register you for the seminar and enter your grade in FlexNow.
 
 Literature reviews are a central method in information systems research and enable diverse contributions to knowledge development.
-For example, influential theories such as Media Synchronicity Theory, the IT Business Value Model, and CARE Theory were published as literature reviews.
+For example, influential theories such as Media Synchronicity Theory, the IT Business Value Model, and CARE Theory were published as review and theory development papers.
 At the same time, meta-analyses, as a special form of literature review, provide the opportunity to aggregate empirical evidence from multiple empirical studies, quantify biases, and derive evidence-based recommendations for practice.
 
 ## Goals and learning objectives
