@@ -9,3 +9,40 @@
   page-break-before: always;
   break-before: page;
 }
+
+details {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 15px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 3px;
+  margin-bottom: 0;
+}
+
+details[open] > summary {
+  margin-bottom: 15px;
+}
+
+details > summary:hover {
+  transform: scale(1.02);
+}
+
+details[open] {
+  padding: 10px;
+}
+
+details[open] > div {
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-top: 1px solid #ddd;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}
