@@ -47,10 +47,30 @@ details[open] > div {
   color: #333;
 }
 
+li {
+  padding-left: 1.5em; /* Moves text further to the right */
+}
+
+li::before {
+  margin-left: -0.5em; /* Adjust this for fine-tuning */
+}
+
 @media print {
+  @page {
+    margin: 2cm; /* Adjust as needed */
+  }
+
   body {
+      width: 80%; /* Reduce content width */
+      margin: auto; /* Center content */
       font-size: 12px; /* Adjust this value as needed */
   }
+
+  .main-content {
+      max-width: 600px; /* Adjust the content width */
+      margin: auto !important; /* Ensure it centers */
+  }
+
   h1 {
       font-size: 18px;
   }
