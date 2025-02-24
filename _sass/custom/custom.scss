@@ -60,8 +60,7 @@ details[open] > div {
   h3 {
       font-size: 14px;
   }
-  p, li, td {
-    font-size: 11px;
+  p, li, table, th, td {
+      font-size: 11px !important;
   }
 }
-
