@@ -48,7 +48,7 @@ details[open] > div {
 }
 
 li {
-  padding-left: 1.5em;
+  padding-left: 1em;
   display: flex;
   align-items: center;
 }
@@ -63,7 +63,7 @@ li::before {
 
 @media print {
   @page {
-    margin: 1.54cm;
+    margin: 1.7cm;
   }
 
   body {
@@ -84,7 +84,21 @@ li::before {
   h3 {
       font-size: 14px;
   }
-  p, li, table, th, td {
-      font-size: 11px !important;
+  p, table, th, td {
+    font-size: 11px !important;
+  }
+  li {
+    font-size: 11px !important;
+    padding-left: 1em;
+    display: flex;
+    align-items: center;
+  }
+  
+  li::before {
+    font-size: inherit;
+    font-family: inherit;
+    margin-left: 0.5em;
+    line-height: inherit;
+    display: inline-block;
   }
 }
