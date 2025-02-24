@@ -48,27 +48,31 @@ details[open] > div {
 }
 
 li {
-  padding-left: 1.5em; /* Moves text further to the right */
+  padding-left: 1.5em;
+  display: flex;
+  align-items: center;
 }
 
 li::before {
-  margin-left: -0.5em; /* Adjust this for fine-tuning */
+  font-size: inherit;
+  font-family: inherit;
+  margin-left: 0.5em;
+  line-height: inherit;
+  display: inline-block;
 }
 
 @media print {
   @page {
-    margin: 2cm; /* Adjust as needed */
+    margin: 1.54cm;
   }
 
   body {
-      width: 80%; /* Reduce content width */
-      margin: auto; /* Center content */
-      font-size: 12px; /* Adjust this value as needed */
+      margin: auto;
+      font-size: 12px;
   }
 
   .main-content {
-      max-width: 600px; /* Adjust the content width */
-      margin: auto !important; /* Ensure it centers */
+      margin: auto !important;
   }
 
   h1 {
