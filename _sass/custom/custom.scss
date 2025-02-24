@@ -46,3 +46,22 @@ details[open] > div {
   font-size: 14px;
   color: #333;
 }
+
+@media print {
+  body {
+      font-size: 12px; /* Adjust this value as needed */
+  }
+  h1 {
+      font-size: 18px;
+  }
+  h2 {
+      font-size: 16px;
+  }
+  h3 {
+      font-size: 14px;
+  }
+  p, li {
+      font-size: 11px;
+  }
+}
+
