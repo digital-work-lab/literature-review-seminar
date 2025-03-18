@@ -44,10 +44,12 @@ You can find all the information about the seminar in our [syllabus](docs/syllab
 
 ## Sign up!
 
+<!--
 {: .info }
 > **Info on the Upcoming Seminar**
 > 
 > In 2025, the seminar will be offered with sessions on May 16 and May 23 (8.00-16.00, WE5/05.005). Please **register by May 10**.
+-->
 
 - To sign up, [e-mail](mailto:gerit.wagner@uni-bamberg.de) me and suggest a review topic you are interested in.
 - The seminar is taught in two full-day sessions at the University of Bamberg.
@@ -78,8 +80,8 @@ Introductory literature is available for [goals and steps (day 1)](docs/day_1.ht
 
 |            | Session                                | Date and Time              | Location    |
 | ---------- | -------------------------------------- | ---------------------------| ----------- |
-| Session 1  | [Goals and steps](docs/day_1.html)     | May 16, 8.15-16.00         | WE5 05.005  |
-| Session 2  | [Qualities and tools](docs/day_2.html) | May 23, 8.15-16.00         | WE5 05.005  |
+| Session 1  | [Goals and steps](docs/day_1.html)     | May 16, 9.15-17.00         | WE5 05.005  |
+| Session 2  | [Qualities and tools](docs/day_2.html) | May 23, 9.15-17.00         | WE5 05.005  |
 
 <!-- 
 | Semester | Date and location | Status |
