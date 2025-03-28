@@ -68,18 +68,6 @@ section.lead::after {
   color: transparent;
 }
 
-
-/* pages */
-section::after {
-  position: absolute;
-  left: 50px;
-  right: 50px;
-  height: 10px;
-  bottom:5px;
-
-  color:black;
-}
-
 footer {
   position: fixed;
   bottom: 17px;
