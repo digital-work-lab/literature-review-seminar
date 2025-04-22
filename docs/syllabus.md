@@ -106,6 +106,12 @@ Grading criteria for the review protocol and presentation are available [here](p
 
 Slides and notebooks are available on the sub-pages.
 
+## Related courses
+
+- [METH 80745A - Literature Reviews and Knowledge Synthesis](https://www.hec.ca/en/courses/detail/?cours=METH80745A)
+- [VHB Prodok: Introduction to Literature Reviews](https://www.vhbonline.org/veranstaltungen/alle-veranstaltungen/detail/Introduction%20to%20Literature%20Reviews)
+- [instats: Using ChatGPT for Systematic Literature Reviews](https://instats.org/seminar/using-chatgpt-for-systematic-literature-3)
+
 ## References
 
 <div class="references">
