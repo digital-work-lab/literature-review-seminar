@@ -108,11 +108,11 @@ Slides and notebooks are available on the sub-pages.
 
 ## Related courses
 
-- [HEC Montréal (METH 80745A): Literature Reviews and Knowledge Synthesis](https://www.hec.ca/en/courses/detail/?cours=METH80745A)
-- [VHB Prodok: Introduction to Literature Reviews](https://www.vhbonline.org/veranstaltungen/alle-veranstaltungen/detail/Introduction%20to%20Literature%20Reviews)
-- [University of Calgary (instats): Using ChatGPT for Systematic Literature Reviews](https://instats.org/seminar/using-chatgpt-for-systematic-literature-3)
-- [Carnegie Mellon University (OLI): Systematic Reviews and Meta-Analysis](https://oli.cmu.edu/courses/systematic-reviews-and-meta-analysis-o-f/)
-- [Johns Hopkins University (coursera): Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)
+- [HEC Montréal (METH 80745A): Literature Reviews and Knowledge Synthesis](https://www.hec.ca/en/courses/detail/?cours=METH80745A){: target="_blank"}
+- [VHB Prodok: Introduction to Literature Reviews](https://www.vhbonline.org/veranstaltungen/alle-veranstaltungen/detail/Introduction%20to%20Literature%20Reviews){: target="_blank"}
+- [University of Calgary (instats): Using ChatGPT for Systematic Literature Reviews](https://instats.org/seminar/using-chatgpt-for-systematic-literature-3){: target="_blank"}
+- [Carnegie Mellon University (OLI): Systematic Reviews and Meta-Analysis](https://oli.cmu.edu/courses/systematic-reviews-and-meta-analysis-o-f/){: target="_blank"}
+- [Johns Hopkins University (coursera): Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review){: target="_blank"}
 
 ## References
 
