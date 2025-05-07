@@ -26,7 +26,7 @@ permalink: /
 {% assign average_of_averages_rounded = rounded_avg_floor | divided_by: 10.0 %}
 
 <!-- ![Course Status](https://img.shields.io/badge/Current%20course-Winter%20semester%202024/25-yellow) -->
-![Course Status](https://img.shields.io/badge/Upcoming%20course-Summer%20semester%202025-green)<br>
+![Course Status](https://img.shields.io/badge/Current%20course-Summer%20semester%202025-green) ![Course Status](https://img.shields.io/badge/Upcoming%20course-Winter%20semester%202025/26-green)<br>
 [![Level](https://img.shields.io/badge/Level-Master%20|%20PhD-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 [![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20etc.-blue)](https://digital-work-lab.github.io/literature-review-seminar/docs/syllabus.html)
 ![Workload](https://img.shields.io/badge/Work%20load-90h%20(3%20ECTS)-blue)<br>
