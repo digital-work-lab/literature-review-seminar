@@ -93,6 +93,8 @@ What would be the most incoherent combination?
 
 - Requirement for the review protocol - need to study methods papers carefully, identify the characteristics, and justify your choices.
 
+<div class="page-break"></div>
+
 ### What can we publish from a review project
 
 Highlight that open science is just getting started in the area of literature reviews
@@ -101,13 +103,13 @@ End of first session: take notes on your ideas and how to introduce your topic, 
 
 ## Review protocols: Their purposes
 
-- Purpose of a protocol (registries like PROSPERO, feedback, show examples)
+Purpose of a protocol (registries like PROSPERO, feedback, show examples)
 
-A review protocol is a formal document that outlines the plan of a review project. It is the foundation of the entire review process
-It forces to think through the different stages of the process at the beginning of the project and any associated challenges or issues
-Having a detailed protocol ensures that all methodological decisions are carefully considered and justified, enhancing the trustworthiness of the results and conclusions
-It also protects the authors against “scope creep”
-Tendency of researchers to expand the work required without due consideration of the costs, schedule, etc.
-Last, its publication ensures other researchers are aware that the review is being undertaken, minimizing the amount of time and resources wasted on duplicate reviews
+- A review protocol is a **formal document that outlines the plan** for a review project.
+- It serves as the foundation for the entire review process.
+- It prompts researchers to **consider all stages and potential challenges early in the project**.
+- A detailed protocol ensures **methodological decisions are well-justified**, increasing the trustworthiness of findings.
+- It helps prevent **“scope creep”** — the uncontrolled expansion of a project's scope.
+- Publishing the protocol informs others about the ongoing review, reducing duplication of effort and resource waste.
 
 <!-- synchronous session Topic 4.pptx  -->
