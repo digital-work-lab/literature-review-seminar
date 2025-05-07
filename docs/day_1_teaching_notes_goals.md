@@ -71,6 +71,10 @@ Ask students about the differences between types in the groups (what are the key
 - Shim2002: Narrative
 - Seuring2013: Descriptive
 
+Possible additions:
+- Zhao2014: Scoping
+- Carillo2006: Theoretical (integrative) 
+
 Any item that you would use as an inspiration (for your proposal)?
 
 ### Dimensions (Cooper's taxonomy)

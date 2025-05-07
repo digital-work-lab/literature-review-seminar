@@ -73,6 +73,14 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
 ## Practice
 
 ![image width:25px](../assets/iconmonstr-window-multiple-3d-alt-lined.svg) **Task**: Classify the selection of review papers according to the typology of Paré et al. (2015):
@@ -86,6 +94,8 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 - [Kitsiou et al. (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173160)
 - [Melville et al. (2004)](https://www.jstor.org/stable/25148636)
 - [Otte-Trojel et al. (2016)](https://academic.oup.com/jamia/article/21/4/751/764620?login=true)
+
+> [Zhao and Zhu (2014)](https://link.springer.com/article/10.1007/s10796-012-9350-4) and [Carillo and Beaudry (2006)](https://aisel.aisnet.org/cais/vol17/iss1/21/) may also be covered (depending on group size).
 
 ![bg right:50% width:550px](../assets/Pare2015-table5.png)
 
@@ -213,8 +223,21 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
     - Intended publication plan (protocol publication/registration, strategy for reporting and publishing the full review article)
     - Other declarations (funding sources, etc.)
 
+
 ---
 
+## Until next session
+
+![image](../assets/iconmonstr-note-23.svg) **Task**: Explore the literature related to your topic and identify 
+
+1. **Related review papers** that should be mentioned in your review (protocol)
+2. **A review paper that exemplifies your chosen review type**, which may serve as an inspiration for your work
+
+Prepare to give an overview of the related review papers and explain what is particularly compelling in the exemplary review paper.
+
+![bg right:40% width:450px](../assets/exemplar_freepik.jpg)
+
+<!-- 
 ## Practice: First draft of a review protocol
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Create a quick draft for your protocol, covering the following elements:
@@ -223,6 +246,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 - Introduction in bullet points 
 - Background (what contents you would cover)
 
+ -->
 <!-- - Discussion of your proposals -->
 
 ---
