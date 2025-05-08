@@ -96,10 +96,10 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 - Doctoral students and external participants can use the seminar to develop a review paper.
 - All participants are invited to [meet me](https://calendly.com/gerit-wagner/30min){: target="_blank"} to discuss and polish their review.
 
-| Deliverable      | Date                                   |
-| ---------------- | -------------------------------------- |
-| Submission       | tba                                    |
-| Presentation     | tba                                    |
+| Deliverable      | Date                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Submission       | July 17, 2025 (see [vc submission](https://vc.uni-bamberg.de/mod/assign/view.php?id=1986572))                                  |
+| Presentation     | July 25, 2025 (12-14.00, WE5/1.094) (see [vc](https://vc.uni-bamberg.de/course/view.php?id=71960) for groups and slide upload) |
 
 ## Instructor
 
