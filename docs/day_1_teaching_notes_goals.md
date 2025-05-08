@@ -25,13 +25,16 @@ search_exclude: true
 - Explaining: Why is attentional control inefficient in context X?
 - Understanding: How do current research designs restrict our understanding of attention control theory?
 
-<!-- understanding: may also cover "theory landscaping" (Okoli2012) -->
-
-Predicting of Gregor 2006: relevant? something missing? 
+<!-- 
+- Understanding: may also cover "theory landscaping" (Okoli2012)
+- Predicting of Gregor 2006: relevant? something missing? 
+-->
 
 ### Paré 2015: reading
 
 PDF in VC - 25 min, take notes
+
+**Optional questions**:
 
 - What is your review type?
 - Summarize the key characteristics
@@ -41,18 +44,21 @@ PDF in VC - 25 min, take notes
 <!-- **TODO: mention SkinnerNelsonChin2022a and the correlation approach** -->
 
 {: .info }
+> **Before**
+> 
+> - Discuss reading strategy (skim headings/figures etc)
+> - Ask students to take notes: which parts (figures/statements) led to your decisions?
+> 
 > **Exercise**
 > 
-> Classification exercise (rotating papers to the next student every 5 min, colleting the batch at the end and moving it to the beginning of the line once)
+> - Rotate papers to the next student every 5 min (**set timer**), colleting the batch at the end and moving it to the beginning of the line
+> - Students: Classification exercise with [classification exercise sheet](../assets/classification-exercise.pdf)
+> 
+> **Solution**:
+> 
+> Highlight particular pages/figures/goals, everyone selects one, after 3 minutes, we switch (prepare a table to fill out)
 
-**Before**
-
-- Discuss reading strategy (skim headings/figures etc)
-- Ask students to take notes: which parts (figures/statements) led to your decisions?
-- Set a timer to 5 min
-
-- Application: classify example papers - print one version of each type, highlight particular pages/figures/goals, everyone selects one, after 3 minutes, we switch (prepare a table to fill out)
--> maybe even include 1-2 papers that are not reviews?
+Maybe even include 1-2 papers that are not reviews?
 
 ### Classification results
 

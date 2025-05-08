@@ -28,7 +28,8 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [x] Review the [pedagogical concept](pedagogy.html) in preparation of the seminar
 - [x] Students should have a very specific topic before the first session (to make sure they can ask the right questions and start to develop the protocol)
 - [x] Upload Pare et al. 2015, Thorndike et al. 2014, van Blarigan et al. 2019
-- [ ] Prepare copies of the review types (for classification) - sorting: the clear cases should be last (maximum uncertainty)
+- [x] Prepare copies of the review types (for classification) - sorting: the clear cases should be last (maximum uncertainty)
+- [x] Print and upload the [classification exercise sheet](../assets/classification-exercise.pdf)
 
 ## First VC post
 

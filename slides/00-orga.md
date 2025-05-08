@@ -175,12 +175,12 @@ In line with our [values](https://digital-work-lab.github.io/handbook/docs/00.go
 - Actively actively contribute to the discourse on literature reviews and benefit from the feedback of peers:
 
 <div class="references">
-  <p>Eckhardt, P., Ernst, K., Fleischmann, T., Geßler, A., Schnickmann, K., Thurner, L., and Wagner, G. “search-query: An Open-Source Python Library for Academic Search Queries”. (working paper)</p>
+  <p>Eckhardt, P., Ernst, K., Fleischmann, T., Geßler, A., Schnickmann, K., Thurner, L., and Wagner, G. “search-query: An Open-Source Python Library for Academic Search Queries”.<br>(🎓 student working paper)</p>
   <p>Wagner, G., Prester, J., Mousavi, R., Lukyanenko, R., and Paré, G. “Generative Artificial Intelligence and the Future of Literature Reviews and Scientific Inquiry”. (working paper)</p>
   <p>Wagner, G., Prester, J., Lukyanenko, R., and Paré, G. “Data Management in Literature Reviews: Foundations, Principles, and Recommendations”. (working paper)</p>
   <p>Wagner, G. 2024. “BibDedupe: An Open-Source Python Library for Bibliographic Record Deduplication”. <em>Journal of Open Source Software</em>, 9(97), 6318. <a href="https://doi.org/10.21105/joss.06318">doi:10.21105/joss.06318</a></p>
   <p>Paré, G., Wagner, G., and Prester, J. 2023. “How to develop and frame impactful review articles: Key recommendations“. <em>Journal of Decision Systems</em>, 33(4), 566–582.</p>
-  <p>Wagner, G., Lukyanenko, R., and Paré, G. 2022. “Artificial Intelligence and the Conduct of Literature Reviews”. <em>Journal of Information Technology (JIT)</em>, 37(2), 209–226. (VHB-JOURQUAL 3: A)</p>
+  <p>Wagner, G., Lukyanenko, R., and Paré, G. 2022. “Artificial Intelligence and the Conduct of Literature Reviews”. <em>Journal of Information Technology (JIT)</em>, 37(2), 209–226.<br>(🏆 <a href="https://journals.sagepub.com/page/jin/jin-prize/prize-winning">Best Paper Prize 2022</a>)</p>
 </div>
 
 We value feedback — please let us know what works and how we can improve ♡
