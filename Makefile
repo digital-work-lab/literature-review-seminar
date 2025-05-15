@@ -12,6 +12,20 @@ PANDOC_CALL = docker run --rm \
 
 SLIDES_LIST := $(patsubst slides/%.md,%,$(wildcard slides/[0-9][0-9]*.md))
 
+ifeq ($(CI),true)
+	MARP_CMD = marp
+	MARP_ARGS = --allow-local-files --theme-set assets/template/theme.css --pdf-option="--no-sandbox" --pdf-option="--disable-dev-shm-usage"
+else
+	MARP_CMD = docker run --rm --init \
+		-v "$(shell pwd)":/home/marp/app/ \
+		-v "$(shell pwd)/assets":/home/marp/app/assets \
+		-v "$(shell pwd)/material":/home/marp/app/material \
+		-e LANG=$(LANG) \
+		-e MARP_USER=$(UID):$(GID) \
+		marpteam/marp-cli:v4.1.2
+	MARP_ARGS = /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files --pdf-option="--no-sandbox" --pdf-option="--disable-dev-shm-usage" -o /home/marp/app/$@
+endif
+
 # Define a rule to build all slides
 slides: lecture_slides lecture_slides_pdfs
 
@@ -26,7 +40,15 @@ lecture_slides_pdfs: $(addprefix output/,$(addsuffix .pdf,$(SLIDES_LIST)))
 
 # Define a pattern rule for building a slide
 output/%.html: slides/%.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v4.1.2 $< --theme-set assets/template/theme.css --html --allow-local-files -o $@
+ifeq ($(CI),true)
+	marp $< --theme-set assets/template/theme.css --html --allow-local-files -o $@
+else
+	docker run --rm --init -v "$(PWD)":/home/marp/app/ \
+		-e LANG=${LANG} -e MARP_USER="${UID}:${GID}" \
+		marpteam/marp-cli:v4.1.2 $< \
+		--theme-set assets/template/theme.css \
+		--html --allow-local-files -o $@
+endif
 
 # Define a pattern rule for building a slide
 # output/%.pdf: %.md assets/template/theme.css
@@ -36,4 +58,4 @@ output/%.html: slides/%.md assets/template/theme.css
 # 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -v "$(PWD)/assets":/home/marp/app/assets -v "$(PWD)/material":/home/marp/app/material -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v4.1.2 /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files -o /home/marp/app/$@
 
 output/%.pdf: slides/%.md assets/template/theme.css
-	docker run --rm --init -v "$(shell pwd)":/home/marp/app/ -v "$(shell pwd)/assets":/home/marp/app/assets -v "$(shell pwd)/material":/home/marp/app/material -e LANG=$(LANG) -e MARP_USER=$(shell id -u):$(shell id -g) marpteam/marp-cli:v4.1.2 /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --debug=all --pdf --allow-local-files --pdf-option="--no-sandbox"  --pdf-option="--disable-dev-shm-usage"  -o /home/marp/app/$@
+	$(MARP_CMD) $(if $(CI),$<,$(MARP_ARGS))
