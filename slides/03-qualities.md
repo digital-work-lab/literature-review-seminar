@@ -138,6 +138,11 @@ Literature reviews can be expected to be more impactful if they
 
 ---
 
+TODO : discuss the coding of a paper according to PRISMA
+Highlight that it is useful to do that for the review protocol/paper (check whether you can see the type of review from the methods, code it according to PRISMA)
+
+---
+
 <style scoped>
 p {
     padding-left: 36px;
