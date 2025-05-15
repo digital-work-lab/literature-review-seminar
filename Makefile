@@ -26,7 +26,7 @@ lecture_slides_pdfs: $(addprefix output/,$(addsuffix .pdf,$(SLIDES_LIST)))
 
 # Define a pattern rule for building a slide
 output/%.html: slides/%.md assets/template/theme.css
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v4.1.2 $< --theme-set assets/template/theme.css --html --allow-local-files -o $@
+	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v4.1.2 $< --theme-set assets/template/theme.css --html --allow-local-files --pdf-option="--no-sandbox" -o $@
 
 # Define a pattern rule for building a slide
 # output/%.pdf: %.md assets/template/theme.css
