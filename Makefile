@@ -14,7 +14,7 @@ SLIDES_LIST := $(patsubst slides/%.md,%,$(wildcard slides/[0-9][0-9]*.md))
 
 ifeq ($(CI),true)
 	MARP_CMD = marp
-	MARP_ARGS = --allow-local-files --theme-set assets/template/theme.css --pdf-option="--no-sandbox" --pdf-option="--disable-dev-shm-usage"
+	MARP_ARGS = --allow-local-files --theme-set assets/template/theme.css --pdf --pdf-option="--no-sandbox" --pdf-option="--disable-dev-shm-usage"
 else
 	MARP_CMD = docker run --rm --init \
 		-v "$(shell pwd)":/home/marp/app/ \
