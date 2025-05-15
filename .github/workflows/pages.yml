@@ -45,8 +45,13 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: clone marp-cli
-        run: docker pull marpteam/marp-cli:v4.1.2
+      - name: Install Chromium and Marp CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium
+          npm install -g @marp-team/marp-cli
+          echo "CHROME_PATH=$(which chromium)" >> $GITHUB_ENV
+          echo "CHROME_NO_SANDBOX=1" >> $GITHUB_ENV
       - name: make slides
         run: make -B slides
       - name: Copy output to _site/output
