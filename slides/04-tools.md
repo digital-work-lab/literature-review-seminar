@@ -247,6 +247,12 @@ Researchers need to understand nuances of review types, methods, and steps
 
 ---
 
+# Clark et al. (2025): Generative artiﬁcial intelligence use in evidence synthesis: A systematic review
+
+![center width:570px](../assets/ClarkEtAl2025.png)
+
+---
+
 # Which developments can be anticipated?
 
 Review types
@@ -344,6 +350,8 @@ p {
 </style>
 
 ## References
+
+Clark, J., Barton, B., Albarqouni, L., Byambasuren, O., Jowsey, T., Keogh, J., ... & Jones, M. (2025). Generative artificial intelligence use in evidence synthesis: A systematic review. *Research Synthesis Methods*, 1-19. doi:[10.1017/rsm.2025.16](https://doi.org/10.1017/rsm.2025.16).
 
 Syriani, E., David, I., and Kumar, G. 2023. “Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews,” arXiv. doi:[10.48550/ARXIV.2307.06464](https://doi.org/10.48550/ARXIV.2307.06464).
 
