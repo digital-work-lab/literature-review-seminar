@@ -460,7 +460,9 @@ Outcome of interest:
 
 ## Take-home exercise
 
-![image](../assets/iconmonstr-note-23.svg) **Task**: Select an exemplary review in your topic area and fill out the [PRISMA checklist](https://www.prisma-statement.org/prisma-2020) to assess the transparency of reporting.
+![image](../assets/iconmonstr-info-12.svg) For the next session, please [sign up for a GitHub account](https://github.com/signup) if you don't have one already.
+
+![image](../assets/iconmonstr-note-23.svg) **Task**: Select an exemplary review and fill out the [PRISMA checklist](https://www.prisma-statement.org/prisma-2020) to assess the transparency of reporting.
 
 ![center width:1000px](../assets/prisma_checklist.png)
 

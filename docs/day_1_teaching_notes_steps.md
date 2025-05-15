@@ -12,6 +12,12 @@ Ask students to adopt the perspective of a reviewer and scrutinize methodologica
 
 ## Steps
 
+{: .highlight }
+> **Warm-up**
+> Ask students to draft the steps of a literature review (how they would approach it).
+> Few students: whiteboard, More students: on paper and circulate it afterwards (reflect).
+> Possible observations: iterations, generic vs. detailed steps, missing steps (such as reading, citation searches)
+
 Discuss how the models fit together / what the underlying differences are
 
 - Reading activities: in the "data extraction"
@@ -22,11 +28,13 @@ Okoli: screen before search? (search: "reporting the search")
 
 ### Generic steps: Templier and Paré (2018)
 
-
 - Discuss the differences between review types (e.g., highlight the role of quality appraisal or grey literature)
 - Remember: coherence!
 
 ## Problem formulation
+
+{: .highlight }
+> Discuss positioning of students' work with regard to related review papers.
 
 - Methodological coherence objectives/type/methods
 - We have done that in the first session
@@ -47,6 +55,7 @@ Examples:
 - It is implicit/unclear how the search strings are connected (probably OR)
 - There is no rationale to include AI Aversion but not ML aversion.
 - There is no rationale to require "ML decision" to be an exact match, but Algorithm* Aversion is not required to be an exact match
+- The use of quotes and wildcards is inconsistent
 - For a conference paper, the authors could be required to complete the building-block matrix (or justify the design of the search strategy)
 
 Metrics:

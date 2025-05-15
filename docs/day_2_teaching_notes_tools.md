@@ -78,3 +78,7 @@ The nice thing about literature reviews is that there are many roads that may co
 Wrap-up! Plans for submission (presentation?!?!)
 
 Communicate the expectation that students attend at least 2-3 meetings
+
+{: .highligh }
+> **Feedback**
+> Ask participants to note down one item that was good (keep) and one that was not good (leave).

@@ -48,16 +48,16 @@ Common elements:
 
 Leading automation tools for literature reviews (Wagner et al. 2021):
 
-| Step                      | Research Tools                                                                                                    |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Search**                | [*LitSonar*](https://litsonar.com/): Supports search query translation.                                           |
-|                           | [*litsearchr*](https://elizagrames.github.io/litsearchr/): Supports search strategy development.                  |
-|                           | [*connectedpapers*](https://www.connectedpapers.com/), [inciteful](https://inciteful.xyz/): Support citation searches. |
-|                           | [*TheoryOn*](https://theoryon.org/): Supports construct searches.                                                 |
-| **Screen**                | [*ASReview*](https://asreview.nl/): AI-supported screening.                                                       |
-| **Quality Assessment**    | [*Robot Reviewer*](https://www.robotreviewer.net/): AI-supported quality appraisal.                               |
-| **Data Analysis**         | [*Obsidian*](https://obsidian.md/): A tool for knowledge management and data extraction.                          |
-|                           | [*RevMan*](https://training.cochrane.org/online-learning/core-software/revman): A tool to conduct meta-analyses.  |
+| Step                      | Research Tools                                                                                                                                        |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Search**                | [*LitSonar*](https://litsonar.com/): Supports search query translation.                                                                               |
+|                           | [*litsearchr*](https://elizagrames.github.io/litsearchr/): Supports search strategy development.                                                      |
+|                           | [*connectedpapers*](https://www.connectedpapers.com/), [inciteful](https://inciteful.xyz/): Support citation searches.                                |
+|                           | [*TheoryOn*](https://theoryon.org/): Supports construct searches.                                                                                     |
+| **Screen**                | [*ASReview*](https://asreview.nl/): AI-supported screening (see [intro](https://www.youtube.com/watch?v=k-a2SCq-LtA)).                                |
+| **Quality Assessment**    | [*Robot Reviewer*](https://www.robotreviewer.net/): AI-supported quality appraisa (see [intro](https://www.youtube.com/watch?v=0xwwze83sBs)).         |
+| **Data Analysis**         | [*Obsidian*](https://obsidian.md/): A tool for knowledge management and data extraction.                                                              |
+|                           | [*RevMan*](https://training.cochrane.org/online-learning/core-software/revman): A tool to conduct meta-analyses.                                      |
 
 ---
 
@@ -212,12 +212,15 @@ The following aspects deem relevant:
 
 # Platforms: CoLRev and open synthesis
 
-
 ![image](../assets/iconmonstr-rocket-17.svg) Start the [demo](https://github.com//codespaces/new?hide_repo_select=true&ref=main&repo=767717822) (account and login on GitHub required)
+
+<!-- 
+Note: the tutorial was extracted to a separate page (see link: https://colrev-environment.github.io/colrev-tutorial-notebooks/)
+-->
 
 ![image](../assets/iconmonstr-idea-13.svg) Form small groups of 2-3 people
 
-![image](../assets/iconmonstr-note-23.svg) Complete the [tutorial](https://colrev-environment.github.io/colrev-tutorial-notebooks/)
+![image](../assets/iconmonstr-note-23.svg) Open the [tutorial](https://colrev-environment.github.io/colrev-tutorial-notebooks/) worksheet and complete it
 
 ![image](../assets/iconmonstr-help-6.svg) Consult the [documentation](https://colrev-environment.github.io/colrev/) whenever necessary
 
