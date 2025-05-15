@@ -22,7 +22,7 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ---
 
-# Typical setups <a id="setups"></a>
+# Typical setups
 
 Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](http://systematicreviewtools.com/) alone listed over 250 tools.
 
@@ -33,7 +33,7 @@ There are three major approaches:
 
 ---
 
-# Self-managed approach <a id="self-managed"></a>
+# Self-managed approach
 
 Common elements:
 
@@ -44,7 +44,7 @@ Common elements:
 
 ---
 
-# Self-managed approach: Tools <a id="self-managed-tools"></a>
+# Self-managed approach: Tools
 
 Leading automation tools for literature reviews (Wagner et al. 2021):
 
@@ -61,7 +61,7 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 
 ---
 
-# Self-managed approach <a id="self-managed-assessment"></a>
+# Self-managed approach
 
 Advantages:
 
@@ -171,7 +171,7 @@ blockquote {
 }
 </style>
 
-# Platforms: CoLRev and open synthesis <a id="colrev"></a>
+# Platforms: CoLRev and open synthesis
 
 We may envision an open and extensible research platform supporting different types of literature reviews.
 
