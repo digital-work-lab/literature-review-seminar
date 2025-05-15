@@ -269,8 +269,6 @@ blockquote {
 
 <br>
 
-<div align="center">
-
 | Kappa Value Range | Interpretation           |
 |-------------------|--------------------------|
 | ≤ 0               | No agreement             |
@@ -279,8 +277,6 @@ blockquote {
 | 0.41 – 0.60       | Moderate                 |
 | 0.61 – 0.80       | Substantial              |
 | 0.81 – 1.00       | Almost perfect agreement |
-
-</div>
 
 > Note: When data is skewed—meaning one category is much more common than others—the Kappa statistic can be artificially low even if there is a high level of agreement. This occurs because Kappa adjusts for the level of agreement that would be expected purely by chance. In skewed distributions, the expected chance agreement tends to be high, which lowers the Kappa score. Essentially, in skewed distributions, even a relatively high observed agreement may not lead to a high Kappa, as the metric accounts for the imbalance.
 
