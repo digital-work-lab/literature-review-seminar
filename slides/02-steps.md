@@ -125,6 +125,16 @@ Building blocks can be based on established frameworks like PICO (population-int
 
 ---
 
+## Literature search: Application
+
+- Draft a search strategy for your topic, following the building-blocks approach.
+
+![center width:1200px](../assets/concept-map.png)
+
+- Does the building block approach provide a good fit with your context?
+
+---
+
 <style>
 blockquote {
     border-top: 0.1em;
@@ -139,11 +149,21 @@ Imagine you serve as a reviewer for a conference. You review a paper on algorith
 
 ![image](../assets/iconmonstr-clipboard-6.svg) **Task**: Evaluate the proposed search strategy critically, taking into account the building-block approach. Make a recommendation to accept, revise, or reject.
 
+
 ![bg right:50% width:500px](../assets/MahmudEtAl2022.png)
 
 > \* Note: Example taken from Mahmud, H., Islam, A. N., Ahmed, S. I., & Smolander, K. (2022). What influences algorithmic decision-making? A systematic literature review on algorithm aversion. *Technological Forecasting and Social Change*, 175, 121390.
+>  ![image width:10px](../assets/iconmonstr-info-12.svg) The [search-query](https://colrev-environment.github.io/search-query/) package supports the validation (linting) of search queries to identify syntactical errors and suggest improvements.
 
 ---
+
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
 
 ## Literature search: Strengths and shortcomings of database searches
 
@@ -154,9 +174,12 @@ Strengths:
 
 Shortcomings:
 
-- Keyword searches: rely on exact matches 
+- Keyword searches rely on exact matches *
 - Need to be familiar with the vocabulary (check keywords or taxonomies like [MeSH](https://meshb.nlm.nih.gov/?_gl=1*1v2wumx*_ga*MTAzMDkzMDY3OC4xNjg1OTY3ODEy*_ga_7147EPK006*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.*_ga_P1FPTH9PL4*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.) etc.)
 - Assumption of controlled scientific vocabulary although disciplines like Information Systems have abandoned corresponding efforts decades ago (Weber 2003)
+- Some literature reviews report the intended coverage (e.g., comprehensive), but none report to which degree it was accomplished (using evidence and metrics)
+
+> \* This is why the health sciences strictly enforce the use of descriptive titles and standard terminology in primary studies.
 
 ---
 
@@ -183,16 +206,6 @@ Three key metrics are particularly relevant in the context of literature searche
 ![image](../assets/iconmonstr-help-6.svg) **Question**: Would you expect more precise searches in disciplines like Information Systems, Management, or the Social Sciences?
 
 ![bg right:35% width:450px](../assets/SYNERGY.png)
-
----
-
-## Literature search: Application
-
-- Draft a search strategy for your topic, following the building-blocks approach.
-
-![center width:1200px](../assets/concept-map.png)
-
-- Does the building block approach provide a good fit with your context?
 
 ---
 
@@ -446,6 +459,14 @@ Outcome of interest:
 
 - Would you follow an inductive or deductive approach (why)?
 - What outcomes would you expect ideally?
+
+---
+
+## Take-home exercise
+
+![image](../assets/iconmonstr-note-23.svg) **Task**: Select an exemplary review in your topic area and fill out the [PRISMA checklist](https://www.prisma-statement.org/prisma-2020) to assess the transparency of reporting.
+
+![center width:1000px](../assets/prisma_checklist.png)
 
 ---
 

@@ -24,7 +24,7 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 # Typical setups <a id="setups"></a>
 
-Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](https://web.archive.org/web/20240110043514/http://systematicreviewtools.com/) alone listed over 250 tools (**discontinued in early 2024**).
+Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](http://systematicreviewtools.com/) alone listed over 250 tools.
 
 There are three major approaches:
 
@@ -163,6 +163,14 @@ Disadvantages:
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
 # Platforms: CoLRev and open synthesis <a id="colrev"></a>
 
 We may envision an open and extensible research platform supporting different types of literature reviews.
@@ -179,10 +187,9 @@ The following aspects deem relevant:
 | [CoLRev](https://colrev-environment.github.io/colrev/) | yes         | yes            | All review types  | Local or cloud   |
  -->
 
-Disclaimer: I am the lead developer of CoLRev.
-
-
 ![bg right:32% width:250px](../assets/colrev_logo_small.png)
+
+> Disclaimer: I am the lead developer of CoLRev.
 
 ---
 
@@ -233,8 +240,8 @@ Disclaimer: I am the lead developer of CoLRev.
 Status quo: "Directly asking ChatGPT for research summaries does not produce compelling results"
 
 - Language vs. knowledge and the problem of hallucination (fictitious references) 
+- Retrieval-augmented generation (APIs) as a potential remedy (e.g., [Consensus](https://consensus.app/))
 - LLMs do not necessarily have access to paywalled research
-- Retrieval-augmented generation (APIs) as a potential remedy (e.g., consensus)
 
 Researchers need to understand nuances of review types, methods, and steps
 
@@ -314,7 +321,7 @@ Task i:
 # The next steps...
 
 - Continue to develop the review protocol
-- Schedule meetings to discuss the protocol as needed
+- Schedule a [meeting](https://calendly.com/gerit-wagner/30min) to discuss the protocol as needed
 
 ---
 

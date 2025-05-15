@@ -17,6 +17,14 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ## Warm-up exercise
 
+![image](../assets/iconmonstr-help-6.svg) **Question**: What are the exemplary review papers you selected? Why do you consider them to make a particularly compelling contribution?
+
+![bg right:45% width:400px](../assets/dalle_warm-up.jpg)
+
+<!-- 
+
+## Warm-up exercise
+
 ![image](../assets/iconmonstr-pencil-15.svg) **Task** (10 min): Record your topic, research question, and the type of review.
 
 ![bg right:45% width:400px](../assets/dalle_warm-up.jpg)
@@ -36,6 +44,7 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 Studying exemplary literature reviews and analyzing the qualities that make them compelling provides valuable insights into what constitutes a high-quality review.
 
 ![image](../assets/iconmonstr-idea-13.svg) Form  a review panel to evaluate the review papers. Provide recommendations on which papers to accept and which to reject, along with justifications for each decision.
+-->
 
 ---
 
