@@ -46,7 +46,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: clone marp-cli
-        run: docker pull marpteam/marp-cli:v3.4.0
+        run: docker pull marpteam/marp-cli:v4.1.2
       - name: make slides
         run: make -B slides
       - name: Copy output to _site/output
