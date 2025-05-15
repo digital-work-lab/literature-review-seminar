@@ -265,7 +265,7 @@ Steps of the process
 
 - LLM capabilities, or corresponding tools like [litmaps](https://www.litmaps.com/), are particularly helpful for exploratory activities
 - Language handling capabilities are useful for the design of queries in the systematic search phase (need to group synonyms)
-- In the screen, restrictions of human cognitive capacities are one of the prime reasons to screen most of the papers based on the metadata (instead of the full-text). This could change with LLM, which 
+- In the screen, restrictions of human cognitive capacities are one of the prime reasons to screen most of the papers based on the metadata (instead of the full-text). This could change with LLM, which can process full-text documents efficiently (possibly as part of the prescreen).
 - Applications of LLM in the later steps have yet to be explored
 
 ---
