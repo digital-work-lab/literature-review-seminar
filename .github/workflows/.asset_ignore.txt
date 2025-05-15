@@ -30,3 +30,5 @@ assets/theorizing_leidner.pptx
 assets/vote_counting_lacity.pptx
 assets/Steps_slide 3.pptx
 assets/impact_model.pptx
+assets/classification-exercise.pdf
+assets/classification-exercise.odt
