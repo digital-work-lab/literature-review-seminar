@@ -58,4 +58,8 @@ endif
 # 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -v "$(PWD)/assets":/home/marp/app/assets -v "$(PWD)/material":/home/marp/app/material -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli:v4.1.2 /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files -o /home/marp/app/$@
 
 output/%.pdf: slides/%.md assets/template/theme.css
-	$(MARP_CMD) $(if $(CI),$<,$(MARP_ARGS))
+ifeq ($(CI),true)
+	$(MARP_CMD) $< $(MARP_ARGS) -o $@
+else
+	$(MARP_CMD) $(MARP_ARGS)
+endif
