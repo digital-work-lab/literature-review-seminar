@@ -246,7 +246,8 @@ Journals with (theory and) review departments and/or regular calls for reviews
 
 - Journal of Strategic Information Systems (see [cfps](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers))
 - Journal of the Association for Information Systems (see [literature review category](https://aisel.aisnet.org/jais/authorinfo.html))
-- MIS Quarterly
+- European Journal for Information Systems (see [review article category](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tjis20))
+- MIS Quarterly (see [theory and review category](https://misq.umn.edu/categories-lengths#NRA2KOA))
 
 Conferences
 
@@ -257,8 +258,8 @@ Journals which publish only review articles
 - Academy of Management Review, Academy of Marketing Science Review
 - International Journal of Management Reviews, Human Resource Development Review
 - Annual Review of Organizational Psychology and Organizational Behavior
-- Research Synthesis Methods
 - Foundations and Trends in … [accounting, entrepreneurship, finance, **information systems**, management, marketing]
+<!-- - Research Synthesis Methods -->
 
 ---
 
