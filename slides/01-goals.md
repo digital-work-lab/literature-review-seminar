@@ -81,7 +81,7 @@ blockquote {
 }
 </style>
 
-## Practice
+## Exercise: Reading circle
 
 ![image width:25px](../assets/iconmonstr-window-multiple-3d-alt-lined.svg) **Task**: Classify the selection of review papers according to the typology of Paré et al. (2015):
 
