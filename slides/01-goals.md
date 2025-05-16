@@ -240,6 +240,28 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ---
 
+# Where can we publish a review?
+
+Journals with (theory and) review departments and/or regular calls for reviews
+
+- Journal of Strategic Information Systems (see [cfps](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers))
+- Journal of the Association for Information Systems (see [literature review category](https://aisel.aisnet.org/jais/authorinfo.html))
+- MIS Quarterly
+
+Conferences
+
+- International Conference for Information Systems (see [literature review track](https://icis2024.aisconferences.org/submissions/track-descriptions/))
+
+Journals which publish only review articles
+
+- Academy of Management Review, Academy of Marketing Science Review
+- International Journal of Management Reviews, Human Resource Development Review
+- Annual Review of Organizational Psychology and Organizational Behavior
+- Research Synthesis Methods
+- Foundations and Trends in … [accounting, entrepreneurship, finance, **information systems**, management, marketing]
+
+---
+
 ## Until next session
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Explore the literature related to your topic and identify 
