@@ -12,7 +12,7 @@ Ask students to adopt the perspective of a reviewer and scrutinize methodologica
 
 ## Steps
 
-{: .highlight }
+{: .info }
 > **Warm-up**
 > Ask students to draft the steps of a literature review (how they would approach it).
 > Few students: whiteboard, More students: on paper and circulate it afterwards (reflect).
@@ -33,7 +33,7 @@ Okoli: screen before search? (search: "reporting the search")
 
 ## Problem formulation
 
-{: .highlight }
+{: .info }
 > Discuss positioning of students' work with regard to related review papers.
 
 - Methodological coherence objectives/type/methods
