@@ -62,7 +62,7 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 
 ---
 
-## The typology of Paré et al. (2015)
+## Exercise: Reading circle
 
 - Paré et al. (2015) published the established typology of literature reviews, covering 9 distinct types of reviews (plus hybrid reviews)
 - The review types can be aligned with the goals of Rowe (2014), as indicated in the table (Templier and Paré 2018)
