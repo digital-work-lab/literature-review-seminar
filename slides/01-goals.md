@@ -125,10 +125,7 @@ Form groups according to the goals with regard to theory (describing, understand
 
 ![image](../assets/iconmonstr-idea-13.svg) **Discussion**: Share your draft and discuss whether there is a high fit.
 
-<!-- 
----
- -->
-<!-- _class: centered -->
+<!-- --- -->
 
 <!-- 
 # Break
