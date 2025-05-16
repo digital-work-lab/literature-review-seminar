@@ -148,3 +148,6 @@ Show the coding sheet: Thorndike (annotations)
 
 Solution (LRTracker - data extraction fig 4)
 
+{: .info }
+> **Feedback**
+> Ask students to note down: one thing that was good (would like to keep), one that was not so good (would like to leave).

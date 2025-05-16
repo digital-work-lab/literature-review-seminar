@@ -15,6 +15,25 @@ section {
   padding-top: 120px;
 }
 
+/* Top-align slides unless they are explicitly marked as centered */
+section:not(.centered) {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 50px;
+  padding-top: 120px;
+  font-size: 20px;
+}
+
+.center-vh {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
 header,
 footer {
   position: absolute;

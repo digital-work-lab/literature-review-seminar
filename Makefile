@@ -23,7 +23,7 @@ else
 		-e LANG=$(LANG) \
 		-e MARP_USER=$(UID):$(GID) \
 		marpteam/marp-cli:v4.1.2
-	MARP_ARGS = /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files --pdf-option="--no-sandbox" --pdf-option="--disable-dev-shm-usage" -o /home/marp/app/$@
+	MARP_ARGS = /home/marp/app/$< --theme-set assets/template/theme.css --pdf --allow-local-files --pdf-option="--no-sandbox" --pdf-option="--disable-dev-shm-usage" -o /home/marp/app/$@
 endif
 
 # Define a rule to build all slides

@@ -67,7 +67,7 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 - Paré et al. (2015) published the established typology of literature reviews, covering 9 distinct types of reviews (plus hybrid reviews)
 - The review types can be aligned with the goals of Rowe (2014), as indicated in the table (Templier and Paré 2018)
 
-![image](../assets/iconmonstr-magnifier-10.svg) **Task**: Familiarize yourself with the types of reviews in the typology.
+![image](../assets/iconmonstr-magnifier-10.svg) **Task**: Familiarize yourself with the types of reviews in the typology of [Paré et al. 2015](https://www.sciencedirect.com/science/article/pii/S0378720614001116).
 
 ![bg right:50% width:550px](../assets/Templier2018-table-1.png)
 
@@ -103,13 +103,17 @@ blockquote {
 
 ## Dimensions (Cooper's taxonomy)
 
-![center width:450px](../assets/Cooper1988-table1.png)
+<div class="center-vh">
+    <img src="../assets/Cooper1988-table1.png" alt="Cooper 1988 Table 1" style="max-width: 450px;">
+</div>
 
 ---
 
 ## Central aspect: Internal coherence
 
-![center width:650px](../assets/internal-coherence.png)
+<div class="center-vh">
+    <img src="../assets/internal-coherence.png" alt="Internal coherence" style="max-width: 650px;">
+</div>
 
 ---
 
@@ -313,7 +317,7 @@ p {
 }
 </style>
 
-Shim, J. P., Warkentin, M., Courtney, J. F., Power, D. J., Sharda, R., & Carlsson, C. (2002). Past, present, and future of decision support technology. *Decision Support Systems, 33(2), 111-126. doi:[10.1016/S0167-9236(01)00139-7](https://www.sciencedirect.com/science/article/pii/S0167923601001397)
+Shim, J. P., Warkentin, M., Courtney, J. F., Power, D. J., Sharda, R., & Carlsson, C. (2002). Past, present, and future of decision support technology. *Decision Support Systems*, 33(2), 111-126. doi:[10.1016/S0167-9236(01)00139-7](https://www.sciencedirect.com/science/article/pii/S0167923601001397)
 
 **Dimensions**
 

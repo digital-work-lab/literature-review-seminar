@@ -17,7 +17,9 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ## What are the generic steps of a literature review?
 
-![center width:550px](../assets/steps-mindmap.jpg)
+<div class="center-vh">
+    <img src="../assets/steps-mindmap.jpg" alt="Steps mindmap" style="max-width: 55%;">
+</div>
 
 <br>
 
@@ -32,7 +34,9 @@ https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-grunem-rasen-sitzen-7rIm
 
 ![bg right:40% width:400px](../assets/Okoli2015.png)
 
-![center width:350px](../assets/Boell2014-fig1.png)
+<div class="center-vh">
+    <img src="../assets/Boell2014-fig1.png" alt="Boell and Cecez-Kecmanovic 2014 framework" style="max-width: 50%;">
+</div>
 
 - The hermeneutic framework of Boell and Cecez-Kecmanovic (2014) vs.
 - The systematic guide of Okoli (2015)
@@ -41,13 +45,17 @@ https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-grunem-rasen-sitzen-7rIm
 
 ## Generic steps: Templier and Paré (2018)
 
-![center width:650px](../assets/Templier2018-table-8-1.png)
+<div class="center-vh">
+    <img src="../assets/Templier2018-table-8-1.png" alt="Templier and Paré (2018) Table 8-1" style="max-width: 50%;">
+</div>
 
 ---
 
 ## Generic steps: Templier and Paré (2018)
 
-![center width:650px](../assets/Templier2018-table-8-2.png)
+<div class="center-vh">
+    <img src="../assets/Templier2018-table-8-2.png" alt="Templier and Paré (2018) Table 8-2" style="max-width: 50%;">
+</div>
 
 ---
 
@@ -99,7 +107,9 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 
 ## Literature search: Citation searches
 
-![center width:650px](../assets/forward-backward-searches.png)
+<div class="center-vh">
+    <img src="../assets/forward-backward-searches.png" alt="Forward and backward citation searches" style="max-width: 65%;">
+</div>
 
 ---
 
@@ -117,7 +127,9 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 
 - RQ: What factors do influence physicians’ acceptance of telemedicine?
 
-![center width:400px](../assets/building-blocks.png)
+<div class="center-vh">
+    <img src="../assets/building-blocks.png" alt="Building blocks approach" style="max-width: 50%;">
+</div>
 
 Resulting search string: `(telemedicine OR telehealth OR ...) AND (physician OR doctor OR ...) AND (adoption OR acceptance OR resistance OR ...)`
 
@@ -129,7 +141,9 @@ Building blocks can be based on established frameworks like PICO (population-int
 
 - Draft a search strategy for your topic, following the building-blocks approach.
 
-![center width:1200px](../assets/concept-map.png)
+<div class="center-vh">
+    <img src="../assets/concept-map.png" alt="Concept map" style="max-width: 90%;">
+</div>
 
 - Does the building block approach provide a good fit with your context?
 
@@ -187,7 +201,9 @@ Shortcomings:
 
 The common objective is to identify all relevant papers. Literature searches retrieve documents:
 
-![center width:650px](../assets/retrieval-matrix.png)
+<div class="center-vh">
+    <img src="../assets/retrieval-matrix.png" alt="Retrieval matrix" style="max-width: 65%;">
+</div>
 
 Three key metrics are particularly relevant in the context of literature searches (Cooper et al. 2018):
 
@@ -284,7 +300,9 @@ blockquote {
 
 ## Reporting the search and screen
 
-![center width:570px](../assets/PRISMA-flowchart.png)
+<div class="center-vh">
+    <img src="../assets/PRISMA-flowchart.png" alt="PRISMA flowchart" style="max-width: 50%;">
+</div>
 
 The PRISMA flow chart (updated version by Tricco et al. 2018)
 
@@ -325,19 +343,25 @@ Key differences with regard to data extraction and analysis:
 
 ## Data analysis example: Metadata profiling (example)
 
-![center width:700px](../assets/profiling.png)
+<div class="center-vh">
+    <img src="../assets/profiling.png" alt="Metadata profiling example" style="max-width: 70%;">
+</div>
 
 ---
 
 ## Data analysis example: Co-citation analysis
 
-![center width:700px](../assets/scientometric.png)
+<div class="center-vh">
+    <img src="../assets/scientometric.png" alt="Scientometric analysis example" style="max-width: 70%;">
+</div>
 
 ---
 
 ## Data analysis example: VOS viewer
 
-![center width:600px](../assets/vos_viewer.png)
+<div class="center-vh">
+    <img src="../assets/vos_viewer.png" alt="VOS viewer example" style="max-width: 50%;">
+</div>
 
 - Example keyword analysis: https://www.youtube.com/watch?v=9dTWkNRxUtw
 - Example bibliometric analysis: https://www.youtube.com/watch?v=xmLWjcsV4zQ
@@ -360,7 +384,9 @@ In the data analysis phase, the three coding techniques are central:
 
 The coding process and results are often illustrated in the *Gioia data structure*
 
-![center width:550px](../assets/gioia-example.png)
+<div class="center-vh">
+    <img src="../assets/gioia-example.png" alt="Gioia data structure example" style="max-width: 50%;">
+</div>
 
 ---
 
@@ -395,7 +421,9 @@ Context:
 
 Effects are aggregated and presented as follows:
 
-![center width:650px](../assets/vote_counting_lacity.png)
+<div class="center-vh">
+    <img src="../assets/vote_counting_lacity.png" alt="Vote counting example from Lacity et al. (2011)" style="max-width: 65%;">
+</div>
 
 ---
 
@@ -425,7 +453,9 @@ Meta-analysis techniques address these shortcomings.
 
 ## Data analysis: Risk of bias assessment (II)
 
-![center width:250px](../assets/risk-of-bias-summary.png)
+<div class="center-vh">
+    <img src="../assets/risk-of-bias-summary.png" alt="Risk of bias summary" style="max-width: 30%;">
+</div>
 
 ---
 
@@ -439,13 +469,17 @@ Outcome of interest:
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Extract the data from two randomized controlled trials: [Thorndike et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24950218/), [van Blarigan et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30866859/) based on the following coding sheet:
 
-![center width:1000px](../assets/coding-sheet.png)
+<div class="center-vh">
+    <img src="../assets/coding-sheet.png" alt="Coding sheet" style="max-width: 1000px;">
+</div>
 
 ---
 
 ## Data analysis: Forest plot of standardized mean differences
 
-![center width:1000px](../assets/forest-plot.png)
+<div class="center-vh">
+    <img src="../assets/forest-plot.png" alt="Forest plot of standardized mean differences" style="max-width: 1000px;">
+</div>
 
 ---
 
@@ -464,7 +498,9 @@ Outcome of interest:
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Select an exemplary review and fill out the [PRISMA checklist](https://www.prisma-statement.org/prisma-2020) to assess the transparency of reporting.
 
-![center width:1000px](../assets/prisma_checklist.png)
+<div class="center-vh">
+    <img src="../assets/prisma_checklist.png" alt="PRISMA checklist" style="max-width: 1000px;">
+</div>
 
 ---
 

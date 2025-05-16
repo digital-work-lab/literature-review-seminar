@@ -13,16 +13,15 @@ search_exclude: true
 {: .info }
 > **Activate/Show interest in topics**
 > 
-> Get up, as, on the whiteboard what your topics are.
+> Get up, as, on the whiteboard what your **topics** are.
 > Ask follow-up questions on the the topics.
-
-- What is your topic and research question for this seminar?
-- What are your expectations for the seminar?
-- Did you work on a literature review before?
-
-- Ask students to write their topics and names on the whiteboard (one after the other, writing similar topics next to each other)
-- Ask students about their experience with literature reviews
-- Make sure that the topics and student interests receive enough attention
+> 
+> - What is your topic and research question for this seminar?
+> - What are your expectations for the seminar?
+>  
+> - Ask students to write their topics and names on the whiteboard (one after the other, writing similar topics next to each other)
+> - Make sure that the topics and student interests receive enough attention
+> - Ask students about their experience with literature reviews (did you work on a literature review before?)
 
 <!-- 
 Potential follow-up questions:
@@ -34,7 +33,7 @@ Potential follow-up questions:
 
 - I am not an expert in all topics. 
 - I have experience with the method, how to ensure a good methodological fit, how to present and develop review papers in a compelling manner.
-- Prior experience: TA for 50 PhD students from different management disciplines
+- Prior experience: TA for 50 PhD students from different management disciplines (12 sessions,  8 assignments, exam, protocol and presentation)
 
 My background: phd, publications, postdoc and phd seminar, guy pare: mentor and SE, colrev, jit award
 
