@@ -255,10 +255,10 @@ Conferences
 
 Journals which publish only review articles
 
-- Academy of Management Review, Academy of Marketing Science Review
-- International Journal of Management Reviews, Human Resource Development Review
-- Annual Review of Organizational Psychology and Organizational Behavior
-- Foundations and Trends in … [accounting, entrepreneurship, finance, **information systems**, management, marketing]
+- Academy of Management Review ([link](https://journals.aom.org/journal/amr)), Academy of Marketing Science Review ([link](https://link.springer.com/journal/13162))
+- International Journal of Management Reviews ([link](https://onlinelibrary.wiley.com/journal/14682370)), Human Resource Development Review ([link](https://journals.sagepub.com/home/hrd))
+- Annual Review of Organizational Psychology and Organizational Behavior ([link](https://www.annualreviews.org/content/journals/orgpsych))
+- Foundations and Trends in … [accounting, entrepreneurship, finance, [information systems](https://www.nowpublishers.com/ISY), management, marketing]
 <!-- - Research Synthesis Methods -->
 
 ---
