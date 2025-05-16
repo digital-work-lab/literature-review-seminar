@@ -117,15 +117,28 @@ blockquote {
 
 ---
 
+## Exercise: Select the review type
+
+Form groups according to the goals with regard to theory (describing, understanding, explaining, testing).
+
+![image](../assets/iconmonstr-pencil-15.svg) **Task**: Draft the research question, select a review type and explain why it fits.
+
+![image](../assets/iconmonstr-idea-13.svg) **Discussion**: Share your draft and discuss whether there is a high fit.
+
+<!-- 
+---
+ -->
 <!-- _class: centered -->
 
+<!-- 
 # Break
 
 ![bg right:60% width:350px](../assets/coffee.jpg)
+ -->
 
 <!-- https://unsplash.com/de/fotos/%EC%BB%B5%EC%97%90-%EC%BB%A4%ED%94%BC%EC%9D%98-%EC%8B%9C%EA%B0%84-%EA%B2%BD%EA%B3%BC-%EC%82%AC%EC%A7%84-5iRgh_G0eRY -->
 
----
+<!-- --- -->
 
 ## The RightReview tool
 

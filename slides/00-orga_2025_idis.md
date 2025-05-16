@@ -151,7 +151,7 @@ Acquire a broad understanding of
 
 - Review protocol (draft in two weeks, completed protocol in 2 months)
 - Literature review section (between 3-6 months)
-- Standalone review paper (sull draft in 6-12 months)
+- Standalone review paper (full draft in 6-12 months)
 
 <!-- 
 - A **review protocol** applying this understanding and a short **presentation**
