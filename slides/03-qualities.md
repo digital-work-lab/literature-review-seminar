@@ -29,8 +29,8 @@ Each group will review exemplar papers—either those you identified or the ones
 
 Criteria:
 
-1. Your own assessment
-2. Elements covered in the course, such as [internal coherence](../output/01-goals.html#internal_coherence) or [storyline in the introduction](../output/01-goals.html#protocol_introduction)
+1. Your own assessment of the contribution
+2. Elements covered in the course, such as the [storyline in the introduction](../output/01-goals.html#review-protocols-structure-and-contents-i), [internal coherence](../output/01-goals.html#central-aspect-internal-coherence), [methodological rigor](../outpu/02-steps.html)
 
 ![bg right:35% width:250px](../assets/award_exercise.png)
 
