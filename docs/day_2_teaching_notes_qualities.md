@@ -17,6 +17,7 @@ TODO : select the most suitable warm-up exercise (see slide in comments).
 > - Discuss the coding of a paper according to PRISMA
 > - Highlight that it is useful to do that for the review protocol/paper (check whether you can see the type of review from the methods, code it according to PRISMA)
 
+<!-- 
 ## Warm-up exercise
 
 - With 3 participants, we spent 45 minutes on the warm-up part.
@@ -24,11 +25,19 @@ TODO : select the most suitable warm-up exercise (see slide in comments).
 - Discuss whether the scope is adequate, whether the fit between the research question/type of review/topic is appropriate, whether anything needs to be pilot-tested.
 
 ![topics-whiteboard](../assets/day_2_topics.jpg)
+ -->
 
-## Review-panel assessment of reviews
+<div class="page-break"></div>
 
-Give students cases that match their review types.
+## Exercise: Best paper award
 
+Groups: according to the review types that students selected (or are interested in).
+
+
+
+
+
+<!-- 
 Scoping reviews:
 
 - Beaudry2006 (overarching synthesis missing, table 2: detailed/author-centric -> general, rationale for excluding empirical papers?)
@@ -38,9 +47,9 @@ Systematic reviews:
 
 - Jeyaraj2006
 - Johnson2002
+ -->
 
-- Ask students for their initial reaction (which one is more compelling?)
-- Ask for details afterwards
+ <div class="page-break"></div>
 
 ## Qualities
 

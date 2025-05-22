@@ -1,0 +1,200 @@
+\documentclass[11pt]{scrartcl}
+%==============================
+%ZUSÄTZLICH EINGEBUNDENE PAKETE
+%==============================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath,amsthm,amssymb,euscript}
+\usepackage{lmodern}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{txfonts}
+\usepackage{eurosym}
+\usepackage{listings, color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.6,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\lstloadlanguages{Java}
+\lstset{
+basicstyle=\footnotesize\ttfamily,
+showspaces=false,
+showtabs=false,
+columns=fixed,
+numbers=left,
+frame=none,
+numberstyle=\tiny,
+breaklines=true,
+showstringspaces=false,
+xleftmargin=1cm,
+tabsize=4}
+
+%tables
+\usepackage{tabularx}
+
+%circles in math mode
+\usepackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+%plotting
+\usepackage{pgfplots}
+
+\usepackage[a4paper]{geometry}
+\geometry{a4paper,tmargin=3.5cm, bmargin=3cm, lmargin=3cm, rmargin=2cm, headheight=13em, headsep=3em, footskip=1cm}
+
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\usepackage{fancyhdr}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+
+\newcommand{\blatt}[1]{\begin{center}{\bf\Large  #1 \vspace*{0.3cm}}\end{center}}
+
+\newtheoremstyle{aufgabenstyle}% name of the style to be used
+  {24pt}% measure of space to leave above the theorem. E.g.: 3pt
+  {6pt}% measure of space to leave below the theorem. E.g.: 3pt
+  {\normalfont}% name of font to use in the body of the theorem
+  {}% measure of space to indent
+  {\bfseries}% name of head font
+  {}% punctuation between head and body
+  {\newline}% space after theorem head; " " = normal interword space
+  {\thmname{#1}\thmnumber{ #2}\thmnote{ (#3)}\newline}% Manually specify head
+
+\theoremstyle{aufgabenstyle}
+\newtheorem{aufgabe}{\large Aufgabe}
+
+%==============================
+%BEGINN DER KOPF- UND FUSSZEILE
+%==============================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{The Literature Review Seminar}
+\fancyhead[L]{Literature Review Protocol Analysis Worksheet}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+\fancyfoot[C]{\thepage}
+%\fancyfoot[L]{\today}
+%================================
+%BEGINN DES EIGENTLICHEN INHALTES
+%================================
+
+\begin{document}
+	
+\section*{Part I: Analyzing Exemplars}
+%For each of the selected exemplar papers, identify the elements of the review protocol. Use references to specific sections/pages if applicable. Add notes or quotations where useful.
+
+\subsection*{Papers: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_}
+
+\renewcommand{\arraystretch}{1.9}
+
+{\small
+	% First half
+	\begin{longtable}{|p{0.3\linewidth}|p{0.7\linewidth}|}
+		\hline
+		 & \textbf{Notes and Observations} (with references to sections/pages if applicable) \\
+		\hline
+		\textbf{Introduction} & \\
+		Generativity Statement & \\[1.5em]
+		Introduction of Topic / \newline  Phenomenon / Theory & \\[1.5em]
+		Rationale for the Review & \\[1.5em]
+		Review Objectives or Questions & \\[1.5em]
+		\hline
+		\textbf{Background} & \\
+		Definition of Key Concepts & \\[1.5em]
+		Framework / Theoretical \newline Foundations & \\[1.5em]
+		\hline
+		\textbf{Methods} & \\
+		Type of Review and Justification & \\[1.5em]
+		Search Strategy & \\[1.5em]
+		Screening Procedures & \\[1.5em]
+		Quality Appraisal Procedures & \\[1.5em]
+		Data Extraction Procedures & \\[1.5em]
+		Analysis Strategy and Procedures & \\[1.5em]
+		\hline
+
+	\end{longtable}
+}
+
+\vspace{1cm}
+
+{\small
+	% Second half
+	\begin{longtable}{|p{0.3\linewidth}|p{0.7\linewidth}|}
+		\hline
+		 & \textbf{Notes and Observations} (with references to sections/pages if applicable) \\
+		\hline
+
+		\textbf{Main Sections} & \\
+		Synthesis \newline ( Figure / Framework / Table) & \\[14em] \hline
+		Research Agenda & \\[14em]
+		\hline
+		\textbf{Conclusions} & \\
+		Main Contributions & \\[10em] \hline
+		Implications \newline  (Research / Practice) & \\[10em]
+		\hline
+	\end{longtable}
+}
+
+
+
+\newpage
+
+\section*{Part II: Planning Your Own Review}
+Use this template to take notes on your own review protocol.
+
+\renewcommand{\arraystretch}{1.9}
+
+{\small
+	% First half
+	\begin{longtable}{|p{0.3\linewidth}|p{0.7\linewidth}|}
+		\hline
+		& \textbf{Notes and Observations} (with references to sections/pages if applicable) \\
+		\hline
+		\textbf{Introduction} & \\
+		Generativity Statement & \\[1.5em]
+		Introduction of Topic / \newline  Phenomenon / Theory & \\[1.5em]
+		Rationale for the Review & \\[1.5em]
+		Review Objectives or Questions & \\[1.5em]
+		\hline
+		\textbf{Background} & \\
+		Definition of Key Concepts & \\[1.5em]
+		Framework / Theoretical \newline Foundations & \\[1.5em]
+		\hline
+		\textbf{Methods} & \\
+		Type of Review and Justification & \\[1.5em]
+		Search Strategy & \\[1.5em]
+		Screening Procedures & \\[1.5em]
+		Quality Appraisal Procedures & \\[1.5em]
+		Data Extraction Procedures & \\[1.5em]
+		Analysis Strategy and Procedures & \\[1.5em]
+		\hline
+		
+	\end{longtable}
+}
+
+\vspace{1cm}
+
+{\small
+	% Second half
+	\begin{longtable}{|p{0.3\linewidth}|p{0.7\linewidth}|}
+		\hline
+		& \textbf{Notes and Observations} (with references to sections/pages if applicable) \\
+		\hline
+		
+		\textbf{Main Sections} & \\
+		Synthesis \newline ( Figure / Framework / Table) & \\[14em] \hline
+		Research Agenda & \\[14em]
+		\hline
+		\textbf{Conclusions} & \\
+		Main Contributions & \\[10em] \hline
+		Implications \newline  (Research / Practice) & \\[10em]
+		\hline
+	\end{longtable}
+}
+
+\end{document}

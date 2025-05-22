@@ -15,11 +15,43 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ---
 
-## Warm-up exercise
+## 🏆 Exercise: Best Paper Awards
 
-![image](../assets/iconmonstr-help-6.svg) **Question**: What are the exemplary review papers you selected? Why do you consider them to make a particularly compelling contribution?
+Form groups based on the **four genres of review papers**:  
+**Describing**, **Understanding**, **Explaining**, and **Testing**.
 
-![bg right:45% width:400px](../assets/dalle_warm-up.jpg)
+Each group will review exemplar papers—either those you identified or the ones suggested below:
+
+- **Describing**:  [Chan & Reich](https://link.springer.com/article/10.1057/palgrave.jit.2000109) or [Aloini et al.](https://www.sciencedirect.com/science/article/pii/S0378720607000547)
+- **Understanding**: [Agarwal et al.](https://pubsonline.informs.org/doi/10.1287/isre.1100.0327) or [Avgerou](https://link.springer.com/article/10.1057/palgrave.jit.2000136)
+- **Explaining**: [Krogh et al.](https://www.jstor.org/stable/41703471) or [Leidner & Tona](https://aisel.aisnet.org/misq/vol45/iss1/13/)
+- **Testing**: [Sabherwal & Jeyaraj](https://www.jstor.org/stable/26628653) or [Lacity et al.](https://journals.sagepub.com/doi/10.1057/jit.2011.25)
+
+Criteria:
+
+1. Your own assessment
+2. Elements covered in the course, such as [internal coherence](../output/01-goals.html#internal_coherence) or [storyline in the introduction](../output/01-goals.html#protocol_introduction)
+
+![bg right:35% width:250px](../assets/award_exercise.png)
+
+---
+
+## 🏆 Exercise: Best Paper Awards
+
+The [worksheet](../exercises/exemplars/exemplars.pdf) consists of two parts:
+
+1. A summary sheet for the characteristics of exemplary reviews
+2. A note sheet for your own literature review protocol or paper
+
+![image](../assets/iconmonstr-help-6.svg) **Question:**  *What is the exemplar paper your group selected? Why do you consider it an outstanding contribution?*
+
+![image](../assets/iconmonstr-pencil-15.svg) **Task:**  *Use the second part of the worksheet to take notes: How might you develop your own review protocol or paper based on what you've learned?*
+
+⏱️ **Timing**: 30 minutes → Read, highlight, discuss, and take notes.
+
+🗣️ Select one group member to summarize the key strengths of your chosen paper.
+
+![bg right:35% width:250px](../assets/award_exercise.png)
 
 <!-- 
 

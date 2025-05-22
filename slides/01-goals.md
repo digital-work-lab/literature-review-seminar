@@ -109,7 +109,7 @@ blockquote {
 
 ---
 
-## Central aspect: Internal coherence
+## Central aspect: Internal coherence<a href="internal_coherence"></a>
 
 <div class="center-vh">
     <img src="../assets/internal-coherence.png" alt="Internal coherence" style="max-width: 650px;">
@@ -183,7 +183,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 
 ---
 
-## Review protocols: Structure and contents (I)
+## Review protocols: Structure and contents (I)<a href="protocol_introduction"></a>
 
 - Title (indicating that this is a review protocol)
 - Plain or structured abstract (written at the end) and keywords (up to 5)
