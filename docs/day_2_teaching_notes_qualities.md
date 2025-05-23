@@ -12,7 +12,7 @@ Reminder: submission / presentation dates
 
 TODO : select the most suitable warm-up exercise (see slide in comments).
 
-{: .highlight }
+{: .info }
 > **Optionals**
 > - Discuss the coding of a paper according to PRISMA
 > - Highlight that it is useful to do that for the review protocol/paper (check whether you can see the type of review from the methods, code it according to PRISMA)
@@ -49,8 +49,6 @@ Systematic reviews:
 - Johnson2002
  -->
 
- <div class="page-break"></div>
-
 ## Qualities
 
 Ask students what affects quality/citations.
@@ -78,7 +76,7 @@ Note: theoretical or empirical contribution: not based on the evidence.
 - We can assume that highly transparent papers that lack a contribution will not be cited.
 
 
-{: .highlight }
+{: .info }
 > **TODO**
 > 
 > - Add theoretical review examples (in the review-panel assessment)

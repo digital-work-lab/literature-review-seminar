@@ -59,6 +59,8 @@ effectively excluding over 90% of the information and only considering a few wor
 - makes researchers obsolete
 - danger that it reduces deep engagement with prior literature (opportunity to preserve that ability)
 
+<div class="page-break"></div>
+
 ## Outlook
 
 Create a reminder for the presentation session
@@ -79,7 +81,7 @@ Wrap-up! Plans for submission (presentation?!?!)
 
 Communicate the expectation that students attend at least 2-3 meetings
 
-{: .highligh }
+{: .info }
 > **Feedback**
 > Ask participants to note down one item that was good (keep) and one that was not good (leave).
 
