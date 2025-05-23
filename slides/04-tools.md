@@ -75,7 +75,7 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 |                           | [*connectedpapers*](https://www.connectedpapers.com/), [inciteful](https://inciteful.xyz/): Support citation searches.                                |
 |                           | [*TheoryOn*](https://theoryon.org/): Supports construct searches.                                                                                     |
 | **Screen**                | [*ASReview*](https://asreview.nl/): AI-supported screening (see [intro](https://www.youtube.com/watch?v=k-a2SCq-LtA)).                                |
-| **Quality Assessment**    | [*Robot Reviewer*](https://www.robotreviewer.net/): AI-supported quality appraisa (see [intro](https://www.youtube.com/watch?v=0xwwze83sBs)).         |
+| **Quality Assessment**    | [*Robot Reviewer*](https://www.robotreviewer.net/): AI-supported quality appraisal (see [intro](https://www.youtube.com/watch?v=0xwwze83sBs)).        |
 | **Data Analysis**         | [*Obsidian*](https://obsidian.md/): A tool for knowledge management and data extraction.                                                              |
 |                           | [*RevMan*](https://training.cochrane.org/online-learning/core-software/revman): A tool to conduct meta-analyses.                                      |
 

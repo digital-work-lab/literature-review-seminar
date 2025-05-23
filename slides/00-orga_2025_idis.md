@@ -28,7 +28,7 @@ Otto-Friedrich-Universität Bamberg
 - What are your expectations for the seminar?
 - Did you work on a literature review before?
 
-Please create a name tag with your topic to facilitate our discusssions.
+Please create a name tag with your topic to facilitate our discussions.
 
 ---
 
