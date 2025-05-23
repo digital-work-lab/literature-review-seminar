@@ -337,7 +337,9 @@ Key differences with regard to data extraction and analysis:
 - Focus on metadata vs content 
 - Inductive vs deductive reasoning
 
-![bg right:40% width:500px](../assets/deductive-inductive.png)
+![bg right:45% width:500px](../assets/deductive-inductive.png)
+
+> Note: The distinction between inductive and deductive modes of reasoning has critical implications. For instance, it would be incoherent to present an inductive analysis with inter-coder reliability assessment, or a deductive analysis without a pre-defined coding schema.
 
 ---
 
@@ -352,8 +354,10 @@ Key differences with regard to data extraction and analysis:
 ## Data analysis example: Co-citation analysis
 
 <div class="center-vh">
-    <img src="../assets/scientometric.png" alt="Scientometric analysis example" style="max-width: 70%;">
+    <img src="../assets/scientometric.png" alt="Scientometric analysis example" style="max-width: 50%;">
 </div>
+
+> Note: Information Systems journals do not publish many scientometric papers. *MIS Quarterly* had an explicit policy against these types of analyses, but *Information Systems Research* has published [co-citation analyses](https://pubsonline.informs.org/doi/10.1287/isre.1080.0227).
 
 ---
 
@@ -396,7 +400,7 @@ Context:
 
 - Scope: Digital platforms for knowledge-intensive services, such as Upwork, Fiverr, or TopCoder
 - Sample: 50 papers, mostly published in the Information Systems discipline
-- Data: Text fragments and figures have been pre-selected (see [worksheet](../teaching_notes/day_1_steps_data_Inductive-coding-Worksheet.pdf))
+- Data: Text fragments and figures have been pre-selected (see [worksheet](../exercises/inductive_coding/day_1_steps_data_Inductive-coding-Worksheet.pdf))
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Analyze extant research and inductively develop a process model
 
@@ -442,16 +446,20 @@ Meta-analysis techniques address these shortcomings.
 
 ---
 
-## Data analysis: Risk of bias assessment (I)
+## Quality appraisal / Risk of bias assessment (I)
 
 - Example: Ringeval et al. (2020): "Fitbit-Based Interventions for Healthy Lifestyle Outcomes: Systematic Review and Meta-Analysis"
 - The [Cochrane risk-of-bias tool for randomized trials (RoB 2)](https://training.cochrane.org/handbook/current/chapter-08) covers seven **domains of bias**, as illustrated in the table
 
 ![bg right:50% width:600px](../assets/risk-of-bias-table.png)
 
+> Note: For non-experimental studies, other domains of bias may apply (such as the use of fixed-effects for years as a control for omitted time-varying confounders/endogeneity).
+> 
+> Note: It is good practice to analyze whether results differ between high and low quality studies (e.g., through subgroup analyses) instead of excluding low-quality studies.
+
 ---
 
-## Data analysis: Risk of bias assessment (II)
+## Quality appraisal / Risk of bias assessment (II)
 
 <div class="center-vh">
     <img src="../assets/risk-of-bias-summary.png" alt="Risk of bias summary" style="max-width: 30%;">
@@ -463,9 +471,20 @@ Meta-analysis techniques address these shortcomings.
 
 Research objective: "to assess the effects of Fitbit-based interventions, compared with non-wearable control groups, on healthy lifestyle outcomes." (Ringeval et al. 2020)
 
-Outcome of interest:
+Type of primary studies: Randomized clinical trials (RCTs), as illustrated in the CONSORT flow diagram
 
-- Steps per day (control vs. intervention group) at follow-up
+Outcome of interest (at follow-up):
+
+- **Steps per day** (our focus)
+- Moderate-to-vigorous physical activity (MVPA)
+- Weight loss
+- Sedentary behavior (self-reported)
+
+![bg right:50% width:400px](../assets/CONSORT.png)
+
+---
+
+## Data analysis
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Extract the data from two randomized controlled trials: [Thorndike et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24950218/), [van Blarigan et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30866859/) based on the following coding sheet:
 
@@ -480,6 +499,62 @@ Outcome of interest:
 <div class="center-vh">
     <img src="../assets/forest-plot.png" alt="Forest plot of standardized mean differences" style="max-width: 1000px;">
 </div>
+
+---
+
+## Data analysis: Meta-analysis
+
+We extract or calculate **Standardized Mean Differences (SMD)**:
+
+$$
+d = \frac{\bar{X}_\text{intervention} - \bar{X}_\text{control}}{SD_\text{pooled}}
+$$
+
+**Pooled standard deviation:**
+
+$$
+SD_\text{pooled} = \sqrt{ \frac{(n_1 - 1)SD_1^2 + (n_2 - 1)SD_2^2}{n_1 + n_2 - 2} }
+$$
+
+<!-- 
+
+**Small-sample correction (Hedges’ *g*):**
+
+$$
+g = d \times \left(1 - \frac{3}{4(n_1 + n_2) - 9} \right)
+$$
+
+Use **Hedges' g** when sample sizes are small.  
+Also calculate **SE** to determine study weights.
+-->
+
+> SMD is also known as *Cohen's d*. For small sample sizes, the corrections of *Hedge's g* should be used.
+> Note: For research models, we will typically rely on correlations as effect sizes (beta coefficients depend on the other variables of the model).
+
+---
+
+# Random Effects Meta-Analysis
+
+We assume the true effect size varies between studies:
+
+**Weighted average of effects:**
+
+$$
+\hat{\mu} = \frac{ \sum_{i=1}^{k} w_i \cdot d_i }{ \sum_{i=1}^{k} w_i }
+$$
+
+**Weights (account for variance):**
+
+$$
+w_i = \frac{1}{SE_{d_i}^2 + \tau^2}
+$$
+
+- $\tau^2$: between-study variance
+- $SE_{g_i}$: standard error of each SMD
+
+
+> Interpretation: Larger $w_i$ = more influence on pooled estimate. Output: Overall effect size with 95% CI shown in forest plot.
+> The [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) book by Harrer et al. offers a good overview of meta-analysis methods.
 
 ---
 

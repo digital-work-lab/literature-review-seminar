@@ -15,7 +15,7 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ---
 
-## 🏆 Exercise: Best Paper Awards
+## Exercise: Best Paper Awards
 
 Form groups based on the **four genres of review papers**:  
 **Describing**, **Understanding**, **Explaining**, and **Testing**.
@@ -30,13 +30,13 @@ Each group will review exemplar papers—either those you identified or the ones
 Criteria:
 
 1. Your own assessment of the contribution
-2. Elements covered in the course, such as the [storyline in the introduction](../output/01-goals.html#review-protocols-structure-and-contents-i), [internal coherence](../output/01-goals.html#central-aspect-internal-coherence), [methodological rigor](../outpu/02-steps.html)
+2. Elements covered in the course, such as the [storyline](../output/01-goals.html#review-protocols-structure-and-contents-i), [internal coherence](../output/01-goals.html#central-aspect-internal-coherence), or [methodological rigor](../output/02-steps.html)
 
 ![bg right:35% width:250px](../assets/award_exercise.png)
 
 ---
 
-## 🏆 Exercise: Best Paper Awards
+## Exercise: Best Paper Awards
 
 The [worksheet](../exercises/exemplars/exemplars.pdf) consists of two parts:
 
@@ -167,11 +167,6 @@ Literature reviews can be expected to be more impactful if they
 - are **more transparent** in explicating their methods
 - make a compelling and innovative **theoretical or empirical contribution**
 - provide more comprehensive **suggestions for future research**
-
----
-
-TODO : discuss the coding of a paper according to PRISMA
-Highlight that it is useful to do that for the review protocol/paper (check whether you can see the type of review from the methods, code it according to PRISMA)
 
 ---
 

@@ -82,3 +82,5 @@ Communicate the expectation that students attend at least 2-3 meetings
 {: .highligh }
 > **Feedback**
 > Ask participants to note down one item that was good (keep) and one that was not good (leave).
+
+**IDIS: announce next seminar next year/summer, ask students to recommend it**

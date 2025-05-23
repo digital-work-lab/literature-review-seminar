@@ -22,18 +22,20 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ---
 
-# Typical setups <a id="setups"></a>
+# Typical setups
 
 Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](http://systematicreviewtools.com/) alone listed over 250 tools.
 
-There are three major approaches:
+There are two major approaches:
 
 - **Self-managed approach**: Combine multiple tools, including a reference manager, and Excel
-- **Platform**: Select a platform that handles the whole workflow and use the default functionality or extensions
+- **Platform**: Select a platform that handles the whole workflow and use functionality or extensions that are available
+
+> Additional overviews were published by [Cicero Jimenez et al., 2022](https://link.springer.com/article/10.1186/s12874-022-01805-4).
 
 ---
 
-# Self-managed approach <a id="self-managed"></a>
+# Self-managed approach
 
 Common elements:
 
@@ -44,7 +46,27 @@ Common elements:
 
 ---
 
-# Self-managed approach: Tools <a id="self-managed-tools"></a>
+# Self-managed approach: Reference manager
+
+Reference managers: Zotero, Endnote, Jabref, Mendeley, ...
+
+Key considerations:
+
+- Keep a **copy of search results** (important for transparent reporting)  
+- **Deduplication** is often inefficient → many **manual decisions** required  
+- Exporting to other tools or Excel requires care  
+  - Track **record IDs**
+  - Use **tags/flags** for exported entries  
+- It is possible to complete most steps (including the pre/screening) **within** the reference manager
+- Often, **one team member** takes ownership of data management tasks  
+
+![bg right:35% width:400px](../assets/BandaraEtAl2015.png)
+
+> See [Bandara et al. 2015](https://aisel.aisnet.org/cais/vol37/iss1/8/)
+
+---
+
+# Self-managed approach: Tools
 
 Leading automation tools for literature reviews (Wagner et al. 2021):
 
@@ -59,9 +81,11 @@ Leading automation tools for literature reviews (Wagner et al. 2021):
 | **Data Analysis**         | [*Obsidian*](https://obsidian.md/): A tool for knowledge management and data extraction.                                                              |
 |                           | [*RevMan*](https://training.cochrane.org/online-learning/core-software/revman): A tool to conduct meta-analyses.                                      |
 
+> Note: We currently work on [search-query](https://colrev-environment.github.io/search-query/) for query validation, translation, and improvement.
+
 ---
 
-# Self-managed approach <a id="self-managed-assessment"></a>
+# Self-managed approach
 
 Advantages:
 
@@ -171,7 +195,7 @@ blockquote {
 }
 </style>
 
-# Platforms: CoLRev and open synthesis <a id="colrev"></a>
+# Platforms: CoLRev and open synthesis
 
 We may envision an open and extensible research platform supporting different types of literature reviews.
 
@@ -238,6 +262,12 @@ Note: the tutorial was extracted to a separate page (see link: https://colrev-en
 
 ---
 
+# Clark et al. (2025): Generative artiﬁcial intelligence use in evidence synthesis: A systematic review
+
+![center width:570px](../assets/ClarkEtAl2025.png)
+
+---
+
 # LLMs, current challenges, and promises
 
 Status quo: "Directly asking ChatGPT for research summaries does not produce compelling results"
@@ -277,17 +307,15 @@ Steps of the process
 
 Best prompt identified by Wang et al. (2023):
 
-```
 You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience
 developing highly effective queries for searching the information systems literature. Your specialty is developing
 queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information
 needs. You are able to take an information need such as: “Review of IT Business Value” and generate valid Web of
 Science queries such as:
 “TI=(IT OR IS OR …) AND TI=(value OR payoff OR …) AND TI=(firm OR business OR …)”.
-
+ 
 Now you have your information needed to conduct research on “The effect of LLM on individual performance at work”,
 please generate a highly effective systematic review Boolean query for the information need.
-```
 
 ⚠️ ChatGPT is useful for writing Boolean search queries in **high-precision reviews**, such as rapid reviews
 
@@ -297,7 +325,6 @@ please generate a highly effective systematic review Boolean query for the infor
 
 Best prompt identified by Syriani et al. (2023):
 
-```
 Context: I am screening papers for a systematic literature review. The topic of the systematic review is the effect of
 generative AI on individual productivity for programmers. The study should focus exclusively on this topic.
 Instruction: Decide if the article should be included or excluded from the systematic review. I give the title and
@@ -307,7 +334,7 @@ rather than excluding them by mistake.
 Task i:
 •	Title: “Twelve tips to leverage AI for efficient and effective medical question generation”
 •	Abstract: “Crafting quality assessment questions in medical education […]”
-```
+
 
 ⚠️ Performance of LLM-based screening varies considerably across datasets, indicating **limited generalizability**
 ⚠️ The findings show that LLMs does not consistently perform better than random classification (in terms of recall)
@@ -354,7 +381,11 @@ p {
 
 ## References
 
+Cierco Jimenez, R., Lee, T., Rosillo, N., Cordova, R., Cree, I. A., Gonzalez, A., & Indave Ruiz, B. I. (2022). Machine learning computational tools to assist the performance of systematic reviews: A mapping review. *BMC Medical Research Methodology*, 22(1), 322. doi:[10.1186/s12874-022-01805-4](https://doi.org/10.1186/s12874-022-01805-4)
+
 Clark, J., Barton, B., Albarqouni, L., Byambasuren, O., Jowsey, T., Keogh, J., ... & Jones, M. (2025). Generative artificial intelligence use in evidence synthesis: A systematic review. *Research Synthesis Methods*, 1-19. doi:[10.1017/rsm.2025.16](https://doi.org/10.1017/rsm.2025.16).
+
+Bandara, W., Furtmueller, E., Gorbacheva, E., Miskon, S., & Beekhuyzen, J. (2015). Achieving rigor in literature reviews: Insights from qualitative data analysis and tool-support. *Communications of the Association for Information Systems*, 37(1), 8. doi:[10.17705/1CAIS.03708](https://doi.org/10.17705/1CAIS.03708)
 
 Syriani, E., David, I., and Kumar, G. 2023. “Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews,” arXiv. doi:[10.48550/ARXIV.2307.06464](https://doi.org/10.48550/ARXIV.2307.06464).
 
