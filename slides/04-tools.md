@@ -48,11 +48,9 @@ Common elements:
 
 # Self-managed approach: Reference manager
 
-Reference managers: Zotero, Endnote, Jabref, Mendeley, ...
-
 Key considerations:
 
-- Keep a **copy of search results** (important for transparent reporting)  
+- Keep a **separate copy of search results** (for reporting purposes)  
 - **Deduplication** is often inefficient → many **manual decisions** required  
 - Exporting to other tools or Excel requires care  
   - Track **record IDs**
@@ -126,6 +124,25 @@ th {
 }
 </style>
 
+| **Aspect**               | **CoLRev** | [**LitStudy**](https://github.com/NLeSC/litstudy) | [**BUHOS**](https://github.com/clbustos/buhos) | [**Covidence**](https://www.covidence.org/) |
+|--------------------------|------------|----------------------------------|-------------------------------|-------------------------------|
+| **Review types**         | ![yes]     | ![no]                            | ![no]                         | ![no]                         |
+| **Supported steps**      | All steps  | Partial                          | All steps                     | All steps                     |
+| **Automation/algorithms**| ![yes]     | ![yes]                           | ![maybe]                      | ![maybe]                      |
+| **Extensibility**        | High (102 extensions) | None             | None                          | None                          |
+| **Search capabilities**  | APIs, updates | Limited                  | Limited                       | Manual only                  |
+| **Collaboration**        | Large teams supported | Limited          | Limited                       | Limited                       |
+| **Transparency & validation** | ![yes] | ![no]                    | ![no]                         | ![no]                         |
+| **License**              | OSI        | OSI                              | OSI                           | Proprietary                   |
+| **Technology**           | Python / CLI & API | Python / Jupyter     | Ruby / Web UI                 | Web UI / SaaS                 |
+| **Development activity** | ![Commits](https://img.shields.io/github/commit-activity/t/CoLRev-Environment/colrev) | ![Commits](https://img.shields.io/github/commit-activity/t/NLeSC/litstudy) | ![Commits](https://img.shields.io/github/commit-activity/t/clbustos/buhos) | NA |
+
+[yes]: ../assets/yes.svg  
+[no]: ../assets/no.svg  
+[maybe]: ../assets/maybe.svg
+
+
+<!-- 
 | **Criteria**                                  | **CoLRev**                        | [**LitStudy**](https://github.com/NLeSC/litstudy)  | [**BUHOS**](https://github.com/clbustos/buhos)  | [**Covidence**](https://www.covidence.org/)   |
 |-----------------------------------------------|-----------------------------------|----------------------------------|---------------------------------|---------------------------------|
 | **Review types**                              |                                   |                                  |                                 |                                 |
@@ -165,7 +182,6 @@ th {
 [maybe]: ../assets/maybe.svg
 
 
-<!-- 
 ---
 Note: advantages/disadvantages hard to say (depend on the tool)
 
@@ -197,9 +213,7 @@ blockquote {
 
 # Platforms: CoLRev and open synthesis
 
-We may envision an open and extensible research platform supporting different types of literature reviews.
-
-The following aspects deem relevant:
+We envision an open and extensible research platform supporting different types of literature reviews. Our focus is on the following aspects:
 
 - Shared data structures and processes
 - Open-Source license and extensibility through packages
@@ -264,7 +278,9 @@ Note: the tutorial was extracted to a separate page (see link: https://colrev-en
 
 # Clark et al. (2025): Generative artiﬁcial intelligence use in evidence synthesis: A systematic review
 
-![center width:570px](../assets/ClarkEtAl2025.png)
+<div class="center-vh">
+    <img src="../assets/ClarkEtAl2025.png" alt="Clark2025" style="max-width: 50%;">
+</div>
 
 ---
 
@@ -275,14 +291,16 @@ Status quo: "Directly asking ChatGPT for research summaries does not produce com
 - Language vs. knowledge and the problem of hallucination (fictitious references) 
 - Retrieval-augmented generation (APIs) as a potential remedy (e.g., [Consensus](https://consensus.app/))
 - LLMs do not necessarily have access to paywalled research
+- Need for human oversight, researchers need to understand nuances of review types, methods, and steps
 
-Researchers need to understand nuances of review types, methods, and steps
+<br>
 
----
+**Thought-provoking paper**: [Chen and Chan (2024)](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03014) analyze to which degree **experts** and **novices** benefit from the use of LLMs in **ghostwriting** vs. **sounding board** modes.
 
-# Clark et al. (2025): Generative artiﬁcial intelligence use in evidence synthesis: A systematic review
+- Using LLMs in ghostwriting mode was generally detrimental to the outcomes
+- Using LLMs in sounding board mode was more effective (especially for non-experts)
 
-![center width:570px](../assets/ClarkEtAl2025.png)
+![image](../assets/iconmonstr-help-6.svg) **Question**: How could LLMs be used in sounding board mode for a standalone literature review?
 
 ---
 
@@ -350,22 +368,24 @@ Task i:
     - Compatibility between tools (effort for data management and conversion)
 
 - Consider open-synthesis platforms such as CoLRev
-- Understand how AI and genAI/LLM may facilitate or change the process 
+- Understand how AI and genAI/LLM may facilitate or change the process (especially in *sounding board* mode)
 
 ---
 
-# The next steps...
+# Questions and Feedback
 
-- Continue to develop the review protocol
-- Schedule a [meeting](https://calendly.com/gerit-wagner/30min) to discuss the protocol as needed
+<div class="center-vh">
+    <img src="../assets/faq.jpg" alt="Questions and Feedback" style="max-width: 30%;">
+</div>
 
 ---
 
 # Thank you!
 
 - Thank you for participating in the seminar
+- If you would like to get feedback on a literature review, schedule a [meeting](https://calendly.com/gerit-wagner/30min)
 - Keep in mind: If you work on literature reviews, there are opportunities to reconnect!
-- Give us some [feedback](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html)
+<!-- - Give us some [feedback](https://digital-work-lab.github.io/literature-review-seminar/docs/evaluations.html) -->
 - Help us spread the word to other students
 
 ![bg right:50% width:400px](../assets/thank_you.jpg)
