@@ -41,7 +41,8 @@ Our focus is on **standalone reviews**: an "independent paper whose purpose is t
     - Concept-centric writing instead of author-centric summaries
 
 - Establishment of the Theory and Review Department at MISQ, and similar initiatives at JAIS, and JSIS
-- Active discourse covering typological pluralism, systematicity, and transparency across top journals in Information Systems
+- Journals publishing literature reviews: Academy of Management Review, International Journal of Management Reviews, Annual Review of Organizational Psychology and Organizational Behavior
+- Active discourse covering typological pluralism, systematicity, and transparency across top journals
 
 ![bg right:30% width:350px](../assets/WebsterWatson2002.png)
 
