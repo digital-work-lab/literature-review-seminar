@@ -32,7 +32,7 @@ Our focus is on **standalone reviews**: an "independent paper whose purpose is t
 
 ---
 
-## Literature reviews in information systems
+## Literature reviews in the management disciplines
 
 - Early editorial by Webster and Watson (2002, MISQ, > 12.000 citations) with key suggestions
 
@@ -127,142 +127,6 @@ Form groups according to the goals with regard to theory (describing, understand
 
 ---
 
-<!-- 
-# Break
-
-![bg right:60% width:350px](../assets/coffee.jpg)
- -->
-
-<!-- https://unsplash.com/de/fotos/%EC%BB%B5%EC%97%90-%EC%BB%A4%ED%94%BC%EC%9D%98-%EC%8B%9C%EA%B0%84-%EA%B2%BD%EA%B3%BC-%EC%82%AC%EC%A7%84-5iRgh_G0eRY -->
-
-<!-- --- -->
-
-## The RightReview tool
-
-The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a survey of literature review dimensions to identify the right review type for your project.
-
-![image](../assets/iconmonstr-speech-bubble-comments-thin.svg) **Task**: Complete the survey and check your results.
-
-- Do you agree? Are there any dimensions that are unclear?
-
-![bg right:40% width:450px](../assets/right-review-tool.png)
-
----
-
-## What can we publish from a review project?
-
-- Review protocol: [Open Science Foundation (OSF)](https://osf.io/), [PROSPERO](https://www.crd.york.ac.uk/prospero/), conference proceedings
-- Search strategy: [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv)
-- Options to publish standalone review papers:
-
-    - Conference proceedings (e.g., ICIS track for literature reviews)
-    - Specialized journals for literature reviews (e.g., International Journal of Management Reviews, Foundations and Trends® in [Information Systems, Entrepreneurship, Management, Marketing,...])
-    - Journals with theory and review departments (e.g., Journal of the AIS)
-    - Review special issues (e.g., Journal of Strategic Information Systems)
-    - Regular submission to journals
-
-- Review dataset: [OSF](https://osf.io/), [SYNERGY datasets](https://github.com/asreview/synergy-dataset)
-
----
-
-## Review protocols: Their purposes
-
-- Make concrete plans for a review project
-- Pilot-test the feasibility and potential contribution
-- Solicit feedback from peers
-- Publish the protocol to signal your work (e.g., in a registry like PROSPERO or at OSF)
-
-![bg right:40% width:450px](../assets/prospero.png)
-
---- 
-
-## Review protocols: Conceptions
-
-- A plan that is developed a priori and fixed. The protocol regulates researchers and requires them to follow an inflexible set of rules. Fixed protocols are more common in the health sciences and are often associated with theory-testing reviews like meta-analyses.
-- A “living plan”. The protocol is a living document that is used as a work log that records how the review project has evolved over time. Researchers may deviate from their original plan. Protocol development is thus iterative.
-
----
-
-## Review protocols: Structure and contents (I)
-
-- Title (indicating that this is a review protocol)
-- Plain or structured abstract (written at the end) and keywords (up to 5)
-- Introduction section (WHAT and WHY)
-
-    - Generativity statements
-    - Brief introduction of the topic, phenomenon, and theory of interest
-    - Rationale for the review
-    - Review objectives (and research questions)
-    - Scope of the review
-    - Expected contributions of the review
-
-- Background section (WHAT / if applicable)
-
-    - Definition of key concepts/presentation of the framework to be used to organize the review, presentation of the theory at the center of the review, etc.
-
-<!-- - PareWagnerPrester2023: table 1 -->
-
----
-
-## Review protocols: Structure and contents (II)
-
-- Methods
-
-    - Type of review and justification
-    - Search strategy and procedures
-    - Screening strategy and procedures
-    - Quality appraisal strategy and procedures
-    - Data extraction strategy and procedures
-    - Data analysis/synthesis strategy and procedures
-
-- Expected results:
-
-    - Structure of the synthesis (first-level headings)
-    - Proposed presentation of synthesis (e.g., in the form of a table or figure)
-
----
-
-## Review protocols: Structure and contents (III)
-
-- Conclusion
-
-    - Methodological limitations
-    - Potential implications for research, practice, and/or policymaking
-
-- Appendices (WHO, HOW, WHEN)
-
-    - List of contributors and their responsibilities
-    - Detailed timetable
-    - List of software tools used for what purposes
-    - Intended publication plan (protocol publication/registration, strategy for reporting and publishing the full review article)
-    - Other declarations (funding sources, etc.)
-
-
----
-
-# Where can we publish a review?
-
-Journals with (theory and) review departments and/or regular calls for reviews
-
-- Journal of Strategic Information Systems (see [cfps](https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems/about/call-for-papers))
-- Journal of the Association for Information Systems (see [literature review category](https://aisel.aisnet.org/jais/authorinfo.html))
-- European Journal for Information Systems (see [review article category](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tjis20))
-- MIS Quarterly (see [theory and review category](https://misq.umn.edu/categories-lengths#NRA2KOA))
-
-Conferences
-
-- International Conference for Information Systems (see [literature review track](https://icis2024.aisconferences.org/submissions/track-descriptions/))
-
-Journals which publish only review articles
-
-- Academy of Management Review ([link](https://journals.aom.org/journal/amr)), Academy of Marketing Science Review ([link](https://link.springer.com/journal/13162))
-- International Journal of Management Reviews ([link](https://onlinelibrary.wiley.com/journal/14682370)), Human Resource Development Review ([link](https://journals.sagepub.com/home/hrd))
-- Annual Review of Organizational Psychology and Organizational Behavior ([link](https://www.annualreviews.org/content/journals/orgpsych))
-- Foundations and Trends in … [accounting, entrepreneurship, finance, [information systems](https://www.nowpublishers.com/ISY), management, marketing]
-<!-- - Research Synthesis Methods -->
-
-<!-- 
-
 ## Summary
 
 - Literature reviews serve different **goals**—describing, understanding, explaining, and theory testing.
@@ -270,11 +134,9 @@ Journals which publish only review articles
 - We explored the **typology by Paré et al. (2015)** and how different review types align with specific goals.
 - Clearly defining the review goal and type is essential to ensure **internal coherence** with its key dimensions and steps.
 
--->
-
 ---
 
-## Until next session
+## Possible next steps
 
 ![image](../assets/iconmonstr-note-23.svg) **Task**: Explore the literature related to your topic and identify 
 
