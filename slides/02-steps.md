@@ -121,6 +121,8 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 
 ![bg right:40% width:500px](../assets/search-query.png)
 
+> For a comprehensive overview, see [searchsmart.og](https://www.searchsmart.org/).
+
 ---
 
 ## Literature search: The "building-blocks" approach
@@ -222,6 +224,29 @@ Three key metrics are particularly relevant in the context of literature searche
 ![image](../assets/iconmonstr-help-6.svg) **Question**: Would you expect more precise searches in disciplines like Information Systems, Management, or the Social Sciences?
 
 ![bg right:35% width:450px](../assets/SYNERGY.png)
+
+---
+
+## Terminating the search
+
+No formal "stopping rule" exists — reviewers look for **completeness, transparency**, and **justifiability**.
+
+Often guided by the **criterion of saturation**:
+
+- Saturation in understanding *(Boell & Cecez-Kecmanovic, 2014)*
+- "New articles only introduce familiar arguments, methodologies, findings, authors, and studies" *(Levy and Ellis, 2006)*
+- Theoretical saturation *(Wolfswinkel et al., 2013)*
+
+Credibility depends on:
+- **Comprehensiveness** of the applied **search techniques**
+- Alignment with the topic’s **epistemological context**:
+
+    - **High-paradigm disciplines**: database search may suffice  
+    - **Low-paradigm or emergent fields**: require iterative, **citation-based strategies** (e.g., forward/backward search)
+
+
+> “Saturation is a matter of judgment, not of formula.”  
+> — *Boell & Cecez-Kecmanovic (2014)*
 
 ---
 
@@ -576,6 +601,22 @@ $$
 <div class="center-vh">
     <img src="../assets/prisma_checklist.png" alt="PRISMA checklist" style="max-width: 1000px;">
 </div>
+
+---
+
+## Summary
+
+- Literature reviews vary in **steps and structure** — tailored to review type and disciplinary context  
+- We covered the following six steps (in line with Templier & Paré, 2018):
+
+  1. **Problem formulation** – define contribution via gap-spotting or problematization  
+  2. **Literature search** – combine database and citation strategies; justify stopping with saturation  
+  3. **Screening** – apply transparent inclusion/exclusion criteria; ensure reliability  
+  4. **Quality assessment** – assess risk of bias; consider study quality in the interpretation  
+  5. **Data extraction** – adopt inductive or deductive approaches in line with the review type
+  6. **Data analysis** – choose between techniques like thematic analysis, vote counting, or meta-analysis
+
+**Transparency, methodological rigor, and fit with the topic’s epistemology are key to credibility.**
 
 ---
 

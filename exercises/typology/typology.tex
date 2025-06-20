@@ -1,0 +1,211 @@
+\documentclass[11pt]{scrartcl}
+%==============================
+%ZUSÄTZLICH EINGEBUNDENE PAKETE
+%==============================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath,amsthm,amssymb,euscript}
+\usepackage{lmodern}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{txfonts}
+\usepackage{eurosym}
+\usepackage{tabularx}   % For tabularx environment
+\usepackage{booktabs}   % For \toprule, \midrule, \bottomrule
+\usepackage{enumitem}   % For bullet points in cells
+\usepackage{enumitem}
+\usepackage{float}
+\setlist{nosep}
+
+\usepackage{listings, color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.6,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\lstloadlanguages{Java}
+\lstset{
+basicstyle=\footnotesize\ttfamily,
+showspaces=false,
+showtabs=false,
+columns=fixed,
+numbers=left,
+frame=none,
+numberstyle=\tiny,
+breaklines=true,
+showstringspaces=false,
+xleftmargin=1cm,
+tabsize=4}
+
+%tables
+\usepackage{tabularx}
+
+%circles in math mode
+\usepackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+%plotting
+\usepackage{pgfplots}
+
+\usepackage[a4paper]{geometry}
+\geometry{a4paper,tmargin=3.5cm, bmargin=3cm, lmargin=3cm, rmargin=2cm, headheight=13em, headsep=3em, footskip=1cm}
+
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\usepackage{fancyhdr}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+
+\newcommand{\blatt}[1]{\begin{center}{\bf\Large  #1 \vspace*{0.3cm}}\end{center}}
+
+\newtheoremstyle{aufgabenstyle}% name of the style to be used
+  {24pt}% measure of space to leave above the theorem. E.g.: 3pt
+  {6pt}% measure of space to leave below the theorem. E.g.: 3pt
+  {\normalfont}% name of font to use in the body of the theorem
+  {}% measure of space to indent
+  {\bfseries}% name of head font
+  {}% punctuation between head and body
+  {\newline}% space after theorem head; " " = normal interword space
+  {\thmname{#1}\thmnumber{ #2}\thmnote{ (#3)}\newline}% Manually specify head
+
+\theoremstyle{aufgabenstyle}
+\newtheorem{aufgabe}{\large Aufgabe}
+
+%==============================
+%BEGINN DER KOPF- UND FUSSZEILE
+%==============================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{The Literature Review Seminar}
+\fancyhead[L]{Types of Literature Reviews}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+\fancyfoot[C]{\thepage}
+%\fancyfoot[L]{\today}
+%================================
+%BEGINN DES EIGENTLICHEN INHALTES
+%================================
+
+\begin{document}
+
+%\subsection*{Typology (Paré et al. 2015)}
+%For each of the selected exemplar papers, identify the elements of the review protocol. Use references to specific sections/pages if applicable. Add notes or quotations where useful.
+
+\begin{table}[H]
+	\centering
+	% \caption{Typology of literature review types (Grouped by Goal)}
+	\footnotesize
+	\begin{tabularx}{\textwidth}{l p{2.4cm} X X}
+		\toprule
+		\textbf{Goal} & \textbf{Review Type} & \textbf{Characteristics} & \\
+		\midrule
+		Describing & Narrative review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Broad
+			\item Often without a methods section
+			\item Search: Usually selective
+			\item Sources: Conceptual and empirical
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Narrative summary informed by authorial experience, purposeful selection, and deliberate framing of the literature
+		\end{itemize} \\
+		Describing & Descriptive review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Broad
+			\item Search: Representative
+			\item Sources: Empirical and conceptual
+			\item Explicit selection: Yes
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Descriptive analysis of meta-data and contents, often with plots or tables of distributions (e.g., journals, methods, levels of analysis)
+		\end{itemize} \\
+		\midrule
+		Understanding & Scoping review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Broad
+			\item Search: Comprehensive
+			\item Sources: Conceptual and empirical
+			\item Explicit selection: Yes
+%			\item Quality appraisal: Not essential
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Content analysis to map emergent research areas and clarify the range, nature, and extent of research
+		\end{itemize} \\
+		Understanding & Critical review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Broad or narrow
+			\item Search: Selective or representative
+			\item Sources: Conceptual and empirical
+			\item Explicit selection: Yes
+%			\item Quality appraisal: Not essential
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Critical content analysis based on (pre-defined) criteria and constructive suggestions
+		\end{itemize} \\
+		\midrule
+		Explaining & Theoretical review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Broad or narrow
+			\item Search: Comprehensive
+			\item Sources: Conceptual and empirical
+			\item Explicit selection: Yes
+			\item Quality appraisal: No
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Interpretive methods or inductive analysis (e.g., Grounded Theory), often combined with research propositions or a research agenda
+		\end{itemize} \\
+		Explaining & Realist review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Narrow
+			\item Search: Iterative and purposive
+			\item Sources: Conceptual and empirical
+			\item Explicit selection: Yes
+\item Quality appraisal: Yes
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Theory-driven and interpretive approaches (mixed methods), aimed to understand mechanisms
+		\end{itemize} \\
+		\midrule
+		Testing & Qualitative systematic review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Narrow
+			\item Search: Comprehensive
+			\item Sources: Empirical (quant. or qual.)
+			\item Explicit selection: Yes
+			\item Quality appraisal: Yes
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Tabulating evidence according to pre-defined hypotheses or research models (vote counting)
+		\end{itemize} \\
+		Testing & Meta-analysis & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Narrow
+			\item Search: Comprehensive
+			\item Sources: Empirical (quant. only)
+			\item Explicit selection: Yes
+			\item Quality appraisal: Yes
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Meta-analytic techniques (statistical methods), risk-of-bias reports, analyses of publication bias (forest plots), subgroup analyses
+		\end{itemize} \\
+		Testing & Umbrella review & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Scope: Narrow or broad
+			\item Search: Comprehensive
+			\item Sources: Systematic reviews
+			\item Explicit selection: Yes
+			\item Quality appraisal: Yes
+		\end{itemize} & 
+		\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+			\item Synthesis: Narrative synthesis, tabulating evidence aggregated by prior reviews
+		\end{itemize} \\
+		\bottomrule
+	\end{tabularx}
+\end{table}
+
+
+\end{document}

@@ -14,7 +14,7 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 - Familiarize ourselves with different forms of reviews
 - Dissociate goals and review types, along with their dimensions
-- Appreciate the key elements of a review protocol
+- Identify suitable review types for your topics
 
 ---
 
@@ -59,7 +59,7 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 
 <br>
 
-![image](../assets/iconmonstr-help-6.svg) **Task**: Propose a research question that exemplifies each goal.
+![image](../assets/iconmonstr-help-6.svg) **Task**: Decide which goal aligns with your review project and propose a corresponding research question.
 
 ---
 
@@ -68,7 +68,7 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 - Paré et al. (2015) published the established typology of literature reviews, covering 9 distinct types of reviews (plus hybrid reviews)
 - The review types can be aligned with the goals of Rowe (2014), as indicated in the table (Templier and Paré 2018)
 
-![image](../assets/iconmonstr-magnifier-10.svg) **Task**: Familiarize yourself with the types of reviews in the typology of [Paré et al. 2015](https://www.sciencedirect.com/science/article/pii/S0378720614001116).
+![image](../assets/iconmonstr-magnifier-10.svg) **Task**: Familiarize yourself with the [different types of reviews](../exercises/typology/typology.pdf) (primarily based on the typology of Paré and colleagues, 2015).
 
 ![bg right:50% width:550px](../assets/Templier2018-table-1.png)
 
@@ -98,7 +98,7 @@ blockquote {
 
 > [Zhao and Zhu (2014)](https://link.springer.com/article/10.1007/s10796-012-9350-4) and [Carillo and Beaudry (2006)](https://aisel.aisnet.org/cais/vol17/iss1/21/) may also be covered (depending on group size).
 
-![bg right:50% width:550px](../assets/Pare2015-table5.png)
+<!-- ![bg right:50% width:550px](../assets/Pare2015-table5.png) -->
 
 ---
 
