@@ -50,13 +50,15 @@ Examples:
 
 {: .info }
 > Exercise: Review a search strategy
-
-- Hits per sub-query is helpful
-- It is implicit/unclear how the search strings are connected (probably OR)
-- There is no rationale to include AI Aversion but not ML aversion.
-- There is no rationale to require "ML decision" to be an exact match, but Algorithm* Aversion is not required to be an exact match
-- The use of quotes and wildcards is inconsistent
-- For a conference paper, the authors could be required to complete the building-block matrix (or justify the design of the search strategy)
+> 
+> - Hits per sub-query is helpful
+> - It is implicit/unclear how the search strings are connected (probably OR)
+> - There is no rationale to include AI Aversion but not ML aversion.
+> - There is no rationale to require "ML decision" to be an exact match, but Algorithm* Aversion is not required to be an exact match
+> - The use of quotes and wildcards is inconsistent
+> - For a conference paper, the authors could be required to complete the building-block matrix (or justify the design of the search strategy)
+> 
+> **TODO : sketch a solution!!**
 
 Metrics:
 - True positives (TP) = *retrieved* by the search and *relevant*
@@ -64,8 +66,7 @@ Metrics:
 - False negatives (FN) = *not retrieved* by the search and *relevant* ❓
 - True negatives (TN) = *not retrieved* by the search but *irrelevant* ❓
 
-- Check the Ringeval search. Surprising: the search strategy was stated without any trial-and-error/iterations. Explain the linked-list format, explain the Concept-Synonym-group approach
-
+<!-- - Check the Ringeval search. Surprising: the search strategy was stated without any trial-and-error/iterations. Explain the linked-list format, explain the Concept-Synonym-group approach -->
 
 - It is instructive to know these metrics
 - The key objective is to identify all relevant papers, but also to do that efficiently

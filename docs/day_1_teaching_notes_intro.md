@@ -37,6 +37,9 @@ Potential follow-up questions:
 
 My background: phd, publications, postdoc and phd seminar, guy pare: mentor and SE, colrev, jit award
 
+{: .info }
+> Why focus on literature review? (My family often asks me... / when will I do "real" research?)
+
 ## Why literature reviews are exciting (I)
 
 This slide is more on how LRs help us to react to rising demands (the next more on active contributions)

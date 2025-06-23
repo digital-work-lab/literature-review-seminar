@@ -48,6 +48,7 @@ PDF in VC - 25 min, take notes
 > 
 > - Discuss reading strategy (skim headings/figures etc)
 > - Ask students to take notes: which parts (figures/statements) led to your decisions?
+> - Ask students to Fill out the table.
 > 
 > **Exercise**
 > 
@@ -56,7 +57,7 @@ PDF in VC - 25 min, take notes
 > 
 > **Solution**:
 > 
-> Highlight particular pages/figures/goals, everyone selects one, after 3 minutes, we switch (prepare a table to fill out)
+> Highlight particular pages/figures/goals
 
 Maybe even include 1-2 papers that are not reviews?
 
@@ -67,15 +68,26 @@ Take note of the central contributions (e.g., a figure / short summary)
 Discuss results in groups of goals (testing - explaining, understanding, describing)
 Ask students about the differences between types in the groups (what are the key characteristics you noticed?)
 
-- Otte-Trojel2016: Realist review
-- King2006b: Meta-analysis
-- Melville2004: Theoretical
-- Kitsiou2017: Umbrella
-- Belanger2011: Critical - highlight that privacy is a multilevel construct but rarely studied as such
-- Petter2008: Qualitative systematic
-- Powell2004: Scoping
+Describing:
+
 - Shim2002: Narrative
 - Seuring2013: Descriptive
+
+Understanding:
+
+- Powell2004: Scoping
+- Belanger2011: Critical - highlight that privacy is a multilevel construct but rarely studied as such
+
+Explaining:
+
+- Melville2004: Theoretical
+- Otte-Trojel2016: Realist review
+
+Testing:
+
+- King2006b: Meta-analysis
+- Kitsiou2017: Umbrella
+- Petter2008: Qualitative systematic
 
 Possible additions:
 - Zhao2014: Scoping
