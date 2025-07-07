@@ -116,7 +116,7 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 ## Literature search: The database search
 
 - Most common search strategy in the management disciplines (58% according to Hiebl, 2023)
-- Overview of databases: [searchsmart.og](https://www.searchsmart.org/), Knackstedt and Winkelmann (2006), Hiebl (2023)
+- Overview of databases: [searchsmart.org](https://www.searchsmart.org/), Knackstedt and Winkelmann (2006), Hiebl (2023)
 - Effective search strategies for database searches combine search terms with Boolean operators
 
 ![bg right:40% width:500px](../assets/search-query.png)
