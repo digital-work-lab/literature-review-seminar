@@ -121,7 +121,7 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 
 ![bg right:40% width:500px](../assets/search-query.png)
 
-> For a comprehensive overview, see [searchsmart.og](https://www.searchsmart.org/).
+> For a comprehensive overview, see [searchsmart.org](https://www.searchsmart.org/).
 
 ---
 
