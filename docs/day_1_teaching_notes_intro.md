@@ -14,7 +14,7 @@ search_exclude: true
 > **Activate/Show interest in topics**
 > 
 > Get up, as, on the whiteboard what your **topics** are.
-> Ask follow-up questions on the the topics.
+> Ask follow-up questions on the topics.
 > 
 > - What is your topic and research question for this seminar?
 > - What are your expectations for the seminar?

@@ -116,7 +116,7 @@ For **researchers**, meta-analyses and systematic reviews may indicate areas whe
 Meta-analyses are able to address common errors that cannot be eliminated in empirical studies (e.g., measurement error or publication bias).
 
 
-<!-- TODO : add the hierarychy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers) -->
+<!-- TODO : add the hierarchy of evidence (compare to IS where practitioners may often use practitioner journal/opinion papers) -->
 
 ---
 

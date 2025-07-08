@@ -669,7 +669,6 @@ Universität
 Wirtschaftsinformatik
 und
 Gerit
-Disseration
 HEC
 Montréal
 JAIS
@@ -679,7 +678,6 @@ Montréal
 Ph
 CoLRev
 TODO
-hierarychy
 genAI
 al
 et
