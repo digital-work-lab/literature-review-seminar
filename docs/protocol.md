@@ -72,7 +72,7 @@ Methods:
 
 Expected results:
 
-- Structure of the synthesis (first-level headings)
+- Structure of the synthesis (second-level headings)
 - Proposed presentation of synthesis (e.g., in the form of a table or figure)
 
 Conclusion / Short limitations, implications for research and practice
