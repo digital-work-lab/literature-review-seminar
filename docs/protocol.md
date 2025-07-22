@@ -1,4 +1,4 @@
----
+e---
 layout: default
 title: Review Protocol
 has_toc: true
@@ -67,7 +67,7 @@ Methods:
 - Description of search strategy and procedures (in line with review type)
 - Description of screening criteria
 - Quality appraisal (if applicable)
-- Data extraction procedures explicit and aligned with the review type
+- Data extraction procedures are explicit and aligned with the review type
 - Data analysis and synthesis approach described
 
 Expected results:
@@ -88,9 +88,9 @@ Appendix:
 References (quality and completeness)
 
 {: .info }
-> We do not expect you to complete the whole literature review, including the search, screen, data extraction, and analysis.
+> We do not expect you to complete the whole literature review, including the search, screening, data extraction, and analysis.
 > Instead, the review protocol should demonstrate that your plans for each step are feasible and promising.
-> To this end, it can be helpful to run the search, and to pilot-test the screen, data extraction and analysis with a few papers.
+> To this end, it can be helpful to run the search and to pilot-test the screen, data extraction, and analysis with a few papers.
 
 Prior work must be cited appropriately. We run a plagiarism check for all protocols.
 
@@ -101,6 +101,8 @@ Submission: Upload available in the VC course.
 Length: 12 minutes ( +- 10% )
 
 Slides: 2-3 min/slide
+
+Language: English or German
 
 ## Resources
 
