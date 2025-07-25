@@ -1,4 +1,4 @@
-# Grading Sheet: Review Protocol and Presentation
+# Grading Sheet: Literature Review Seminar
 
 ## General Information
 
@@ -78,15 +78,26 @@
 - [ ] Feasibility:
 - [ ] Contribution/relevance:
 
+**Questions for presentation**:
+
+- 
+- 
+- 
+
 \newpage
 
 ## Summary and Grade
 
-- **Summary**:
+**Summary**:
 
 ### Grades
 
 - **Protocol grade**:
-- **Questions for presentation**:
 - **Presentation grade**:
 - **Final grade**:
+
+\vspace{2cm}
+\begin{tabular}{@{}p{6cm}@{\hspace{2cm}}p{6cm}@{}}
+\hrulefill & \hrulefill \\
+Date & Signature \\
+\end{tabular}
