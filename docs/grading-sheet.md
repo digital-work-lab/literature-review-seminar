@@ -1,12 +1,9 @@
----
-name: "Name here"
-student_id: "Student ID here"
----
-
 # Grading Sheet: Review Protocol and Presentation
 
 ## General Information
 
+- **Name**:
+- **Student ID**: 
 - **Title**:
 - **Abstract (clarity)**:
 - **Keywords**:
@@ -81,9 +78,9 @@ student_id: "Student ID here"
 - [ ] Feasibility:
 - [ ] Contribution/relevance:
 
----
+\newpage
 
-## Summary and Grades
+## Summary and Grade
 
 - **Summary**:
 
