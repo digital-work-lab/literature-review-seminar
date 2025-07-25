@@ -104,16 +104,18 @@ Slides: 2-3 min/slide
 
 Language: English or German
 
+{: .info }
+> Imagine presenting your review protocol at a conference while seeking co-authors. Make a compelling case that the project is promising—demonstrating strong internal coherence, methodological transparency and rigor, grounding in prior research, practical feasibility, and the potential for significant scholarly contribution.
+
 ## Resources
 
-{: .info }
-> **Template**
-> 
-> For the protocol, you can use the template for [Markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}), [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx){: target="_blank"}, or adapt existing LaTeX templates.
->
-> Citation style: APA (6 or later)
-> 
-> For the presentation, you can use the [PowerPoint](../assets/UB-Folienmaster.pptx) or [Marp](https://github.com/digital-work-lab/slides_template){: target="_blank"} template.
+**Template**
+
+For the protocol, you can use the template for [Markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}), [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx){: target="_blank"}, or adapt existing LaTeX templates.
+
+Citation style: APA (6 or later)
+
+For the presentation, you can use the [PowerPoint](../assets/UB-Folienmaster.pptx) or [Marp](https://github.com/digital-work-lab/slides_template){: target="_blank"} template.
 
 **Example protocols**
 
