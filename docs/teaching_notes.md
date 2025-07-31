@@ -73,6 +73,25 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 
 ## VC: reminder
 
+> Literature Review Seminar: Evaluation und Feedback
+> 
+> Liebe Studierende,
+> 
+> ich hoffe, Sie sind gut in die Klausurenphase gestartet.
+> 
+> Erinnerung:
+> Sie haben die Einladung zur Evaluation des Literature Review Seminars per E-Mail erhalten. Ich würde mich sehr freuen, wenn Sie sich einen Moment Zeit nehmen, um mir Feedback zu geben. Ihre Rückmeldungen helfen mir, das Seminar kontinuierlich weiterzuentwickeln.
+> 
+> Die Noten sind inzwischen in FlexNow eingetragen. Für individuelles Feedback stehe ich Ihnen gerne nach vorheriger Terminvereinbarung zur Verfügung:
+> 👉 https://calendly.com/gerit-wagner/30min
+> 
+> Ich wünsche Ihnen weiterhin viel Erfolg – und danke für das tolle Seminar!
+> 
+> Mit besten Grüßen
+> Gerit Wagner
+
+<!--
+-->
 > Subject: Erinnerung: Bitte nehmen Sie an der Evaluation des Literature Review Seminars teil 📋
 > 
 > Liebe Studierende,
