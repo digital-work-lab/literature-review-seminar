@@ -132,7 +132,7 @@ General questions for reflection:
 
 **Finalizing grades**
 
-Create PDFs from grading sheets, print, sign, archive in [14.04](https://nc-2272638881871040784.nextcloud-ionos.com/index.php/apps/files/files/72?dir=/10-lab/14_grades/03_seminars).
+Create PDFs from grading sheets, print, sign, archive in [14.04](https://nc-2272638881871040784.nextcloud-ionos.com/index.php/apps/files/files/72?dir=/10-lab/14_grades/03_seminars){: target="_blank"}.
 
 TODO: store physcial copies in archive??
 
