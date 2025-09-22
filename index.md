@@ -78,8 +78,8 @@ Introductory literature is available for [goals and steps (day 1)](docs/day_1.ht
 
 |            | Session                                | Date and Time              | Location    |
 | ---------- | -------------------------------------- | ---------------------------| ----------- |
-| Session 1  | [Goals and steps](docs/day_1.html)     | May 8, 8.15-11.45          | WE5 01.094  |
-| Session 2  | [Qualities and tools](docs/day_2.html) | May 15, 8.15-16.45         | WE5 01.094  |
+| Session 1  | [Goals and steps](docs/day_1.html)     | November 7, 8.15-11.45     | WE5 01.004  |
+| Session 2  | [Qualities and tools](docs/day_2.html) | November 14, 8.15-16.45    | WE5 04.003  |
 
 <!-- 
 | Semester | Date and location | Status |
@@ -99,8 +99,8 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 
 | Deliverable      | Date                                                                                                                           |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Submission       | July 17, 2025 (see [vc submission](https://vc.uni-bamberg.de/mod/assign/view.php?id=1986572))                                  |
-| Presentation     | July 25, 2025 (12-14.30, WE5/1.094) (see [vc](https://vc.uni-bamberg.de/course/view.php?id=71960) for groups and slide upload) |
+| Submission       | January 10, 2026 (see [vc submission](https://vc.uni-bamberg.de/mod/assign/view.php?id=1986572))                                  |
+| Presentation     | January 15, 2026 (12-14.30, WE5/1.094) (see [vc](https://vc.uni-bamberg.de/course/view.php?id=71960) for groups and slide upload) |
 
 ## Instructor
 
