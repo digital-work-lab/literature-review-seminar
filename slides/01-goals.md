@@ -16,6 +16,16 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 - Dissociate goals and review types, along with their dimensions
 - Appreciate the key elements of a review protocol
 
+![bg right:42% width:400px](../assets/PollockHasanoffBarkeEtAl2025_wordcloud.png)
+
+<!--
+PollockHasanoffBarkeEtAl2025 identify over 1,000 terms (types of?) literature reviews
+
+It can be challenging to pick the right one.
+Not all are equally well respected in different fields.
+Positioning of the review type if often an issue in the peer review process.
+-->
+
 ---
 
 ## Forms of literature reviews
