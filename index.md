@@ -78,7 +78,7 @@ Introductory literature is available for [goals and steps (day 1)](docs/day_1.ht
 
 |            | Session                                | Date and Time              | Location    |
 | ---------- | -------------------------------------- | ---------------------------| ----------- |
-| Session 1  | [Goals and steps](docs/day_1.html)     | November 7, 8.15-11.45     | WE5 01.004  |
+| Session 1  | [Goals and steps](docs/day_1.html)     | November 7, 8.15-16.45     | WE5 01.004  |
 | Session 2  | [Qualities and tools](docs/day_2.html) | November 14, 8.15-16.45    | WE5 04.003  |
 
 <!-- 
