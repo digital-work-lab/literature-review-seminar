@@ -833,3 +833,7 @@ searchsmart
 justifiability
 Forschungsförderung
 ProfKarriere
+hrulefill
+hspace
+vspace
+newpage
