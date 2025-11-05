@@ -68,6 +68,20 @@ We actively seek student feedback to improve the seminar. Students can decide wh
 [Provide feedback](https://github.com/digital-work-lab/literature-review-seminar/edit/main/docs/feedback.md){: .btn .btn-green target="_blank"}
 {: .text-center}
 
+### Summer semester 2025 (IDIS)
+
+> Reading circle in der ersten Einheit war eine gute Übung. Gut strukturiert. Immer anschaulich mit Beispielen erklärt. Gute und individuelle Hilfe bei eigenem Thema inkl. Denkanstöße, die auch im weiteren Prozess weiterhelfen. Gute Diskussionen. Tolle Lernatmosphäre (selten so viel mitgenommen aus einem Modul/Seminar).
+
+> Vielen Dank :) Super aufbereitete Materialien, Webseite. Tolle Übersicht über Tools. Angenehmer Teaching Mode mit viel Abwechslung/Aktivitätsphasen/Raum zum Mitarbeiten. Angenehme Atmosphäre. Super, dass es als Ziel vorgeschlagen wird, im ersten Schritt ein Review Protocol zu schreiben.
+
+> Sehr umfangreicher + spannend gestalteter Einblick in Arten, Methoden und Tools für Lit. Reviews! Abwechslungsreich gestaltet. Sympatische & nahbare Art (hat es leicht gematcht, (Nach)fragen zu stellen und zu diskutieren). Die Übung am 2. Tag mit den 4 Gruppen et. zu ausführlich. Mehr, dafür kürzere Pausen!
+
+### Summer semester 2025 (HWR Berlin)
+
+> I liked the open discussion in between the slides which made it a really interactive experience.
+
+>  It was insightful to know about different types of review, and to differentiate them based on our purpose. I wou have liked a more hands-on and practical tutorial to do literature reviews, and methods to save time.
+
 ### Winter semester 2024/25
 
 > A really great seminar if you already have some topics that interest you and want to broaden your methodological skills.  
