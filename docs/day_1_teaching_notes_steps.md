@@ -97,8 +97,8 @@ Illustrate "Percentage agreement, Agreement by chance" with an example on the bl
 {: .info }
 > **Exercise**
 > 
-> Worksheet is linked on the slides.
-> Have students analyze, code in groups
+> Based on the [worksheet](../exercises/inductive_coding/day_1_steps_data_Inductive-coding-Worksheet.pdf) (linked on the slides).
+> Have students analyze, code in groups.
 
 Q: What are the key processes across extracted documents?
 

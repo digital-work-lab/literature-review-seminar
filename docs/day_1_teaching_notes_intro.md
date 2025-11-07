@@ -74,7 +74,12 @@ literature review; systematic review; umbrella; meta-analysis; overview of revie
 - Especially at group/organizational levels where research designs are much more limited (no experiments)
 - Especially macro-level theories. Similarly: RBV 
 
-## Protocol/Outcome
+## Challenges
 
-- Set date for presentation
-- Show LR-Seminar website and the **Review Protocol** section with criteria/template
+- Covid: statistics reported in th  link: 1,000,000 papers published over 2 years (approx 820 days) = 1,200 papers per day.
+
+{: .info }
+> **Protocol/Outcome**
+>
+> - Set date for presentation
+> - Show LR-Seminar website and the **Review Protocol** section with criteria/template

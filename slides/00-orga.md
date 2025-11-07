@@ -75,8 +75,6 @@ Literature reviews can make theoretical contributions that could never be accomp
 
 Example: Media Synchronicity Theory (Dennis et al. 2006)
 
-<!-- ![bg right:35% width:350px](../assets/word-cloud-literature-review-terms.png) -->
-
 <div class="center-vh">
   <img src="../assets/media_synchronicity_theory.png" alt="center" style="max-width: 50%;">
 </div>
@@ -129,7 +127,7 @@ There are many open challenges, such as
 
   - Considering differences and synergies between disciplines in the design of methods and tools,
   - Design of LR software to manage data, AI, and collaboration,
-  - Coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review))
+  - Coping with massive input and addressing urgent demands (e.g., [COVID reviews](https://github.com/greenelab/covid19-review) - and [statistics](https://greenelab.github.io/covid19-review/))
 
 ---
 
