@@ -100,8 +100,8 @@ Participants are expected to select a topic of their choice (**open-topic**) and
 
 | Deliverable      | Date                                                                                                                           |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Submission       | January 12, 2026 (see [vc submission](https://vc.uni-bamberg.de/mod/assign/view.php?id=1986572))                               |
-| Presentation     | January 20, 2026 (TBA) (see [vc](https://vc.uni-bamberg.de/course/view.php?id=71960) for groups and slide upload)              |
+| Submission       | January 12, 2026 (see [vc submission](https://vc.uni-bamberg.de/mod/assign/view.php?id=2088403))                               |
+| Presentation     | January 20, 2026 (TBA) (see [vc](https://vc.uni-bamberg.de/course/view.php?id=76111) for groups and slide upload)              |
 
 <!-- 12-14.30, WE5/1.094 -->
 
