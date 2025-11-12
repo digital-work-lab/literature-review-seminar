@@ -47,6 +47,28 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 > 
 > Gerit Wagner
 
+## Post between sessions
+
+> Preparation for Friday’s Session
+> 
+> Dear all,
+> 
+> I hope you are doing well.
+> 
+> In our last session, we covered two essential elements for our upcoming work on your review protocol: Types of reviews and the steps of a review. These foundations will be directly relevant to the protocol you will develop as part of the seminar.
+> 
+> To make the most of our discussion on Friday, I invite you to prepare a first draft of your review protocol. At this point, a bullet-point draft seems to be the most suitable format. What matters is that you reflect on the choices outlined here:
+> 
+> https://digital-work-lab.github.io/literature-review-seminar/output/01-goals.html#16
+> 
+> Bringing this draft to Friday’s session will allow us to dive directly into discussion, feedback and refinement — making the session more productive for everyone.
+> 
+> I look forward to our next session at the end of the week!
+> 
+> Best regards
+> 
+> Gerit
+
 ## VC Post announcing evaluations
 
 > **Literaturseminar: Evaluation & Feedback**
