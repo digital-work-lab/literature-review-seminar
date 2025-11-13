@@ -1,0 +1,150 @@
+\documentclass[11pt]{scrartcl}
+%==============================
+%ZUSÄTZLICH EINGEBUNDENE PAKETE
+%==============================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath,amsthm,amssymb,euscript}
+\usepackage{lmodern}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{txfonts}
+\usepackage{eurosym}
+\usepackage{tabularx}   % For tabularx environment
+\usepackage{booktabs}   % For \toprule, \midrule, \bottomrule
+\usepackage{enumitem}   % For bullet points in cells
+\usepackage{enumitem}
+\usepackage{float}
+\setlist{nosep}
+
+\usepackage{listings, color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.6,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\lstloadlanguages{Java}
+\lstset{
+basicstyle=\footnotesize\ttfamily,
+showspaces=false,
+showtabs=false,
+columns=fixed,
+numbers=left,
+frame=none,
+numberstyle=\tiny,
+breaklines=true,
+showstringspaces=false,
+xleftmargin=1cm,
+tabsize=4}
+
+%tables
+\usepackage{tabularx}
+
+%circles in math mode
+\usepackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+%plotting
+\usepackage{pgfplots}
+
+\usepackage[a4paper]{geometry}
+\geometry{a4paper,tmargin=3.5cm, bmargin=3cm, lmargin=3cm, rmargin=2cm, headheight=13em, headsep=3em, footskip=1cm}
+
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\usepackage{fancyhdr}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+
+\newcommand{\blatt}[1]{\begin{center}{\bf\Large  #1 \vspace*{0.3cm}}\end{center}}
+
+\newtheoremstyle{aufgabenstyle}% name of the style to be used
+  {24pt}% measure of space to leave above the theorem. E.g.: 3pt
+  {6pt}% measure of space to leave below the theorem. E.g.: 3pt
+  {\normalfont}% name of font to use in the body of the theorem
+  {}% measure of space to indent
+  {\bfseries}% name of head font
+  {}% punctuation between head and body
+  {\newline}% space after theorem head; " " = normal interword space
+  {\thmname{#1}\thmnumber{ #2}\thmnote{ (#3)}\newline}% Manually specify head
+
+\theoremstyle{aufgabenstyle}
+\newtheorem{aufgabe}{\large Aufgabe}
+
+%==============================
+%BEGINN DER KOPF- UND FUSSZEILE
+%==============================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Peer Review of Protocol Discussion Prompts}
+\fancyhead[L]{Literature Review Seminar}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+\fancyfoot[C]{\thepage}
+%\fancyfoot[L]{\today}
+%================================
+%BEGINN DES EIGENTLICHEN INHALTES
+%================================
+
+\begin{document}
+
+%\subsection*{Typology (Paré et al. 2015)}
+%For each of the selected exemplar papers, identify the elements of the review protocol. Use references to specific sections/pages if applicable. Add notes or quotations where useful.
+
+\section*{Discussion Prompts: Peer Review of Protocols}
+
+\textbf{TL;DR: You are the reviewer.}  
+Ask your partner (the author) to briefly summarize her protocol.  
+After the summary, \textbf{ask the questions below}—choose the most relevant ones or add your own.
+
+\textbf{Reminder}: Be a \textbf{critical but constructive} reviewer.  
+Maintain a professional and positive tone.
+
+\paragraph{1. Review Type \& Goal Fit}
+\begin{itemize}
+	\item What is the specific topic, research question, and/or objective?
+	\item What is your review type? Is it aimed at descriptive, understanding, explaining, testing?
+	\item Why this type? How does it fit your research question?
+	\item Is the review goal consistent with the chosen review type?
+	\item How does the review type influence the methodological approach (e.g., inductive vs.\ deductive, qualitative vs.\ quantitative synthesis)?
+\end{itemize}
+
+\paragraph{2. Methodological Steps}
+\begin{itemize}
+	\item \textbf{Problem formulation}: How is the scope defined and justified?
+	\item \textbf{Search strategy}: Which databases and techniques will be used? Why these?
+	\item \textbf{Screening}: What are your inclusion and exclusion criteria? Are they appropriate?
+	\item \textbf{Quality assessment}: Will you assess quality or bias? How?
+	\item \textbf{Data extraction and analysis}:  
+	Are you using inductive coding, vote counting, or meta-analysis?  
+	Does the analysis align with the review type and research question?
+	\item How will transparency and replicability be ensured (e.g., PRISMA, protocol registration)?
+\end{itemize}
+
+\paragraph{3. Contribution}
+\begin{itemize}
+	\item What type of contribution is expected (conceptual, theoretical, methodological, practical)?
+	\item How will the results advance understanding (e.g., theory building, clarification of inconsistencies)?
+	\item Are the contributions feasible given the scope and methods? Should the scope be adapted?
+	% \item What makes the planned contribution \emph{novel} or \emph{impactful}?
+	\item Did you find published reviews on the topic? If so, how does your work complement them?
+\end{itemize}
+
+\paragraph{4. Internal Coherence Check}
+\begin{itemize}
+	\item Do the goal, review type, methods, and contribution form a coherent whole?
+	\item Would reviewers see a clear logic from research question to outcomes?
+\end{itemize}
+
+\subsection*{Reflection Prompts}
+\begin{itemize}
+	\item \textbf{Strengths} highlighted by your partner.
+	\item \textbf{Aspects to reconsider or clarify}.
+	\item \textbf{Next steps} for refining your protocol.
+\end{itemize}
+
+\end{document}
