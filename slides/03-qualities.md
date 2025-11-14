@@ -15,21 +15,6 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 ---
 
-## Exercise: Peer Review of Protocols
-
-<!-- TOOD: refer to two roles? -->
-
-In pairs, discuss and refine your **literature review protocol**. Focus on the following elements and their internal coherence: 
-**review type → methodological steps → expected contribution**.
-
-📄 *Detailed discussion prompts are provided on the [separate handout](../exercises/protocol_discussion/protocol_discussion.pdf).*
-
-### 🕒 Structure (2×20 minutes)
-- **15 min Discussion**: Start with a brief overview of your protocol, then discuss key elements in depth
-- **5 min Reflection**: Take notes on potential changes and refinements
-
-### 💬 Reminder
-> Be a **critical but constructive** reviewer. Maintain a positive tone and challenge methodological choice.
 
 <!-- ![bg right:35% width:250px](../assets/interview_exercise.png) -->
 
@@ -187,6 +172,22 @@ Literature reviews can be expected to be more impactful if they
 - are **more transparent** in explicating their methods
 - make a compelling and innovative **theoretical or empirical contribution**
 - provide more comprehensive **suggestions for future research**
+
+## Exercise: Peer Review of Protocols
+
+<!-- TOOD: refer to two roles? -->
+
+In pairs, discuss and refine your **literature review protocol**. Focus on the following elements and their internal coherence: 
+**review type → methodological steps → expected contribution**.
+
+📄 *Detailed discussion prompts are provided on the [separate handout](../exercises/protocol_discussion/protocol_discussion.pdf).*
+
+### 🕒 Structure (2×20 minutes)
+- **15 min Discussion**: Start with a brief overview of your protocol, then discuss key elements in depth
+- **5 min Reflection**: Take notes on potential changes and refinements
+
+### 💬 Reminder
+> Be a **critical but constructive** reviewer. Maintain a positive tone and challenge methodological choice.
 
 ---
 
