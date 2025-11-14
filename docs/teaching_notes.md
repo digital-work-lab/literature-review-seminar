@@ -24,7 +24,7 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [x] Update dates and rooms for sessions
 - [x] Update the rating average in the badge (change the badge-link on index.md) and participation
 - [x] Create VC, link (and update password) - deactivate remaining weeks, add an upload at the end and a note on the deadline.
-- [ ] Add submission form in VC (see [example](../assets/Seminar-VC-Abgabe.pdf)): Aufgabe `Protocol submission`
+- [x] Add submission form in VC (see [example](../assets/Seminar-VC-Abgabe.pdf)): Aufgabe `Protocol submission`
 - [x] Review the [pedagogical concept](pedagogy.html) in preparation of the seminar
 - [x] Students should have a very specific topic before the first session (to make sure they can ask the right questions and start to develop the protocol)
 - [x] Upload Pare et al. 2015, Thorndike et al. 2014, van Blarigan et al. 2019
