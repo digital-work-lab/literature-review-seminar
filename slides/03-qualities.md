@@ -83,8 +83,6 @@ Studying exemplary literature reviews and analyzing the qualities that make them
 ![image](../assets/iconmonstr-idea-13.svg) Form  a review panel to evaluate the review papers. Provide recommendations on which papers to accept and which to reject, along with justifications for each decision.
 -->
 
----
-
 ## What makes a review successful?
 
 <br>
@@ -172,6 +170,8 @@ Literature reviews can be expected to be more impactful if they
 - are **more transparent** in explicating their methods
 - make a compelling and innovative **theoretical or empirical contribution**
 - provide more comprehensive **suggestions for future research**
+
+---
 
 ## Exercise: Peer Review of Protocols
 
