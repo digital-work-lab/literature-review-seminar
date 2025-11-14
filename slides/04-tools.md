@@ -24,7 +24,7 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 
 # Typical setups
 
-Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](http://systematicreviewtools.com/) alone listed over 250 tools.
+Overall, there are many tools for literature reviews. The [systematicreviewtoolbox.com](http://systematicreviewtools.com/) alone lists over 340 tools.
 
 There are two major approaches:
 
@@ -264,7 +264,16 @@ Note: the tutorial was extracted to a separate page (see link: https://colrev-en
 
 ![bg right:40% width:350px](../assets/start-demo.png)
 
+
 ---
+
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
 
 # AI, genAI and the future(s) of literature reviews
 
@@ -273,6 +282,8 @@ Note: the tutorial was extracted to a separate page (see link: https://colrev-en
 ![image](../assets/iconmonstr-help-6.svg) **Question**: How would you use genAI-tools in a literature review?
 
 ![bg right:45% width:500px](../assets/gpt-4.jpg)
+
+> Based on [Wagner et al. 2021](https://journals.sagepub.com/doi/10.1177/02683962211048201) and follow-up work (currently under review).
 
 ---
 
